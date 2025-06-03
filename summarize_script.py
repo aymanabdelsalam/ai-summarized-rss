@@ -46,7 +46,7 @@ SOURCE_RSS_FEEDS = {
 }
 OUTPUT_RSS_FILE = "summarized_news.xml"
 MAX_ITEMS_PER_SOURCE_FEED = 5 # Process top 5 from each source
-HOURS_WINDOW = 6
+HOURS_WINDOW = 2
 
 # --- Helper Functions ---
 def get_aware_datetime(time_struct):
