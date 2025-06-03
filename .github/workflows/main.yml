@@ -5,7 +5,7 @@ on:
     # Runs every 6 hours (adjust as needed)
     # Use crontab syntax. Online tools can help generate this.
     # Example: '0 */6 * * *' means at minute 0 past every 6th hour.
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Allows manual triggering from GitHub Actions tab
 
 jobs:
