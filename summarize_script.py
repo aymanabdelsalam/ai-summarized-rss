@@ -161,7 +161,7 @@ def main():
         rss_item = PyRSS2Gen.RSSItem(
             title=f"{top_article['title']}", # Keep original title, summary is in description
             link=top_article['link'],
-            description=f"[AI Summary by Gemini]: {ai_summary}\n\nSource: {top_article['source_feed']}",
+            description=f"{ai_summary}\n\nSource: {top_article['source_feed']}",
             guid=PyRSS2Gen.Guid(top_article['link']),
             pubDate=top_article['pub_date']
         )
