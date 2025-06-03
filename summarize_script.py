@@ -240,7 +240,7 @@ def main():
         rss_item = PyRSS2Gen.RSSItem(
             title=f"{top_article['title']}",
             link=top_article['link'],
-            description=f"\n{ai_summary}\n\المصدر: {top_article['source_feed']}", # Newlines for better readability of multi-para summary
+            description=f"\n{ai_summary}\n\n المصدر: {top_article['source_feed']}", # Newlines for better readability of multi-para summary
             guid=PyRSS2Gen.Guid(top_article['link']),
             pubDate=top_article['pub_date']
         )
