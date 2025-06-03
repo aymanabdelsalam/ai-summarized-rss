@@ -4,19 +4,21 @@ import PyRSS2Gen
 import datetime
 import pytz # For timezone-aware datetime objects
 import os
+import requests # For fetching web page content
+from bs4 import BeautifulSoup # For parsing HTML
 
 # --- Configuration ---
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
-model = None # Initialize model to None
+model = None 
 if GEMINI_API_KEY:
     try:
         genai.configure(api_key=GEMINI_API_KEY)
         generation_config = {
-            "temperature": 0.6,
+            "temperature": 0.7, # Might need adjustment for longer summaries
             "top_p": 1,
             "top_k": 1,
-            "max_output_tokens": 150,
+            "max_output_tokens": 800, # Increased for multi-paragraph summaries (max for gemini-1.5-flash is 8192, pro is much higher but check current free tier limits)
         }
         safety_settings = [
             {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
@@ -25,26 +27,25 @@ if GEMINI_API_KEY:
             {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
         ]
         model = genai.GenerativeModel(
-            model_name="gemini-1.5-flash-latest", # Or "gemini-pro" if preferred & within free tier limits
+            model_name="gemini-1.5-flash-latest", # Flash is good for speed/cost.
             generation_config=generation_config,
             safety_settings=safety_settings
         )
         print("Gemini model initialized successfully.")
     except Exception as e:
         print(f"Error initializing Gemini model: {e}")
-        model = None # Ensure model is None if initialization fails
+        model = None
 else:
-    print("Warning: GEMINI_API_KEY not found in environment variables. Summarization will be skipped.")
+    print("Warning: GEMINI_API_KEY not found in environment variables. Summarization will be skipped or limited.")
 
 SOURCE_RSS_FEEDS = {
     "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
     "Reuters World": "http://feeds.reuters.com/Reuters/worldNews",
     "NPR News": "https://feeds.npr.org/1001/rss.xml",
     "Google News Tech": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en"
-    # Add reliable AP feed if you find one. Some previous examples might be unstable.
 }
-OUTPUT_RSS_FILE = "summarized_news.xml" # This file will be created in the repo root
-MAX_ITEMS_PER_SOURCE_FEED = 5
+OUTPUT_RSS_FILE = "summarized_news.xml"
+MAX_ITEMS_PER_SOURCE_FEED = 5 # Process top 5 from each source
 HOURS_WINDOW = 6
 
 # --- Helper Functions ---
@@ -58,38 +59,97 @@ def get_aware_datetime(time_struct):
             return None
     return None
 
-def summarize_text_with_gemini(text_to_summarize):
+def fetch_full_article_text(url):
+    """
+    Fetches and extracts text content from an article URL.
+    This is a generic extractor and its success varies by website structure.
+    """
+    try:
+        headers = { # Common headers to mimic a browser
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+        }
+        print(f"Fetching full article content from: {url}")
+        response = requests.get(url, headers=headers, timeout=15) # 15-second timeout
+        response.raise_for_status() # Raises an HTTPError for bad responses (4XX or 5XX)
+
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Generic text extraction:
+        # Try to find common article containers first. This list can be expanded.
+        possible_containers = soup.find_all(['article', 'main', 'div[class*="content"]', 'div[class*="article-body"]', 'div[id*="article"]'])
+
+        text_parts = []
+        if possible_containers:
+            for container in possible_containers:
+                paragraphs = container.find_all('p')
+                for p in paragraphs:
+                    text_parts.append(p.get_text(separator=' ', strip=True))
+        else: # Fallback if no specific containers found
+            paragraphs = soup.find_all('p')
+            for p in paragraphs:
+                text_parts.append(p.get_text(separator=' ', strip=True))
+
+        full_text = "\n\n".join(text_parts)
+
+        if not full_text.strip():
+            print(f"  Could not extract significant text from {url} using generic paragraph search.")
+            return None
+
+        print(f"  Successfully extracted ~{len(full_text)} characters from {url}.")
+        # Truncate very long texts to avoid exceeding Gemini's input token limits (adjust as needed)
+        # Gemini 1.5 Flash has a large context window, but still good to be mindful.
+        # A typical token is ~4 chars. 1,000,000 token limit is huge.
+        # Let's cap it at something reasonable like 20000 characters for input.
+        max_chars_for_summary = 20000 
+        if len(full_text) > max_chars_for_summary:
+            print(f"  Truncating extracted text from {len(full_text)} to {max_chars_for_summary} characters for summarization.")
+            full_text = full_text[:max_chars_for_summary]
+        return full_text
+
+    except requests.exceptions.RequestException as e:
+        print(f"  Error fetching URL {url}: {e}")
+    except Exception as e:
+        print(f"  Error parsing content from {url}: {e}")
+    return None
+
+
+def summarize_text_with_gemini(text_to_summarize, article_title="this article"):
     if not model:
         return "Summary not available (Gemini model not initialized or API key missing)."
-    if not text_to_summarize or len(text_to_summarize.strip()) < 30: # Minimum content length for a decent summary
-        return "Summary not available (insufficient content from feed)."
+    if not text_to_summarize or len(text_to_summarize.strip()) < 100: # Need more content for a full summary
+        return "Summary not available (insufficient content provided for a detailed summary)."
     try:
-        prompt = f"Summarize the following news article concisely in 1-2 compelling sentences, focusing on the most critical information:\n\n{text_to_summarize}"
-        print(f"Sending text to Gemini for summarization (first 100 chars): {text_to_summarize[:100]}...")
-        response = model.generate_content(prompt)
+        # Updated prompt for a longer, multi-paragraph summary
+        prompt = (
+            f"Please provide a comprehensive, multi-paragraph summary of the following news article titled '{article_title}'. "
+            f"Cover the main points, key arguments, and any significant conclusions. "
+            f"Aim for a summary that captures the essence of the full article, "
+            f"as if explaining it to someone who hasn't read it.\n\nArticle Content:\n{text_to_summarize}"
+        )
 
-        # Detailed logging of response for debugging
-        # print(f"Gemini raw response: {response}") # Potentially very verbose
+        print(f"Sending text (first 100 chars: '{text_to_summarize[:100]}...') to Gemini for detailed summarization.")
+        response = model.generate_content(prompt)
 
         if response.candidates and response.candidates[0].content.parts:
             summary_text = response.candidates[0].content.parts[0].text.strip()
-            print(f"Gemini summary received: {summary_text[:100]}...")
+            print(f"Gemini detailed summary received (first 100 chars: '{summary_text[:100]}...').")
             return summary_text
         else:
-            # Log reasons for failure if possible
             block_reason = response.prompt_feedback.block_reason if response.prompt_feedback else "Unknown"
             finish_reason = response.candidates[0].finish_reason if response.candidates else "Unknown"
-            print(f"Gemini API response issue. Block reason: {block_reason}, Finish reason: {finish_reason}")
-            if response.candidates and not response.candidates[0].content.parts:
-                print("No parts in candidate content.")
-            return "Summary generation failed (API response structure)."
+            print(f"Gemini API response issue for detailed summary. Block reason: {block_reason}, Finish reason: {finish_reason}")
+            return "Detailed summary generation failed (API response structure issue)."
     except Exception as e:
-        print(f"Error during Gemini API call: {e}")
-        return f"Summary generation error: {type(e).__name__} - {e}"
+        print(f"Error during Gemini API call for detailed summary: {e}")
+        # If specific error types indicate exceeding token limits, you could log that.
+        # For example, if str(e) contains "token limit".
+        return f"Detailed summary generation error: {type(e).__name__} - {e}"
 
 # --- Main Logic ---
 def main():
-    print("Starting RSS summarization script...")
+    print("Starting RSS summarization script (for detailed summaries)...")
     candidate_articles = []
     now_utc = datetime.datetime.now(pytz.utc)
     time_cutoff = now_utc - datetime.timedelta(hours=HOURS_WINDOW)
@@ -100,7 +160,7 @@ def main():
         print(f"Processing feed: {feed_name} ({feed_url})")
         try:
             parsed_feed = feedparser.parse(feed_url)
-            if parsed_feed.bozo: # Check for malformed feed
+            if parsed_feed.bozo:
                 print(f"  Warning: Feed '{feed_name}' may be malformed. Bozo reason: {parsed_feed.bozo_exception}")
         except Exception as e:
             print(f"  Could not parse feed {feed_name}: {e}")
@@ -117,63 +177,75 @@ def main():
             pub_date = get_aware_datetime(pub_date_parsed)
 
             if pub_date and pub_date >= time_cutoff:
-                content_to_summarize = entry.get("summary", entry.get("description"))
-                if not content_to_summarize and entry.get('content'):
-                    if isinstance(entry.content, list) and len(entry.content) > 0:
-                        content_to_summarize = entry.content[0].value
+                print(f"  Found recent RSS item: '{title}' ({pub_date.strftime('%Y-%m-%d %H:%M')}) from {link}")
 
-                print(f"  Found recent article: '{title}' ({pub_date.strftime('%Y-%m-%d %H:%M')})")
-                candidate_articles.append({
-                    "title": title,
-                    "link": link,
-                    "pub_date": pub_date,
-                    "content": content_to_summarize if content_to_summarize else "No distinct summary/content found in feed item.",
-                    "source_feed": feed_name
-                })
+                # Attempt to fetch full article text
+                full_content = fetch_full_article_text(link)
+
+                text_for_summary = full_content
+                if not text_for_summary:
+                    # Fallback to RSS summary if full content fetching fails
+                    print(f"    Full content fetch failed for '{title}'. Falling back to RSS summary/description.")
+                    text_for_summary = entry.get("summary", entry.get("description"))
+                    if not text_for_summary and entry.get('content'):
+                        if isinstance(entry.content, list) and len(entry.content) > 0:
+                            text_for_summary = entry.content[0].value
+
+                if text_for_summary:
+                    candidate_articles.append({
+                        "title": title,
+                        "link": link,
+                        "pub_date": pub_date,
+                        "content_for_summary": text_for_summary, # This is now potentially the full article text
+                        "source_feed": feed_name
+                    })
+                else:
+                    print(f"    Skipping '{title}' due to lack of content for summarization.")
+
             processed_in_feed_count += 1
 
-    print(f"Total candidate articles found across all feeds: {len(candidate_articles)}")
+    print(f"Total candidate articles with content for summarization: {len(candidate_articles)}")
 
     final_rss_items = []
     if not candidate_articles:
-        print("No recent articles found matching criteria. Creating a default item.")
+        print("No recent articles found with sufficient content. Creating a default item.")
+        # (Same default item creation as before)
         rss_item = PyRSS2Gen.RSSItem(
-            title="No recent news",
+            title="No recent news with processable content",
             link=f"https://{os.environ.get('GITHUB_REPOSITORY_OWNER', 'your-username')}.github.io/{os.environ.get('GITHUB_REPOSITORY_NAME', 'your-repo-name')}/",
-            description=f"No news items found in the last {HOURS_WINDOW} hours from the top {MAX_ITEMS_PER_SOURCE_FEED} of selected feeds.",
+            description=f"No news items found in the last {HOURS_WINDOW} hours from which full content could be reliably extracted for detailed summary.",
             pubDate=datetime.datetime.now(pytz.utc)
         )
         final_rss_items.append(rss_item)
     else:
         candidate_articles.sort(key=lambda x: x["pub_date"], reverse=True)
-        top_article = candidate_articles[0]
-        print(f"\nSelected top article: '{top_article['title']}' from {top_article['source_feed']}")
+        top_article = candidate_articles[0] # We still pick only one "top" article
+        print(f"\nSelected top article for detailed summary: '{top_article['title']}' from {top_article['source_feed']}")
 
-        ai_summary = "Summary placeholder (API call skipped or failed)" # Default
-        if model and GEMINI_API_KEY: # Only attempt summary if model is ready
-             ai_summary = summarize_text_with_gemini(top_article['content'])
+        ai_summary = "Detailed summary placeholder (API call skipped, model issue, or content insufficient)"
+        if model and GEMINI_API_KEY:
+             ai_summary = summarize_text_with_gemini(top_article['content_for_summary'], top_article['title'])
         elif not GEMINI_API_KEY:
-            ai_summary = "Summary not available (API key missing)."
-        else: # Model initialization failed
-            ai_summary = "Summary not available (Gemini model initialization failed)."
-
+            ai_summary = "Detailed summary not available (API key missing)."
+        else:
+            ai_summary = "Detailed summary not available (Gemini model initialization failed)."
 
         rss_item = PyRSS2Gen.RSSItem(
-            title=f"{top_article['title']}", # Keep original title, summary is in description
+            title=f"{top_article['title']}",
             link=top_article['link'],
-            description=f"{ai_summary}\n\nSource: {top_article['source_feed']}",
+            description=f"[AI Summary by Gemini]:\n\n{ai_summary}\n\nSource: {top_article['source_feed']}", # Newlines for better readability of multi-para summary
             guid=PyRSS2Gen.Guid(top_article['link']),
             pubDate=top_article['pub_date']
         )
         final_rss_items.append(rss_item)
-        print(f"  Final item description (summary part): {ai_summary[:150]}...")
+        print(f"  Final item description (summary part - first 150 chars): {ai_summary[:150]}...")
 
+    # (RSS feed generation part remains largely the same as before)
     project_page_url = f"https://{os.environ.get('GITHUB_REPOSITORY_OWNER', 'your-username')}.github.io/{os.environ.get('GITHUB_REPOSITORY_NAME', 'your-repo-name')}/"
-
     rss_feed = PyRSS2Gen.RSS2(
-        title="My AI Top News Summary",
+        title="My AI Detailed News Summary",
         link=project_page_url,
-        description=f"The single most recent top news item from selected feeds (last {HOURS_WINDOW}hrs, top {MAX_ITEMS_PER_SOURCE_FEED}), summarized by AI.",
+        description=f"The single most recent top news item (full article summarized) from selected feeds (last {HOURS_WINDOW}hrs, top {MAX_ITEMS_PER_SOURCE_FEED}), with detailed multi-paragraph AI summary.",
         lastBuildDate=datetime.datetime.now(pytz.utc),
         items=final_rss_items,
         language="en-us",
@@ -182,11 +254,11 @@ def main():
     try:
         with open(OUTPUT_RSS_FILE, "w", encoding="utf-8") as f:
             rss_feed.write_xml(f, encoding="utf-8")
-        print(f"\nSuccessfully generated RSS feed: {OUTPUT_RSS_FILE}")
+        print(f"\nSuccessfully generated RSS feed with detailed summary: {OUTPUT_RSS_FILE}")
     except IOError as e:
         print(f"Error writing RSS file: {e}")
 
-    print("Script finished.")
+    print("Script for detailed summaries finished.")
 
 if __name__ == "__main__":
     main()
