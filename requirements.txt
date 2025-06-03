@@ -1,0 +1,4 @@
+feedparser
+google-generativeai
+PyRSS2Gen
+pytz
