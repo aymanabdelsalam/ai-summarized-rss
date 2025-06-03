@@ -117,35 +117,42 @@ def fetch_full_article_text(url):
 
 def summarize_text_with_gemini(text_to_summarize, article_title="this article"):
     if not model:
-        return "Summary not available (Gemini model not initialized or API key missing)."
-    if not text_to_summarize or len(text_to_summarize.strip()) < 100: # Need more content for a full summary
-        return "Summary not available (insufficient content provided for a detailed summary)."
+        return "ملخص غير متاح (لم يتم تهيئة نموذج Gemini أو مفتاح API مفقود)." # "Summary not available (Gemini model not initialized or API key missing)."
+    if not text_to_summarize or len(text_to_summarize.strip()) < 100:
+        return "ملخص غير متاح (محتوى غير كافي لملخص تفصيلي)." # "Summary not available (insufficient content provided for a detailed summary)."
     try:
-        # Updated prompt for a longer, multi-paragraph summary
+        # Updated prompt for a longer, multi-paragraph summary IN EGYPTIAN ARABIC SLANG
         prompt = (
-            f"Please provide a comprehensive, multi-paragraph summary of the following news article titled '{article_title}'. "
-            f"Cover the main points, key arguments, and any significant conclusions. "
-            f"Aim for a summary that captures the essence of the full article, "
-            f"as if explaining it to someone who hasn't read it.\n\nArticle Content:\n{text_to_summarize}"
+            f"لو سمحت، اعمل ملخص شامل من كذا فقرة للمقالة الإخبارية دي بعنوان '{article_title}' باللهجة المصرية العامية (بتاعة الشارع). "
+            f"الملخص المفروض يغطي النقط الأساسية، الحجج المهمة، وأي استنتاجات ضرورية. "
+            f"الهدف إن الملخص يكون بيفهم اللي مقراش المقالة إيه اللي حصل بالظبط، كأنك بتحكيله الحكاية بالبلدي كدة. "
+            f"استخدم مفردات بسيطة وعامية وماتكترش في الكلام الرسمي.\n\nمحتوى المقالة:\n{text_to_summarize}"
         )
 
-        print(f"Sending text (first 100 chars: '{text_to_summarize[:100]}...') to Gemini for detailed summarization.")
+        # English translation of the new prompt for clarity:
+        # "Please provide a comprehensive, multi-paragraph summary of this news article titled '{article_title}' in Egyptian colloquial Arabic (street slang). "
+        # "The summary should cover the main points, important arguments, and any necessary conclusions. "
+        # "The goal is for the summary to make someone who hasn't read the article understand exactly what happened, as if you're telling them the story in a very casual, everyday way. "
+        # "Use simple, colloquial vocabulary and don't use too much formal language.\n\nArticle Content:\n{text_to_summarize}"
+
+        print(f"Sending text (first 100 chars: '{text_to_summarize[:100]}...') to Gemini for detailed Egyptian Arabic slang summarization.")
         response = model.generate_content(prompt)
 
         if response.candidates and response.candidates[0].content.parts:
             summary_text = response.candidates[0].content.parts[0].text.strip()
-            print(f"Gemini detailed summary received (first 100 chars: '{summary_text[:100]}...').")
+            print(f"Gemini detailed Egyptian Arabic summary received (first 100 chars: '{summary_text[:100]}...').")
             return summary_text
         else:
-            block_reason = response.prompt_feedback.block_reason if response.prompt_feedback else "Unknown"
-            finish_reason = response.candidates[0].finish_reason if response.candidates else "Unknown"
-            print(f"Gemini API response issue for detailed summary. Block reason: {block_reason}, Finish reason: {finish_reason}")
-            return "Detailed summary generation failed (API response structure issue)."
+            block_reason = response.prompt_feedback.block_reason if response.prompt_feedback else "غير معروف" # "Unknown"
+            finish_reason = response.candidates[0].finish_reason if response.candidates else "غير معروف" # "Unknown"
+            error_message_arabic = "مشكلة في استجابة Gemini API لملخص اللهجة المصرية. سبب الحجب: {block_reason}, سبب الإنهاء: {finish_reason}"
+            print(error_message_arabic.format(block_reason=block_reason, finish_reason=finish_reason))
+            return "فشل إنشاء ملخص تفصيلي باللهجة (مشكلة في هيكل استجابة API)." # "Detailed slang summary generation failed (API response structure issue)."
     except Exception as e:
-        print(f"Error during Gemini API call for detailed summary: {e}")
-        # If specific error types indicate exceeding token limits, you could log that.
-        # For example, if str(e) contains "token limit".
-        return f"Detailed summary generation error: {type(e).__name__} - {e}"
+        error_message_arabic = f"حدث خطأ أثناء استدعاء Gemini API لملخص اللهجة المصرية: {type(e).__name__} - {e}"
+        print(error_message_arabic)
+        return error_message_arabic # Return the Arabic error message
+
 
 # --- Main Logic ---
 def main():
