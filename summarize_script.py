@@ -39,10 +39,10 @@ else:
     print("Warning: GEMINI_API_KEY not found in environment variables. Summarization will be skipped or limited.")
 
 SOURCE_RSS_FEEDS = {
-    "BBC World": "http://feeds.bbci.co.uk/news/world/rss.xml",
-    "Reuters World": "http://feeds.reuters.com/Reuters/worldNews",
-    "NPR News": "https://feeds.npr.org/1001/rss.xml",
-    "Google News Tech": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en"
+    "Tech Crunch": "https://techcrunch.com/feed",
+    "Venture Beat": "https://feeds.feedburner.com/venturebeat/SZYF",
+    "The Verge": "https://www.theverge.com/rss/index.xml",
+    "Tech Republic": "https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&sort=latest"
 }
 OUTPUT_RSS_FILE = "summarized_news.xml"
 MAX_ITEMS_PER_SOURCE_FEED = 5 # Process top 5 from each source
