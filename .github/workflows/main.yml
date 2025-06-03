@@ -1,0 +1,45 @@
+name: Generate Summarized RSS Feed
+
+on:
+  schedule:
+    # Runs every 6 hours (adjust as needed)
+    # Use crontab syntax. Online tools can help generate this.
+    # Example: '0 */6 * * *' means at minute 0 past every 6th hour.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual triggering from GitHub Actions tab
+
+jobs:
+  build-and-deploy-rss:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: Allows the action to commit to the repo
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Or your preferred version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script to generate RSS
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # Access the secret
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY_NAME: ${{ github.event.repository.name }}
+        run: python summarize_script.py
+
+      - name: Commit and push RSS feed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add summarized_news.xml
+          # Commit only if there are changes to the XML file
+          git diff --staged --quiet || git commit -m "Update summarized RSS feed"
+          git push
+        # Optional: Add error handling if the push fails
