@@ -47,7 +47,7 @@ SOURCE_RSS_FEEDS = {
     "Wired": "https://www.wired.com/feed/category/gear/latest/rss",
     "Bloomberg": "https://feeds.bloomberg.com/technology/news.rss",
     "The Gardian": "https://www.theguardian.com/uk/technology/rss",
-    "CNN": "http://rss.cnn.com/rss/edition_technology.rss"
+    "CNN": "http://rss.cnn.com/rss/edition_technology.rss",
     "Google News Tech": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en"
 }
 OUTPUT_RSS_FILE = "summarized_news.xml"
