@@ -6,7 +6,7 @@ import pytz # For timezone-aware datetime objects
 import os
 import requests # For fetching web page content
 from bs4 import BeautifulSoup # For parsing HTML
-from fuzzywuzzy import fuzz # For fuzzy string matching
+from thefuzz import fuzz # For fuzzy string matching
 
 # --- Configuration ---
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
