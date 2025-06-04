@@ -129,11 +129,21 @@ def summarize_text_with_gemini(text_to_summarize, article_title="this article"):
     if not text_to_summarize or len(text_to_summarize.strip()) < 100: return "Summary not available (insufficient content)."
     try:
         prompt = (
-            f"Please provide a comprehensive, multi-paragraph summary of the following news article titled '{article_title}'. "
-            f"Cover the main points, key arguments, and any significant conclusions. "
-            f"Aim for a summary that captures the essence of the full article, "
-            f"as if explaining it to someone who hasn't read it.\n\nArticle Content:\n{text_to_summarize}"
+            f"لو سمحت، اعمل ملخص شامل من كذا فقرة للمقالة الإخبارية دي بعنوان '{article_title}' باللهجة المصرية العامية (بتاعة الشارع). "
+            f"الملخص المفروض يغطي النقط الأساسية، الحجج المهمة، وأي استنتاجات ضرورية. "
+            f"الهدف إن الملخص يكون بيفهم اللي مقراش المقالة إيه اللي حصل بالظبط، كأنك بتحكيله الحكاية بالبلدي كدة. "
+            f"استخدم مفردات بسيطة وعامية وماتكترش في الكلام الرسمي.\n\nمحتوى المقالة:\n{text_to_summarize}"
         )
+        
+      #  prompt = (
+      #      f"Please provide a comprehensive, multi-paragraph summary of the following news article titled '{article_title}'. "
+      #      f"Cover the main points, key arguments, and any significant conclusions. "
+      #      f"Aim for a summary that captures the essence of the full article, "
+      #      f"as if explaining it to someone who hasn't read it.\n\nArticle Content:\n{text_to_summarize}"
+      #  )
+
+
+        
         print(f"  Sending text (first 100 chars: '{text_to_summarize[:100]}...') to Gemini for detailed summarization.")
         response = model.generate_content(prompt)
         if response.candidates and response.candidates[0].content.parts:
