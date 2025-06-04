@@ -4,3 +4,4 @@ PyRSS2Gen
 pytz
 requests
 beautifulsoup4
+thefuzz
