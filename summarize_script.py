@@ -306,7 +306,7 @@ def main():
         rss_item = PyRSS2Gen.RSSItem(
             title=f"{article_to_summarize['title']}",
             link=article_to_summarize['link'],
-            description=(f"تم تكرار الخبر في  {top_story_cluster_info['repetition_count']} مصادر]:\n\n"
+            description=(f"تم تكرار الخبر في  {top_story_cluster_info['repetition_count']} مصادر:\n\n"
                          f"{ai_summary}\n\n"
                          f"Source for summary: {article_to_summarize['source_feed']}"),
             guid=PyRSS2Gen.Guid(article_to_summarize['link']), # Use original link for GUID
