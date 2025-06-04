@@ -38,11 +38,15 @@ if GEMINI_API_KEY:
 else:
     print("Warning: GEMINI_API_KEY not found in environment variables. Summarization will be skipped or limited.")
 
+    #"Tech Crunch": "https://techcrunch.com/feed",
+    #"Google News": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en",
+    #"Venture Beat": "https://feeds.feedburner.com/venturebeat/SZYF",
+    #"The Verge": "https://www.theverge.com/rss/index.xml",
+    #"Tech Republic": "https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&sort=latest"
+
+
 SOURCE_RSS_FEEDS = {
-    "Tech Crunch": "https://techcrunch.com/feed",
-    "Venture Beat": "https://feeds.feedburner.com/venturebeat/SZYF",
-    "The Verge": "https://www.theverge.com/rss/index.xml",
-    "Tech Republic": "https://www.techrepublic.com/rssfeeds/articles/?feedType=rssfeeds&sort=latest"
+    "Google News": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVlZUR2dKVlV5Z0FQAQ?hl=en-US&gl=US&ceid=US:en"
 }
 OUTPUT_RSS_FILE = "summarized_news.xml"
 MAX_ITEMS_PER_SOURCE_FEED = 5 # Process top 5 from each source
