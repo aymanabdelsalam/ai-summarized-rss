@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 19 Jun 2025 01:11:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>OpenAI boss: Meta offering $100m plus to poach my staff</title><link>https://www.bbc.com/news/articles/c8730088e5do</link><description>مساء الفل،
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 19 Jun 2025 04:23:26 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Your A.I. Queries Come With a Climate Cost</title><link>https://www.nytimes.com/2025/06/19/climate/ai-emissions-chatbot-accuracy.html</link><description>مساء الفل،
 
-سمعنا كلام كتير الفترة دي عن حرب ضروس في عالم التكنولوجيا، وخصوصًا في مجال الذكاء الاصطناعي.  رئيس شركة OpenAI، سام ألتمان،  حكى  إن شركة ميتا (اللي بتملك فيسبوك وانستجرام وواتساب) بتحاول تخطف  افضل مهندسينه وعلمائه  بمبالغ خيالية!
+الكلام ده كله بيتكلم عن تأثير استخدام الذكاء الاصطناعي على البيئة.  ببساطة، كل ما استخدمنا الذكاء الاصطناعي أكتر، كل ما احتاجنا طاقة كهربائية أكبر. وزيادة استهلاك الكهرباء دي معناها زيادة في انبعاثات الغازات الضارة اللي بتسبب الاحتباس الحراري وتلوث الجو.  يعني كل سؤال بتسأله للذكاء الاصطناعي، و كل بحث بتعمله،  بيأثر على الكوكب بطريقة أو بأخرى.
 
-القصة  بإختصار،  ميتا بتقدم  عروض  مالية  جنونية  للموظفين  في OpenAI،  وصلت لـ 100 مليون دولار  مكافأة توقيع  لواحد منهم!  و ده مش  الرقم الوحيد،  في رواتب سنوية  أكبر من كدا بكثير،  لكن  سام ألتمان بيقول  إن  أفضل  موظفين  عنده  لسه  رافضين  العروض دي.
 
-ليه  ميتا بتعمل كدا؟  ببساطة،  عشان  الذكاء الاصطناعي  بيعتبر  مجال  مهم جداً  للمستقبل، و  شركات  التكنولوجيا  الكبيرة  بتتنافس  بشدة  عشان  تجيب  أفضل  الخبراء  في  المجال ده.  الناس  دي  بتعتبر  كنز  ثمينا جداً،  لأنها  تقدر  تخلق  تكنولوجيا  متقدمة  تقدر  تغير  مجال  التكنولوجيا  بالكامل.
+الحاجة التانية المهمة، إن عمليات حسابات الذكاء الاصطناعي بتحتاج لخوادم عملاقة بتستهلك كميات هائلة من الطاقة.  دي مش مجرد أجهزة بسيطة، دي مراكز بيانات ضخمة شغالة على مدار الساعة، بتستهلك كهرباء  زيها زي مدينة صغيرة.  وبالتالي،  كل ما زاد استخدامنا للذكاء الاصطناعي، كل ما زادت الحاجة لتلك المراكز الضخمة، وبالتالي زيادة الانبعاثات.
 
-و ألتمان بيقول إن سر بقاء موظفين OpenAI هو ثقافة الشركة المميزة  و رسالتها  في تطوير  ذكاء اصطناعي  متطور جداً  بيقدر يفوق  قدرات  الإنسان،  بالإضافة لجذب  العروض  المالية  الجيدة  اللي  بتقدمها الشركة.  الكلام ده  بيوضح  إن  المعركة  مش بس  معركة  أموال،  لكنها  معركة  مبادئ  ورؤية  للمستقبل.  و ده  بيفتح  باب  سؤال  مهم: هل  الاستثمار  الضخم  ده  في  الذكاء  الاصطناعي  مستدام  على  المدى  الطويل؟  الوقت  هيوضح  الكلام  ده.
 
-Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c8730088e5do</guid><pubDate>Wed, 18 Jun 2025 14:15:20 GMT</pubDate></item></channel></rss>
+المقالة بتحذر من إننا  مش بنفكر في الجانب البيئي  للاستخدام المتزايد للذكاء الاصطناعي.  بنركز على التطورات والتطبيقات الجديدة،  لكن بنهمل تماماً الأثر السلبي على المناخ.  ده خطر كبير،  لأن  الاحتباس الحراري مش هزار، وزيادة انبعاثات الغازات الضارة ممكن تكون ليها عواقب وخيمة جداً على الكوكب.
+
+
+في النهاية،  المقالة بتدعو للتفكير في  طرق  تقلل من الأثر البيئي للذكاء الاصطناعي.  ممكن يكون في حلول تقنية جديدة توفر الطاقة، أو طرق  تخلي استخدامنا للذكاء الاصطناعي  أكثر كفاءة.  المهم إننا نعي  إن التكنولوجيا مش مجرد تقدم،  لازم  نتأكد إنها تقدم مستدام  ومش بيضر البيئة.  يجب علينا البحث عن حلول صديقة للبيئة  قبل ما يكون الأوان.
+
+Source for summary: New York Times</description><guid isPermaLink="true">https://www.nytimes.com/2025/06/19/climate/ai-emissions-chatbot-accuracy.html</guid><pubDate>Thu, 19 Jun 2025 04:00:03 GMT</pubDate></item></channel></rss>
