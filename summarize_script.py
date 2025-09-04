@@ -40,12 +40,10 @@ else:
     print("Warning: GEMINI_API_KEY not found. Summarization will be skipped or limited.")
 
 SOURCE_RSS_FEEDS = {
+    "Wired": "https://www.wired.com/feed/category/gear/latest/rss",
+    "The Verge": "https://www.theverge.com/rss/index.xml",
     "BBC": "http://feeds.bbci.co.uk/news/technology/rss.xml",
     "Reuters": "https://www.reuters.com/rssFeed/technologyNews",
-    "Washington Post": "https://feeds.washingtonpost.com/rss/business/technology",
-    "New York Times": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-    "Wired": "https://www.wired.com/feed/category/gear/latest/rss",
-    "Bloomberg": "https://feeds.bloomberg.com/technology/news.rss",
     "The Gardian": "https://www.theguardian.com/uk/technology/rss",
     "CNN": "http://rss.cnn.com/rss/edition_technology.rss",
     "Google News Tech": "https://news.google.com/rss/search?q=technology&hl=en-US&gl=US&ceid=US:en"
