@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 07 Sep 2025 20:13:46 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Google finally details Gemini usage limits</title><link>https://www.theverge.com/news/773496/google-gemini-usage-limits</link><description>أعلنت جوجل أخيراً عن حدود استخدام برنامجها جيميني (Gemini)  في مساعدة جديدة على موقعها.  الخبر بيوضح عدد الاستفسارات (prompts) المسموح بيها يومياً لكل مستوى اشتراك.  المستخدمين المجانيين بيقدروا يعملوا ٥ استفسارات فقط، و٥ تقارير بحث متعمقة، و ١٠٠ صورة  يومياً.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 08 Sep 2025 01:07:54 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Google finally details Gemini usage limits</title><link>https://www.theverge.com/news/773496/google-gemini-usage-limits</link><description>يا جدعان، جوجل أخيراً وضحت حدود استخدام برنامجها "جيميني" للذكاء الاصطناعي.  الناس اللي عندها حساب مجاني هتقدر تعمل ٥ استفسارات (prompts) في اليوم، و٥ تقارير بحث متعمقة، و ١٠٠ صورة.
 
-أما اشتراك "AI Pro" بيسمح بـ ١٠٠ استفسار و ١٠٠٠ صورة يومياً، واشتراك "AI Ultra"  بيوفر ٥٠٠ استفسار و ١٠٠٠ صورة يومياً.  ده  بيدل على أن جوجل بتحاول تنظيم استخدام  جيميني وتحديد  الحدود  بصورة واضحة  للمستخدمين.
+أما اللي مشتركين في باقة "AI Pro"، فيقدروا يعملوا ١٠٠ استفسار و ١٠٠٠ صورة.  أما باقة "AI Ultra"  فهي الأغلى، وبتدي المستخدم ٥٠٠ استفسار و ١٠٠٠ صورة يومياً.  
 
+يعني باختصار،  حدود الاستخدام اتحددت بوضوح دلوقتي،  واللي محتاج يستخدم البرنامج أكتر من كده لازم يشترك في باقة مدفوعة.
 
-الهدف من تحديد هذه الحدود هو  السيطرة على استخدام الموارد  وتوفير تجربة  أفضل للمستخدمين.  جوجل كانت بتستخدم  وصوف غامضة  قبل كده  زي "وصول محدود" لكن دلوقتي  بقت  الحدود واضحة جداً  ومحددة  رقمياً.
-
-
-المعلومات دي مهمة جداً للمستخدمين  اللي بيفكروا يشتركوا في  جيميني،  علشان يختاروا  الاشتراك المناسب  لإحتياجاتهم،  ويفهموا  قدرات البرنامج  وحدوده  بصورة  كاملة قبل البدء في الاستخدام.
+وده كله  بيخص  برنامج جيميني ٢.٥ برو،  واللي عايز يعرف تفاصيل أكتر يقدر يشوفها على موقع جوجل الرسمي.
 
 Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/773496/google-gemini-usage-limits</guid><pubDate>Sun, 07 Sep 2025 19:51:23 GMT</pubDate></item></channel></rss>
