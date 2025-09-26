@@ -1,24 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 12:28:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Your OnePlus phone is probably at risk from a major SMS vulnerability</title><link>https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184</link><description>طيب، الخبر ده عن ثغرة أمنية خطيرة في تليفونات OnePlus، وممكن تخلي بيانات الرسائل القصيرة (SMS و MMS) مكشوفة.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 16:17:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meta AI funnels AI videos from creators into new &amp;#8216;Vibes&amp;#8217; feed</title><link>https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos</link><description>**ميتا بتطلق ميزة جديدة للفيديوهات اللي بتعملها الذكاء الاصطناعي اسمها "Vibes"**
 
-**إيه اللي حصل؟**
+شركة ميتا أعلنت يوم الخميس عن إطلاق "Vibes"، وهي عبارة عن صفحة جديدة بتعرض فيديوهات قصيرة معموله بالذكاء الاصطناعي. الهدف من الميزة دي إن المستخدمين يقدروا يشاركوا فيديوهات الذكاء الاصطناعي اللي بتيجي من "صناع محتوى ومجتمعات" ويعدلوا عليها. أي حد يقدر ينزل فيديوهات ذكاء اصطناعي خاصة بيه على Vibes، أو ينزلها على منصات ميتا التانية زي فيسبوك وإنستجرام عشان أصحابه ومتابعينه يشوفوها.
 
-شركة أمن معلومات اسمها Rapid7 اكتشفت الثغرة دي. المشكلة إنها بتسمح لأي تطبيق يتثبت على التليفون إنه يوصل لرسائل الـ SMS بتاعتك من غير ما أنت تعرف أو توافق. ده بيحصل بسبب تغييرات عملتها OnePlus في نظام التشغيل بتاعها (OxygenOS).
+**"Vibes" مكانها فين وإيه الجديد؟**
 
-**مين المتأثر؟**
+الميزة دي موجودة بس في تطبيق ميتا للذكاء الاصطناعي (Meta AI app)، ومش بتظهر في أي مكان تاني. "Vibes" بتيجي بدل صفحة "Discover" القديمة اللي كانت بتسمح للمستخدمين يشاركوا مع متابعينهم الأوامر اللي استخدموها عشان يعملوا محتوى بالذكاء الاصطناعي. الهدف من "Vibes" هو التركيز أكتر على الفيديو، مش على الأوامر نفسها، عشان تسهل على الناس إنها تلاقي أفكار جديدة وتجرب أدوات ميتا لعمل المحتوى بالذكاء الاصطناعي.
 
-التليفونات اللي شغالة بنظام OxygenOS 12، و 14، و 15 هي اللي فيها المشكلة دي. الغريب إنهم بيقولوا إن OxygenOS 11 (اللي نازل من 2020) مش متأثر. هما اختبروا على موبايلين بس (OnePlus 8T و 10 Pro 5G)، بس بيقولوا إن المشكلة دي في جزء أساسي من نظام أندرويد، فغالباً هتأثر على أجهزة تانية كتير.
+**إزاي بتشتغل؟**
 
-**إيه رد OnePlus؟**
+الفيديوهات اللي بتظهر في Vibes بتيجي جنب الأمر (prompt) اللي اتعملت بيه. مثلاً، فيديو بيورّي مجموعة ماعز جبلي مليانة شعر وعضلات بتنط في تلج، كان معمول بأمر بيقول: "ماعز جبلي بتنط في تلج عميق؛ سلسلة جبال ألب جليدية؛ جو مهيب ومثير؛ ضوء نهار طبيعي بارد ومشرق --sref ... --stylize ...". المستخدمين يقدروا يعدلوا الفيديوهات دي بإضافة أو تغيير موسيقى، أو تغيير الصورة، أو تعديل الحركة. الفيديوهات الجديدة دي ممكن تتنشر على Vibes أو على قصص (Stories) أو ريلز (Reels) على إنستجرام وفيسبوك.
 
-الشركة اعترفت بالمشكلة، بس قالت إن الحل (التحديث الأمني) مش هيوصل غير في نص شهر أكتوبر الجاي. يعني لسه فيه وقت والموبايلات معرضة للخطر. هما قالوا إنهم حطوا الحل وهيتم توزيعه عالميًا في التحديث.
+**ميتا بتوسع استخدام الذكاء الاصطناعي**
 
-**نصايح لحد ما الحل يوصل:**
+ميتا بتزود استخدام أدوات الذكاء الاصطناعي في منتجاتها كلها، زي إن المستخدمين يقدروا يعملوا صور بالذكاء الاصطناعي على فيسبوك وإنستجرام وواتساب. الشهر اللي فات، ميتا أعلنت عن شراكة مع Midjourney، وهو برنامج مشهور لعمل الصور بالذكاء الاصطناعي. ده بيبين إن ميتا مهتمة جداً بتطوير وتوسيع استخدامات الذكاء الاصطناعي في منصاتها.
 
-الشركة اللي اكتشفت الثغرة (Rapid7) نصحت الناس الآتي:
-*   حملوا التطبيقات من مصادر موثوقة بس.
-*   امسحوا أي تطبيقات مش بتستخدموها.
-*   استخدموا تطبيقات شات مشفرة بدل الرسائل العادية.
-*   استخدموا تطبيقات المصادقة (Authenticator apps) بدل الرسائل اللي بتتبعت عشان تأكيد الهوية (two-factor authentication).
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184</guid><pubDate>Fri, 26 Sep 2025 12:12:08 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos</guid><pubDate>Fri, 26 Sep 2025 16:01:34 GMT</pubDate></item></channel></rss>
