@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 08:20:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Abu Dhabi royal family to take stake in TikTok US under Trump deal</title><link>https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx</link><description>**ملخص صفقة استحواذ أمريكي على تيك توك (TikTok) بمشاركة إماراتية**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 12:28:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Your OnePlus phone is probably at risk from a major SMS vulnerability</title><link>https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184</link><description>طيب، الخبر ده عن ثغرة أمنية خطيرة في تليفونات OnePlus، وممكن تخلي بيانات الرسائل القصيرة (SMS و MMS) مكشوفة.
 
-الرئيس الأمريكي دونالد ترامب وقع أمر تنفيذي بيسمح لشركة تيك توك (TikTok) في أمريكا بالبقاء، وده بعد ما حصل اتفاقية استحواذ جديدة. بموجب الاتفاقية دي، أسهم تيك توك في أمريكا هتتباع لملاك أمريكيين، وده عشان يعالجوا المخاوف الأمنية المتعلقة ببيانات المستخدمين الأمريكيين. الصفقة دي بتيجي بعد فترة طويلة من الضغط على الشركة الأم الصينية "بايت دانس" (ByteDance) عشان تبيع جزء تيك توك في أمريكا.
+**إيه اللي حصل؟**
 
-**دور صندوق MGX الإماراتي والمستثمرين الآخرين**
+شركة أمن معلومات اسمها Rapid7 اكتشفت الثغرة دي. المشكلة إنها بتسمح لأي تطبيق يتثبت على التليفون إنه يوصل لرسائل الـ SMS بتاعتك من غير ما أنت تعرف أو توافق. ده بيحصل بسبب تغييرات عملتها OnePlus في نظام التشغيل بتاعها (OxygenOS).
 
-صندوق "MGX" الإماراتي، اللي بيرأسه الشيخ طحنون بن زايد آل نهيان، هياخد حصة 15% في تيك توك أمريكا، وهيكون ليه مقعد في مجلس الإدارة. القيمة الإجمالية لتيك توك أمريكا في الصفقة دي هتكون 14 مليار دولار، وده رقم أقل بكتير من القيمة الإجمالية لشركة بايت دانس الأم اللي بتوصل لـ 330 مليار دولار. ده غير MGX، فيه مستثمرين أمريكيين كبار تانيين هيشاركوا، منهم شركة أوراكل (Oracle) بتاع لاري إليسون، ومجموعة سيلفر ليك (Silver Lake)، وكمان مايكل ديل وروبرت مردوخ.
+**مين المتأثر؟**
 
-**السيطرة الأمريكية على تيك توك أمريكا**
+التليفونات اللي شغالة بنظام OxygenOS 12، و 14، و 15 هي اللي فيها المشكلة دي. الغريب إنهم بيقولوا إن OxygenOS 11 (اللي نازل من 2020) مش متأثر. هما اختبروا على موبايلين بس (OnePlus 8T و 10 Pro 5G)، بس بيقولوا إن المشكلة دي في جزء أساسي من نظام أندرويد، فغالباً هتأثر على أجهزة تانية كتير.
 
-الهدف الأساسي من الصفقة دي هو إن أغلبية ملكية وتشغيل تيك توك في أمريكا تكون في إيد أمريكيين، عشان ميبقاش تحت سيطرة أي جهة معادية لأمريكا. ترامب أكد إن المستثمرين الأمريكيين دول "متطورين جداً" وهيديروا الشركة بشكل كامل. شركة بايت دانس الصينية هتفضل محتفظة بحصة 19.9% بس في تيك توك أمريكا.
+**إيه رد OnePlus؟**
 
-**موقف الصين وتقييم الصفقة**
+الشركة اعترفت بالمشكلة، بس قالت إن الحل (التحديث الأمني) مش هيوصل غير في نص شهر أكتوبر الجاي. يعني لسه فيه وقت والموبايلات معرضة للخطر. هما قالوا إنهم حطوا الحل وهيتم توزيعه عالميًا في التحديث.
 
-الصين لسه ما وضحتش موقفها الرسمي من الموافقة على الصفقة دي، رغم إن ترامب قال إنه اتكلم مع الرئيس الصيني شي جين بينغ و"خد الموافقة". نائب الرئيس الأمريكي أكد إن الصفقة دي بتضمن إن بيانات الأمريكيين هتكون آمنة ومش هتستخدم كسلاح دعائي. تقييم تيك توك أمريكا بـ 14 مليار دولار يعتبر أقل بكتير من القيمة السوقية لشركات تكنولوجيا تانية زي ميتا (Meta) اللي بتملك فيسبوك وإنستجرام، اللي قيمتها بتوصل لـ 1.8 تريليون دولار.
+**نصايح لحد ما الحل يوصل:**
 
-Source for summary: The Gardian</description><guid isPermaLink="true">https://www.theguardian.com/technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx</guid><pubDate>Fri, 26 Sep 2025 07:44:39 GMT</pubDate></item></channel></rss>
+الشركة اللي اكتشفت الثغرة (Rapid7) نصحت الناس الآتي:
+*   حملوا التطبيقات من مصادر موثوقة بس.
+*   امسحوا أي تطبيقات مش بتستخدموها.
+*   استخدموا تطبيقات شات مشفرة بدل الرسائل العادية.
+*   استخدموا تطبيقات المصادقة (Authenticator apps) بدل الرسائل اللي بتتبعت عشان تأكيد الهوية (two-factor authentication).
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184</guid><pubDate>Fri, 26 Sep 2025 12:12:08 GMT</pubDate></item></channel></rss>
