@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 16:17:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meta AI funnels AI videos from creators into new &amp;#8216;Vibes&amp;#8217; feed</title><link>https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos</link><description>**ميتا بتطلق ميزة جديدة للفيديوهات اللي بتعملها الذكاء الاصطناعي اسمها "Vibes"**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 20:14:51 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>One of our favorite video doorbells is 47 percent off in the run-up to Prime Day</title><link>https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale</link><description>الخبر ده بيتكلم عن عرض جامد على جرس الباب الذكي بتاع "Ring"، اسمه "Ring Battery Doorbell Plus". الجهاز ده يعتبر من أحسن الأنواع اللي بتشتغل بالبطارية، وبيقدم صورة واضحة جداً بجودة 1536p، وكمان بيوريك كل حاجة من فوق لتحت، وده بيساعدك تشوف لو في أي طرود وصلت عند بابك.
 
-شركة ميتا أعلنت يوم الخميس عن إطلاق "Vibes"، وهي عبارة عن صفحة جديدة بتعرض فيديوهات قصيرة معموله بالذكاء الاصطناعي. الهدف من الميزة دي إن المستخدمين يقدروا يشاركوا فيديوهات الذكاء الاصطناعي اللي بتيجي من "صناع محتوى ومجتمعات" ويعدلوا عليها. أي حد يقدر ينزل فيديوهات ذكاء اصطناعي خاصة بيه على Vibes، أو ينزلها على منصات ميتا التانية زي فيسبوك وإنستجرام عشان أصحابه ومتابعينه يشوفوها.
+الميزة الحلوة فيه إنه أسرع جهاز فيديو دور بيل تم اختباره، يعني بيجيب لك الصورة اللايف في وقت قليل جداً مقارنة بغيره. كمان بيدعم كشف الحركة بدقة، وشوف بالليل بالألوان، وتقدر تتكلم مع اللي واقف على الباب. ولو اشتركت بـ 4.99 دولار شهرياً، بتاخد مميزات زيادة زي إشعارات لو في طرود أو ناس جت.
 
-**"Vibes" مكانها فين وإيه الجديد؟**
+العرض ده بيخليه بسعر 79.99 دولار، وده أرخص سعر ليه لحد دلوقتي، بعد ما كان سعره 70 دولار أقل. العرض ده موجود دلوقتي على أمازون وبيست باي، وده وقت كويس تشتريه فيه خصوصاً مع قرب الهالوين وعيد التسوق بتاع أمازون (برايم داي). الجهاز ده بيشتغل مع أمازون أليكسا، فممكن تشوف اللايف فيد على أي شاشة أليكسا أو تلفزيون فاير بصوتك بس.
 
-الميزة دي موجودة بس في تطبيق ميتا للذكاء الاصطناعي (Meta AI app)، ومش بتظهر في أي مكان تاني. "Vibes" بتيجي بدل صفحة "Discover" القديمة اللي كانت بتسمح للمستخدمين يشاركوا مع متابعينهم الأوامر اللي استخدموها عشان يعملوا محتوى بالذكاء الاصطناعي. الهدف من "Vibes" هو التركيز أكتر على الفيديو، مش على الأوامر نفسها، عشان تسهل على الناس إنها تلاقي أفكار جديدة وتجرب أدوات ميتا لعمل المحتوى بالذكاء الاصطناعي.
-
-**إزاي بتشتغل؟**
-
-الفيديوهات اللي بتظهر في Vibes بتيجي جنب الأمر (prompt) اللي اتعملت بيه. مثلاً، فيديو بيورّي مجموعة ماعز جبلي مليانة شعر وعضلات بتنط في تلج، كان معمول بأمر بيقول: "ماعز جبلي بتنط في تلج عميق؛ سلسلة جبال ألب جليدية؛ جو مهيب ومثير؛ ضوء نهار طبيعي بارد ومشرق --sref ... --stylize ...". المستخدمين يقدروا يعدلوا الفيديوهات دي بإضافة أو تغيير موسيقى، أو تغيير الصورة، أو تعديل الحركة. الفيديوهات الجديدة دي ممكن تتنشر على Vibes أو على قصص (Stories) أو ريلز (Reels) على إنستجرام وفيسبوك.
-
-**ميتا بتوسع استخدام الذكاء الاصطناعي**
-
-ميتا بتزود استخدام أدوات الذكاء الاصطناعي في منتجاتها كلها، زي إن المستخدمين يقدروا يعملوا صور بالذكاء الاصطناعي على فيسبوك وإنستجرام وواتساب. الشهر اللي فات، ميتا أعلنت عن شراكة مع Midjourney، وهو برنامج مشهور لعمل الصور بالذكاء الاصطناعي. ده بيبين إن ميتا مهتمة جداً بتطوير وتوسيع استخدامات الذكاء الاصطناعي في منصاتها.
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos</guid><pubDate>Fri, 26 Sep 2025 16:01:34 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale</guid><pubDate>Fri, 26 Sep 2025 20:00:00 GMT</pubDate></item></channel></rss>
