@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 27 Sep 2025 01:01:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Blink security camera app was down, but Amazon rolled out a fix</title><link>https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error</link><description>المقال بيتكلم عن مشكلة حصلت في تطبيق كاميرات الأمان بتاعة أمازون اللي اسمها "Blink".
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 27 Sep 2025 04:16:42 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Blink security camera app was down, but Amazon rolled out a fix</title><link>https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error</link><description>الخبر ده بيتكلم عن مشكلة حصلت في تطبيق كاميرات الأمان بتاعة أمازون اللي اسمها "Blink".
 
-**المشكلة اللي حصلت:**
-ناس كتير اشتكت إنها مش عارفة تفتح التطبيق بتاع كاميرات "Blink" يوم الجمعة بالليل. المشكلة كانت بتظهر على شكل رسالة خطأ فيها رقم "503".
+**المشكلة حصلت امتى وفين؟**
+يوم الجمعة بالليل، ناس كتير جداً اشتكت إنها مش عارفة تفتح التطبيق عشان تشوف الكاميرات بتاعتها. المشكلة دي انتشرت في كل حتة في أمريكا، زي كاليفورنيا ونيوجيرسي وتكساس وغيرهم.
 
-**تفاصيل المشكلة:**
-المشكلة دي أثرت على مستخدمين كتير في أماكن مختلفة في أمريكا، زي كاليفورنيا ونيوجيرسي وتكساس. وده بدأ يظهر في وقت متأخر بعد ضهر يوم الجمعة. حتى واحد من صحفيين الموقع اللي نشر الخبر جرب ينزل التطبيق وعمل حساب جديد، وواجه رسالة خطأ تانية برقم "403".
+**إيه اللي كان بيحصل للمستخدمين؟**
+اللي كان بيحاول يفتح التطبيق بيجيله رسالة خطأ غريبة مكتوب فيها "503 error code". حتى واحد من الصحفيين اللي كتب الخبر جرب ينزل التطبيق يعمل حساب جديد، وجاله خطأ تاني مكتوب فيه "403 error code".
 
-**الحل:**
-أمازون اعترفت بالمشكلة وبعتت المتحدثة باسمها "إيما دانيالز" تصريح للموقع بيقول إنهم عرفوا المشكلة و"حلوها". والمهم إن التسجيلات والإشعارات بتاعة الكاميرات مكنتش متأثرة بالوقفة دي.
+**الحل تم إمتى؟**
+أمازون اعترفت بالمشكلة دي، وقالت إنها نزلت تحديث يصلح العطل ده. بعد ما التحديث نزل، الناس بدأت تقدر تستخدم التطبيق عادي. أمازون كمان أكدت إن التسجيلات اللي بتتصور والإشعارات وصلتها كانت شغالة تمام، والمشكلة كانت بس في فتح التطبيق.
 
 Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error</guid><pubDate>Fri, 26 Sep 2025 23:37:57 GMT</pubDate></item></channel></rss>
