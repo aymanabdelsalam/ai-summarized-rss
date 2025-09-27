@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 20:14:51 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>One of our favorite video doorbells is 47 percent off in the run-up to Prime Day</title><link>https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale</link><description>الخبر ده بيتكلم عن عرض جامد على جرس الباب الذكي بتاع "Ring"، اسمه "Ring Battery Doorbell Plus". الجهاز ده يعتبر من أحسن الأنواع اللي بتشتغل بالبطارية، وبيقدم صورة واضحة جداً بجودة 1536p، وكمان بيوريك كل حاجة من فوق لتحت، وده بيساعدك تشوف لو في أي طرود وصلت عند بابك.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 27 Sep 2025 01:01:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Blink security camera app was down, but Amazon rolled out a fix</title><link>https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error</link><description>المقال بيتكلم عن مشكلة حصلت في تطبيق كاميرات الأمان بتاعة أمازون اللي اسمها "Blink".
 
-الميزة الحلوة فيه إنه أسرع جهاز فيديو دور بيل تم اختباره، يعني بيجيب لك الصورة اللايف في وقت قليل جداً مقارنة بغيره. كمان بيدعم كشف الحركة بدقة، وشوف بالليل بالألوان، وتقدر تتكلم مع اللي واقف على الباب. ولو اشتركت بـ 4.99 دولار شهرياً، بتاخد مميزات زيادة زي إشعارات لو في طرود أو ناس جت.
+**المشكلة اللي حصلت:**
+ناس كتير اشتكت إنها مش عارفة تفتح التطبيق بتاع كاميرات "Blink" يوم الجمعة بالليل. المشكلة كانت بتظهر على شكل رسالة خطأ فيها رقم "503".
 
-العرض ده بيخليه بسعر 79.99 دولار، وده أرخص سعر ليه لحد دلوقتي، بعد ما كان سعره 70 دولار أقل. العرض ده موجود دلوقتي على أمازون وبيست باي، وده وقت كويس تشتريه فيه خصوصاً مع قرب الهالوين وعيد التسوق بتاع أمازون (برايم داي). الجهاز ده بيشتغل مع أمازون أليكسا، فممكن تشوف اللايف فيد على أي شاشة أليكسا أو تلفزيون فاير بصوتك بس.
+**تفاصيل المشكلة:**
+المشكلة دي أثرت على مستخدمين كتير في أماكن مختلفة في أمريكا، زي كاليفورنيا ونيوجيرسي وتكساس. وده بدأ يظهر في وقت متأخر بعد ضهر يوم الجمعة. حتى واحد من صحفيين الموقع اللي نشر الخبر جرب ينزل التطبيق وعمل حساب جديد، وواجه رسالة خطأ تانية برقم "403".
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale</guid><pubDate>Fri, 26 Sep 2025 20:00:00 GMT</pubDate></item></channel></rss>
+**الحل:**
+أمازون اعترفت بالمشكلة وبعتت المتحدثة باسمها "إيما دانيالز" تصريح للموقع بيقول إنهم عرفوا المشكلة و"حلوها". والمهم إن التسجيلات والإشعارات بتاعة الكاميرات مكنتش متأثرة بالوقفة دي.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error</guid><pubDate>Fri, 26 Sep 2025 23:37:57 GMT</pubDate></item></channel></rss>
