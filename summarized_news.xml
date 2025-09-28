@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 12:25:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Proton Pass Review (2025): Finally Standing Tall</title><link>https://www.wired.com/review/proton-pass-2025/</link><description>المقال بيتكلم عن برنامج "بروتون باس" (Proton Pass)، وهو برنامج بيساعدك تحفظ كلمات السر بتاعتك. البرنامج ده لسه جديد، بقاله سنتين بس، بس تطور بسرعة جداً وبقى من أحسن برامج حفظ كلمات السر الموجودة.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 16:15:05 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Why I gave the world wide web away for free | Tim Berners-Lee - The Guardian</title><link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzdJMjdEOHh3VnpxNnhhcFlRd1FncVJBZ1VqVmV6bzBFb1ZVZlVraU9CdFZBbkFZeFQ1bDd6SFVMTnRMRTAwRlgydV9XbThqUG9GYlgyYkhtNlhTcWY5SVFNZW5NWWE2eFdWdkhQalNUckZnV0V4MmhRbVVaaVpKMXJSYlRKZjd3OHdLU3JPV1JBTFYtZ1M1REFn?oc=5</link><description>تمام، ده تلخيص للمقال اللي عن تيم بيرنرز لي، مخترع الويب العالمي، بالعامية المصرية:
 
-**تطور البرنامج ومميزاته:**
+**تيم بيرنرز لي بيحكي ليه قرر يدي الويب للعالم ببلاش**
 
-*   البرنامج ده بيتميز بالتحديثات المستمرة، تقريباً كل شهر أو شهرين بينزل تحديث جديد.
-*   بيوفر خطة مجانية كويسة جداً، وكمان سعره كويس مقارنة بالبرامج التانية زي 1Password و NordPass، خصوصاً لو اشتركت في باقة "بروتون أنليميتد" (Proton Unlimited) اللي بتشمل حاجات تانية زي VPN وإيميل مشفر ومساحة تخزين كبيرة.
-*   الشركة اللي عملت البرنامج ده، "بروتون" (Proton)، ليها تاريخ طويل في الأمان والخصوصية، وده بينعكس على البرنامج ده من خلال التشفير القوي (end-to-end encryption) وإن البرنامج مفتوح المصدر (open source)، يعني أي حد يقدر يشوف الكود بتاعه ويتأكد إنه آمن.
+تيم بيرنرز لي، اللي اخترع شبكة الإنترنت العالمية (الويب)، كتب مقال بيحكي فيه عن الأسباب اللي خلته يتخلى عن أي حقوق ملكية للويب ويديها للعالم ببلاش. الموضوع ده حصل سنة 1989 لما كان شغال في منظمة CERN في سويسرا، وكان عنده فكرة إنه يخلي المعلومات والبيانات تتشارك بسهولة بين الباحثين.
 
-**إمكانيات التخزين والتنظيم:**
+**فكرة الويب عشان تسهل الشغل والبحث**
 
-*   البرنامج بيسمحلك تخزن أنواع كتير من المعلومات، زي بيانات الدخول للمواقع (Login)، أرقام الكروت الائتمانية، ملاحظات، وهويات.
-*   مع الباقات المدفوعة، بتاخد مساحة تخزين كبيرة (10 جيجابايت في الخطة العادية، و 500 جيجابايت في خطة Unlimited).
-*   فيه ميزة اسمها "البريد البديل" (email aliases) اللي بتسمحلك تعمل إيميلات مؤقتة عشان تتجنب الإعلانات المزعجة أو الاختراق.
-*   تقدر تنظم الحاجات دي في "خزنات" (vaults) منفصلة، بس في الخطة المجانية ليك خزنتين بس.
+بيرنرز لي كان شايف إن فيه صعوبة في مشاركة المعلومات بين الأجهزة المختلفة والبرامج المتنوعة. فكرته كانت بسيطة: يعمل نظام يربط المعلومات ببعضها عن طريق حاجة اسمها "الارتباط التشعبي" (hyperlinks)، بحيث تقدر تنتقل من صفحة لصفحة بسهولة. ده كان هدفه الأساسي إنه يسهل الشغل البحثي والعلمي، ومش يخلي الموضوع احتكار لحد.
 
-**الأمان والمراقبة:**
+**إصرار على إن الويب يكون ملك للجميع**
 
-*   البرنامج فيه ميزة "مراقب الهجمات" (Pass Monitor) اللي بتكشف عن كلمات السر الضعيفة، الحسابات اللي محتاجة تفعيل المصادقة الثنائية (2FA)، والأهم، الحسابات اللي اتعرضت لاختراق بيانات.
-*   نقطة ضعف صغيرة هي إن مراقبة اختراق البيانات بتكون بس للإيميل المرتبط بحساب بروتون بتاعك، ولازم تضيف أي إيميلات تانية يدوي، وممكن تفوتك إشعارات مهمة لو مكنتش واخد بالك.
-*   البرنامج بيستخدم تشفير قوي جداً (256-bit AES-GCM) عشان يحمي بياناتك، ومش الشركة نفسها اللي بتقدر تفك تشفيرها.
-*   حتى لو حساب بروتون بتاعك اتخترق، ممكن تعمل باسورد إضافي خاص بالبرنامج ده عشان تزود طبقة حماية.
+لما الويب بدأ ينتشر، كانت فيه شركات كتير بتفكر تاخد حقوق الملكية وتحولها لخدمة مدفوعة. لكن تيم بيرنرز لي كان مصمم إن الويب يفضل مفتوح ومتاح لكل الناس، عشان كده تنازل عن أي حقوق ليه. كان شايف إن ده أفضل حاجة عشان الويب ينمو ويتطور ويوصل لأكبر عدد من الناس في العالم.
 
-**التوافق والاستخدام:**
+**الويب دلوقتي في خطر؟**
 
-*   البرنامج بقى متوفر كتطبيق على الكمبيوتر (ويندوز، ماك، لينكس) وعلى الموبايل (أندرويد و iOS)، بالإضافة للامتداد بتاع المتصفحات.
-*   برنامج المتصفح بيشتغل كويس جداً في حفظ كلمات السر وتعبئتها تلقائياً.
-*   نسخة الموبايل بتدعم فتح التطبيق بالبصمة أو Face ID، بس نقطة الضعف فيها إنها مبتقفلش تلقائي لما تسيب التطبيق وترجعله تاني، وده ممكن يعتبر مشكلة أمان.
-*   ميزة مشاركة كلمات السر آمنة جداً، وبتستخدم نظام "شفافية المفاتيح" (Key Transparency) عشان تتأكد إنك بتشارك مع مستخدم شرعي.
+في المقال، بيرنرز لي بيعبر عن قلقه إن الويب اللي اخترعه ممكن يكون دلوقتي في خطر. بيحذر من إن الشركات الكبيرة ممكن تسيطر عليه وتتحكم في المعلومات، أو إن الحكومات ممكن تستخدمه في الرقابة. هو بيدعو الناس إنهم يدافعوا عن الويب المفتوح اللي اخترعه، عشان يفضل أداة قوية للخير ولتمكين الناس.
 
-بشكل عام، "بروتون باس" يعتبر برنامج قوي جداً وآمن، خصوصاً مع الاهتمام الكبير اللي بتوليه شركة بروتون للأمان والخصوصية، وهو اختيار ممتاز للمحافظة على بياناتك.
-
-Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/review/proton-pass-2025/</guid><pubDate>Sun, 28 Sep 2025 12:00:00 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzdJMjdEOHh3VnpxNnhhcFlRd1FncVJBZ1VqVmV6bzBFb1ZVZlVraU9CdFZBbkFZeFQ1bDd6SFVMTnRMRTAwRlgydV9XbThqUG9GYlgyYkhtNlhTcWY5SVFNZW5NWWE2eFdWdkhQalNUckZnV0V4MmhRbVVaaVpKMXJSYlRKZjd3OHdLU3JPV1JBTFYtZ1M1REFn?oc=5</guid><pubDate>Sun, 28 Sep 2025 13:54:00 GMT</pubDate></item></channel></rss>
