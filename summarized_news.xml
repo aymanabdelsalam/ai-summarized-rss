@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 16:15:05 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Why I gave the world wide web away for free | Tim Berners-Lee - The Guardian</title><link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzdJMjdEOHh3VnpxNnhhcFlRd1FncVJBZ1VqVmV6bzBFb1ZVZlVraU9CdFZBbkFZeFQ1bDd6SFVMTnRMRTAwRlgydV9XbThqUG9GYlgyYkhtNlhTcWY5SVFNZW5NWWE2eFdWdkhQalNUckZnV0V4MmhRbVVaaVpKMXJSYlRKZjd3OHdLU3JPV1JBTFYtZ1M1REFn?oc=5</link><description>تمام، ده تلخيص للمقال اللي عن تيم بيرنرز لي، مخترع الويب العالمي، بالعامية المصرية:
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 20:14:14 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Why I gave the world wide web away for free | Tim Berners-Lee - The Guardian</title><link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzdJMjdEOHh3VnpxNnhhcFlRd1FncVJBZ1VqVmV6bzBFb1ZVZlVraU9CdFZBbkFZeFQ1bDd6SFVMTnRMRTAwRlgydV9XbThqUG9GYlgyYkhtNlhTcWY5SVFNZW5NWWE2eFdWdkhQalNUckZnV0V4MmhRbVVaaVpKMXJSYlRKZjd3OHdLU3JPV1JBTFYtZ1M1REFn?oc=5</link><description>تمام، ده تلخيص للمقال بالعامية المصرية:
 
-**تيم بيرنرز لي بيحكي ليه قرر يدي الويب للعالم ببلاش**
+**قصة اختراع الويب العالمي وإزاي بقى ببلاش**
 
-تيم بيرنرز لي، اللي اخترع شبكة الإنترنت العالمية (الويب)، كتب مقال بيحكي فيه عن الأسباب اللي خلته يتخلى عن أي حقوق ملكية للويب ويديها للعالم ببلاش. الموضوع ده حصل سنة 1989 لما كان شغال في منظمة CERN في سويسرا، وكان عنده فكرة إنه يخلي المعلومات والبيانات تتشارك بسهولة بين الباحثين.
+تيم بيرنرز لي، هو الراجل اللي اخترع الويب العالمي اللي إحنا بنستخدمه كل يوم. هو كان شغال في منظمة اسمها CERN في سويسرا في أواخر الثمانينات، وكان بيواجه مشكلة إن المعلومات كانت متفرقة وصعبة إن الناس توصلها لبعضها. عشان كده، هو ابتكر فكرة الويب العالمي، اللي بتسمح للناس إنهم يشاركوا المعلومات بسهولة عن طريق الروابط.
 
-**فكرة الويب عشان تسهل الشغل والبحث**
+**الفكرة بدأت بسيطة بس كبرت أوي**
 
-بيرنرز لي كان شايف إن فيه صعوبة في مشاركة المعلومات بين الأجهزة المختلفة والبرامج المتنوعة. فكرته كانت بسيطة: يعمل نظام يربط المعلومات ببعضها عن طريق حاجة اسمها "الارتباط التشعبي" (hyperlinks)، بحيث تقدر تنتقل من صفحة لصفحة بسهولة. ده كان هدفه الأساسي إنه يسهل الشغل البحثي والعلمي، ومش يخلي الموضوع احتكار لحد.
+تيم كان عايز يخلي تبادل المعلومات سهل جداً، فعمل حاجة اسمها "الهايبرتيكست" (hypertext)، اللي هي زي اللينكات اللي بندوس عليها دلوقتي عشان نروح صفحة تانية. الفكرة دي كانت ثورية وقتها، وبدأت تنتشر بسرعة. هو كتب أول متصفح للويب وأول خادم ويب، وبكده فتح الباب قدام العالم كله.
 
-**إصرار على إن الويب يكون ملك للجميع**
+**ليه ساب الويب ببلاش؟**
 
-لما الويب بدأ ينتشر، كانت فيه شركات كتير بتفكر تاخد حقوق الملكية وتحولها لخدمة مدفوعة. لكن تيم بيرنرز لي كان مصمم إن الويب يفضل مفتوح ومتاح لكل الناس، عشان كده تنازل عن أي حقوق ليه. كان شايف إن ده أفضل حاجة عشان الويب ينمو ويتطور ويوصل لأكبر عدد من الناس في العالم.
+أهم حاجة في الموضوع إن تيم قرر يسيب اختراعه ده للعالم كله من غير أي مقابل مادي. هو كان شايف إن الويب لازم يكون مفتوح للكل عشان الكل يستفيد منه ويطوره. هو خاف حد يسيطر على الويب ويتحكم فيه، فعمل حاجة اسمها "World Wide Web Consortium" (W3C) عشان يضمن إن الويب يفضل مفتوح وموحد.
 
-**الويب دلوقتي في خطر؟**
+**الويب النهاردة وإزاي لازم نحافظ عليه**
 
-في المقال، بيرنرز لي بيعبر عن قلقه إن الويب اللي اخترعه ممكن يكون دلوقتي في خطر. بيحذر من إن الشركات الكبيرة ممكن تسيطر عليه وتتحكم في المعلومات، أو إن الحكومات ممكن تستخدمه في الرقابة. هو بيدعو الناس إنهم يدافعوا عن الويب المفتوح اللي اخترعه، عشان يفضل أداة قوية للخير ولتمكين الناس.
+دلوقتي الويب بقى جزء أساسي من حياتنا، واستخدماته لا حصر لها. بس تيم بيرنرز لي شايف إن الويب دلوقتي عنده مشاكل زي الأخبار الكاذبة والتضليل، ومحتاج إننا نشتغل على إننا نخليه مكان أحسن وأكثر أماناً للجميع. هو بيدعو الناس إنهم يساعدوا في حماية الويب ده عشان يفضل مفيد ومفتوح.
 
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzdJMjdEOHh3VnpxNnhhcFlRd1FncVJBZ1VqVmV6bzBFb1ZVZlVraU9CdFZBbkFZeFQ1bDd6SFVMTnRMRTAwRlgydV9XbThqUG9GYlgyYkhtNlhTcWY5SVFNZW5NWWE2eFdWdkhQalNUckZnV0V4MmhRbVVaaVpKMXJSYlRKZjd3OHdLU3JPV1JBTFYtZ1M1REFn?oc=5</guid><pubDate>Sun, 28 Sep 2025 13:54:00 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzdJMjdEOHh3VnpxNnhhcFlRd1FncVJBZ1VqVmV6bzBFb1ZVZlVraU9CdFZBbkFZeFQ1bDd6SFVMTnRMRTAwRlgydV9XbThqUG9GYlgyYkhtNlhTcWY5SVFNZW5NWWE2eFdWdkhQalNUckZnV0V4MmhRbVVaaVpKMXJSYlRKZjd3OHdLU3JPV1JBTFYtZ1M1REFn?oc=5</guid><pubDate>Sun, 28 Sep 2025 19:06:00 GMT</pubDate></item></channel></rss>
