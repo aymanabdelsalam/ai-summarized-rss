@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 08:16:04 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record</title><link>https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record</link><description>بص يا سيدي، الموضوع كله بيدور حوالين مارتن شيكريلي، الراجل اللي لابس قضية ورا التانية، واللي كان معاه نسخة من ألبوم لمجموعة الراب الشهيرة "وو تانغ كلان" اسمه "Once Upon a Time in Shaolin". الألبوم ده بالذات كان فيه حاجة غريبة، إنه كان نسخة واحدة بس في العالم، وده اللي مخلي قيمته عالية جداً.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 28 Sep 2025 12:25:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Proton Pass Review (2025): Finally Standing Tall</title><link>https://www.wired.com/review/proton-pass-2025/</link><description>المقال بيتكلم عن برنامج "بروتون باس" (Proton Pass)، وهو برنامج بيساعدك تحفظ كلمات السر بتاعتك. البرنامج ده لسه جديد، بقاله سنتين بس، بس تطور بسرعة جداً وبقى من أحسن برامج حفظ كلمات السر الموجودة.
 
-المهم، شيكريلي ده، بعد ما اتحبس وطلع، بدأ يعمل نسخ من الألبوم ده وبيسمعها لناس. وبعدين، مجموعة اسمها "PleasrDAO" اشترت الألبوم ده من مزاد حكومي بحوالي 4 مليون دولار، بس اكتشفوا إن شيكريلي لسه معاه نسخ تانية وغير كده كمان كان بيتباهى إنه معاه الأغاني دي وبيسخر من اللي اشتروا الألبوم.
+**تطور البرنامج ومميزاته:**
 
-فالمجموعة دي رفعت قضية على شيكريلي عشان احتفظ بالنسخ دي وكمان قلل من قيمة الألبوم الأصلي. القاضية في أمريكا، اسمها باميلا تشين، حكمت إن قيمة الألبوم ده فعلاً بتعتمد على إنه "سري وحصري"، وده معناه إن شيكريلي كده ممكن يكون غلطان في حقهم. القضية لسه مخلصتش، بس القاضية سمحت باستمرار الدعوى دي ضد شيكريلي بتهمة "اختلاس أسرار تجارية".
+*   البرنامج ده بيتميز بالتحديثات المستمرة، تقريباً كل شهر أو شهرين بينزل تحديث جديد.
+*   بيوفر خطة مجانية كويسة جداً، وكمان سعره كويس مقارنة بالبرامج التانية زي 1Password و NordPass، خصوصاً لو اشتركت في باقة "بروتون أنليميتد" (Proton Unlimited) اللي بتشمل حاجات تانية زي VPN وإيميل مشفر ومساحة تخزين كبيرة.
+*   الشركة اللي عملت البرنامج ده، "بروتون" (Proton)، ليها تاريخ طويل في الأمان والخصوصية، وده بينعكس على البرنامج ده من خلال التشفير القوي (end-to-end encryption) وإن البرنامج مفتوح المصدر (open source)، يعني أي حد يقدر يشوف الكود بتاعه ويتأكد إنه آمن.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record</guid><pubDate>Sat, 27 Sep 2025 21:27:30 GMT</pubDate></item></channel></rss>
+**إمكانيات التخزين والتنظيم:**
+
+*   البرنامج بيسمحلك تخزن أنواع كتير من المعلومات، زي بيانات الدخول للمواقع (Login)، أرقام الكروت الائتمانية، ملاحظات، وهويات.
+*   مع الباقات المدفوعة، بتاخد مساحة تخزين كبيرة (10 جيجابايت في الخطة العادية، و 500 جيجابايت في خطة Unlimited).
+*   فيه ميزة اسمها "البريد البديل" (email aliases) اللي بتسمحلك تعمل إيميلات مؤقتة عشان تتجنب الإعلانات المزعجة أو الاختراق.
+*   تقدر تنظم الحاجات دي في "خزنات" (vaults) منفصلة، بس في الخطة المجانية ليك خزنتين بس.
+
+**الأمان والمراقبة:**
+
+*   البرنامج فيه ميزة "مراقب الهجمات" (Pass Monitor) اللي بتكشف عن كلمات السر الضعيفة، الحسابات اللي محتاجة تفعيل المصادقة الثنائية (2FA)، والأهم، الحسابات اللي اتعرضت لاختراق بيانات.
+*   نقطة ضعف صغيرة هي إن مراقبة اختراق البيانات بتكون بس للإيميل المرتبط بحساب بروتون بتاعك، ولازم تضيف أي إيميلات تانية يدوي، وممكن تفوتك إشعارات مهمة لو مكنتش واخد بالك.
+*   البرنامج بيستخدم تشفير قوي جداً (256-bit AES-GCM) عشان يحمي بياناتك، ومش الشركة نفسها اللي بتقدر تفك تشفيرها.
+*   حتى لو حساب بروتون بتاعك اتخترق، ممكن تعمل باسورد إضافي خاص بالبرنامج ده عشان تزود طبقة حماية.
+
+**التوافق والاستخدام:**
+
+*   البرنامج بقى متوفر كتطبيق على الكمبيوتر (ويندوز، ماك، لينكس) وعلى الموبايل (أندرويد و iOS)، بالإضافة للامتداد بتاع المتصفحات.
+*   برنامج المتصفح بيشتغل كويس جداً في حفظ كلمات السر وتعبئتها تلقائياً.
+*   نسخة الموبايل بتدعم فتح التطبيق بالبصمة أو Face ID، بس نقطة الضعف فيها إنها مبتقفلش تلقائي لما تسيب التطبيق وترجعله تاني، وده ممكن يعتبر مشكلة أمان.
+*   ميزة مشاركة كلمات السر آمنة جداً، وبتستخدم نظام "شفافية المفاتيح" (Key Transparency) عشان تتأكد إنك بتشارك مع مستخدم شرعي.
+
+بشكل عام، "بروتون باس" يعتبر برنامج قوي جداً وآمن، خصوصاً مع الاهتمام الكبير اللي بتوليه شركة بروتون للأمان والخصوصية، وهو اختيار ممتاز للمحافظة على بياناتك.
+
+Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/review/proton-pass-2025/</guid><pubDate>Sun, 28 Sep 2025 12:00:00 GMT</pubDate></item></channel></rss>
