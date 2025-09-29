@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 04:17:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades</title><link>https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot</link><description>تمام، ده تلخيص للمقال بالعامية المصرية:
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 08:21:13 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>'You'll never need to work again': Criminals offer reporter money to hack BBC</title><link>https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&amp;at_campaign=rss</link><description>**ملخص الخبر بالعامية المصرية:**
 
-آبل شغالة على تطوير سيري (Siri) بشكل جديد، وبيقولوا إنهم بيختبروا التحديث ده جوه الشركة باستخدام شات بوت داخلي اسمه "فيريتاس" (Veritas). الظاهر إن آبل متأخرة شوية في سباق الذكاء الاصطناعي، وسيري الجديدة كانت بتتأخر كذا مرة، ولما أعلنوا عن "آبل إنتليجنس" (Apple Intelligence) الناس ما استقبلتهاش بحماس شديد. "فيريتاس" ده بيساعدهم يطوروا بسرعة ويجربوا خدمات جديدة لسيري، زي إنها تدور في بياناتك الشخصية أو تعمل حاجات جوه التطبيقات زي تعديل الصور.
+**محاولة اختراق لـ BBC بمساعدة موظف داخلي:**
 
-"فيريتاس" ده شبه شات بوتس تانية زي ChatGPT و Gemini. الموظفين بيكتبوا له طلبات، ويتكلموا معاه رايح جاي، وممكن يرجعوا للمحادثات القديمة عشان يعرفوا تفاصيل زيادة. بس لحد دلوقتي، واضح إن مفيش خطط عشان ينزل للناس العادية. الغريب إن آبل شكلها كده هتعتمد على Gemini بتاع جوجل في البحث المدعوم بالذكاء الاصطناعي، وده ممكن يكون غلطة حسب رأي حد من بلومبرج.
+الخبر ده بيتكلم عن تجربة شخصية لصحفي في الـ BBC، اللي تعرض لمحاولة تجنيد من عصابة هاكرز عشان يساعدهم يخترقوا أنظمة الـ BBC. الهاكرز عرضوا عليه فلوس كتير (15% من الفدية، وممكن توصل لـ 25% من إيرادات الـ BBC لو نجحوا) لو سمح لهم بالدخول لأنظمة الشركة عن طريق جهازه. ده نوع من الهجمات اسمه "التهديد الداخلي"، واللي بيكون صعب اكتشافه.
 
----
+**تأكيد خطورة التهديدات الداخلية:**
 
-**معلومات إضافية للفهم:**
+الصحفي ده قرر يلعب معاهم عشان يعرف تفاصيل أكتر، خصوصاً إن الهجمات السيبرانية بقت منتشرة ومؤثرة. الهاكرز، واللي عرفوا نفسهم باسم "سينديكيت" (Syn) من عصابة اسمها "ميدوسا" (Medusa) اللي بتعمل في برامج الفدية، أثبتوا إنهم جد، وبعتوا له روابط لمواقعهم على الدارك ويب، وعرضوا عليه فلوس مقدم، وده كان بيأكد إنهم كانوا جادين في عرضهم.
 
-*   **آبل (Apple):** شركة تكنولوجيا كبيرة ومعروفة، من منتجاتها هواتف الآيفون والساعات الذكية.
-*   **سيري (Siri):** المساعد الصوتي الموجود في أجهزة آبل، زي ما جوجل عندها مساعد جوجل.
-*   **الذكاء الاصطناعي (AI):** قدرة الكمبيوترات على محاكاة القدرات الذهنية للبشر، زي التعلم وفهم اللغة.
-*   **شات بوت (Chatbot):** برنامج كمبيوتر مصمم لإجراء محادثة مع المستخدمين، زي ChatGPT.
-*   **Gemini:** نموذج ذكاء اصطناعي طورته جوجل، وبيستخدموه في البحث وخدمات تانية.
-*   **Apple Intelligence:** اسم لحزمة من ميزات الذكاء الاصطناعي اللي آبل ناوية تدمجها في أجهزتها.
-*   **بلومبرج (Bloomberg):** وكالة أخبار عالمية بتركز على الأخبار المالية والتجارية.
-*   **مارك جورمان (Mark Gurman):** صحفي في بلومبرج معروف بتغطيته لأخبار آبل.
+**أساليب الضغط والهجوم:**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot</guid><pubDate>Sun, 28 Sep 2025 21:01:41 GMT</pubDate></item></channel></rss>
+الهاكرز استخدموا أساليب ضغط مختلفة، زي وعود بالفلوس الكثيرة، وتلميحات بالعيش في رفاهية، وحتى تهديدات مبطنة. لما الصحفي استمر في المماطلة، الهاكرز حولوا أسلوبهم من المحادثات على تطبيقات الشات المشفرة لهجمات مباشرة على جهازه. بدأوا يبعتوله طلبات مصادقة ثنائية متكررة على تليفونه، وهي تقنية اسمها "MFA bombing"، واللي بتخلي الضحية يوافق بالغلط عشان يوقف الإزعاج، وده اللي حصل مع شركة أوبر قبل كده.
+
+**النتيجة والتحذيرات:**
+
+الصحفي، مع استشارة خبراء أمن المعلومات في الـ BBC، قدر يخرج من الموقف ده بأمان، وتم فصله مؤقتاً من أنظمة الشركة كإجراء احترازي. الهاكرز اعتذروا في الآخر، وقالوا إنهم كانوا بيختبروا صفحة تسجيل الدخول، واختفوا بعد كده. التجربة دي وضحت مدى خطورة التهديدات الداخلية، وأهمية اليقظة الدائمة في مواجهة الهجمات السيبرانية المتطورة.
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Mon, 29 Sep 2025 05:00:28 GMT</pubDate></item></channel></rss>
