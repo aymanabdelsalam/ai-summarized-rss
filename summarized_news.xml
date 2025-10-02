@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 16:17:06 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to the Xbox $360 era</title><link>https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad</link><description>الموضوع ده بيتكلم عن تغييرات كبيرة بتحصل في مايكروسوفت، خاصة في قسم الألعاب (Xbox) وقسم الذكاء الاصطناعي (AI).
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 20:14:56 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Google is destroying independent websites, and one sees no choice but to defend it anyway</title><link>https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web</link><description>ملخص الخبر بالعامية المصرية:
 
-**تغييرات في Xbox و Game Pass:**
+**تكنولوجيا جوجل سلاح ذو حدين لموقع "ويكيبيديا"**
 
-مايكروسوفت زودت أسعار اشتراك Game Pass، أعلى فئة بقت بـ 30 دولار شهرياً، وده بيوصل لـ 360 دولار في السنة. ده بيحصل مع زيادة أسعار أجهزة Xbox نفسها. السبب المتوقع ورا الزيادات دي هو صفقة استحواذ مايكروسوفت الضخمة على Activision Blizzard بقيمة 68.7 مليار دولار، واللي بتضغط على أرباح الشركة. الزيادات دي خلت كتير من اللاعبين يشتكوا ويشككوا في قيمة الخدمة، وبدأت الناس تلغي اشتراكاتها. ده كله بيحصل في ظل استراتيجية مايكروسوفت اللي بتعتمد على توسيع انتشار ألعاب Xbox على منصات تانية زي بلايستيشن وسويتش، وده بيعتبر اعتراف بخسارة مايكروسوفت في حرب الأجهزة.
+القضية اللي شغالة دلوقتي في المحكمة بين وزارة العدل الأمريكية وجوجل بخصوص احتكار جوجل لسوق الإعلانات على الإنترنت، ظهر فيها شاهد من موقع "ويكيبيديا" (WikiHow) اسمه "إليزابيث دوغلاس"، رئيسة الموقع. قالت دوغلاس إن جوجل بالنسبة لهم زي "العذاب والخلاص" في نفس الوقت.
 
-**استراتيجية Xbox الجديدة والتركيز على AI:**
+**تأثير الذكاء الاصطناعي على المواقع**
 
-مايكروسوفت بتتحرك نحو استراتيجية "Xbox Everywhere"، يعني بتوسع انتشار ألعابها على أجهزة الكمبيوتر والسحابة، مش بس على أجهزة Xbox. ده معناه إنهم ممكن يخلوا ألعاب Xbox الأساسية متاحة على الكمبيوتر بسعر أقل. فيه كمان زيادة في أسعار PC Game Pass، وده بيحصل مع قرب إطلاق جهاز Xbox Ally الجديد. مايكروسوفت كمان وعدت إن ألعاب Xbox هتنزل على فئة Game Pass Premium الأرخص خلال سنة، بس فيه استثناءات زي ألعاب Call of Duty اللي مش هتكون متاحة على الفئة دي.
+دوغلاس وضحت للمحكمة إن فيه تغيير كبير بيحصل في طريقة الناس بتدور بيها على المعلومات على الإنترنت بسبب أدوات الذكاء الاصطناعي الجديدة، زي الشات بوتس والميزات الجديدة في بحث جوجل نفسها. ده بيخلي الناس تقلل دخولها للمواقع، وبالتالي تقل مشاهدتها للإعلانات اللي بتجيب فلوس للمواقع دي.
 
-**إعادة هيكلة داخلية في مايكروسوفت والتركيز على AI:**
+**أدوات جوجل للإعلانات هي "الاستقرار" الوحيد**
 
-رئيس مايكروسوفت، ساتيا نادالا، بيعمل تغييرات كبيرة في الشركة عشان يركز أكتر على مجالات الذكاء الاصطناعي. تم توحيد فرق ويندوز تاني تحت قيادة واحدة، وده بيشير لتركيز أكبر على ميزات الذكاء الاصطناعي في النسخ المستقبلية من ويندوز. كمان، تم تعيين رئيس جديد للعمليات التجارية، وده بيدي نادالا فرصة يركز على الجوانب التقنية والهندسية. فيه كمان نقل لفرق هندسة Azure والسحابة، وده بيعكس أهمية السحابة والذكاء الاصطناعي في استراتيجية مايكروسوفت المستقبلية.
+رغم إن جوجل هو السبب في المشكلة دي، إلا إن دوغلاس قالت إن أدوات الإعلانات اللي بتستخدمها من جوجل هي "الحاجة المستقرة الوحيدة" في شغلها دلوقتي، حتى لو الفلوس اللي بتجيلها منها بتقل. كمان، "ويكيبيديا" عندها اتفاقية ترخيص محتوى مع جوجل بتجيب لها من 10 لـ 15% من دخلها، والاتفاقية دي مبتقولش إن جوجل مينفعش يستخدم صفحاتهم في تدريب أدوات الذكاء الاصطناعي بتاعته.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad</guid><pubDate>Thu, 02 Oct 2025 16:00:00 GMT</pubDate></item></channel></rss>
+**مخاوف من تقسيم أعمال جوجل الإعلانية**
+
+دوغلاس قلقانة لو المحكمة قررت تبيع جزء من أعمال جوجل الإعلانية، ده ممكن يأثر على الجزء الوحيد اللي بيخلي شغلهم ماشي، خصوصًا إنهم بيحاولوا يتأقلموا مع التغييرات الكبيرة اللي حصلت في طريقة استخدام الإنترنت. هي بتخاف إن المشتري الجديد مش هيقدم نفس الدعم اللي بتاخده من جوجل، وممكن يجيب فلوس أقل، أو إن أدوات تانية تكون أقل اعتمادية.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web</guid><pubDate>Thu, 02 Oct 2025 20:00:00 GMT</pubDate></item></channel></rss>
