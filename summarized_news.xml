@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 05 Oct 2025 16:14:56 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Roland is finally honoring its legacy instead of just cashing in on it</title><link>https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000</link><description>تمام، هتلخص لك المقال ده بالعامية المصرية، مع التركيز على النقط المهمة:
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 05 Oct 2025 20:14:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>If you can get past the terrible logo, Audacity 4 looks pretty great</title><link>https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</link><description>**تحديث برنامج Audacity: تحسينات جذرية في الإصدار الرابع**
 
-**روولاند رجعت لأصولها: جهاز درامز أنالوج جديد بعد سنين طويلة**
+برنامج Audacity، اللي بقى له أكتر من 25 سنة، بيستعد لإصدار تحديث كبير في نسخته الرابعة، واللي من المتوقع تنزل في أوائل سنة 2026. التحديث ده جاي عشان يحل مشاكل كتير في واجهة المستخدم اللي كانت معقدة وصعبة، ويخلي البرنامج أسهل وأقوى للمستخدمين.
 
-شركة روولاند، اللي اشتهرت بأجهزة المزيكا الأسطورية زي الـ TR-808 اللي عملت ثورة في الهيب هوب والموسيقى الإلكترونية، كانت غايبة عن الساحة لفترة طويلة. بعد ما كانت بتقدم أجهزة ديجيتال كتير محدش اهتم بيها، وركزت على إنها تحيي أمجادها القديمة بطرق ممكن تكون مش موفقة. ده خلى ناس كتير تحس إن الشركة مش مهتمة بتراثها الأصلي، وبتستخدم اسمه بس في التسويق.
+**وداعاً لـ "Audacity says 'no'"**
 
-**بعد ما كانت بتعتم بالديجيتال، روولاند بتفاجئنا بجهاز أنالوج حقيقي**
+أكبر تغيير في الإصدار الرابع هو التخلص من القيود اللي كانت بتخلي البرنامج يرفض بعض الأوامر بدون سبب واضح، وبيسموها "Audacity says ‘no’". دلوقتي، البرنامج هيسمح بحاجات زي سحب مقطع صوتي فوق مقطع تاني، أو لصق مقطع في مكان ضيق، أو تحديد أكتر من مقطع في نفس الوقت. ده هيتم عن طريق تغيير في طريقة عمل الواجهة، زي إن البرنامج هيقص المقطع اللي بتلصقه لو مفيش مساحة كافية، وهيتم إلغاء بعض "الأوضاع" اللي كانت بتحد من تفاعل المستخدم مع الصوت.
 
-روولاند كانت ماشية في طريق الديجيتال تقريبًا من أواخر الثمانينات، وسابت التكنولوجيا الأنالوج اللي كانت أساس نجاحها. مع إن المزيكا بدأت ترجع للأصوات الأنالوج في الألفينات، روولاند فضلت متمسكة بالديجيتال، وحاولت تقلد الأصوات الأنالوج عن طريق البرمجة والـ "مودلينج" (Analog Circuit Behavior - ACB)، وده اللي طلع منه أجهزة زي الـ TR-8. ده خلى شركات تانية زي Behringer و Korg يستغلوا الطلب على أجهزة الأنالوج الأصلية.
+**تحسينات في الاستخدام وأدوات جديدة**
 
-**وداعًا للاشتراكات المزعجة: الـ TR-1000 بيفكرنا بأيام زمان**
+التحديث الجديد هيضيف كمان مؤشرات صوت لكل تراك لوحده، وهيسهل عملية تقصير المقاطع الصوتية وتمديدها عن طريق سحب طرف المقطع. كمان هيتم إضافة أداة "split tool" عشان تسهل تنضيف الصوت. وبالنسبة للمستخدمين اللي بيستخدموا ميزة "Sync Lock"، فهيتم إلغائها في الإصدار الجديد، لكن المطورين أكدوا إن الطريقة الجديدة لعمل تزامن بين التراكات الصوتية في الإصدار الرابع هتكون أسهل وأكثر منطقية.
 
-الغضب الأكبر من الجمهور كان موجه لـ "Roland Cloud"، خدمة الاشتراكات اللي كتير من العملاء اشتكوا منها بسبب مشاكل الرخص والبرامج. لكن دلوقتي، روولاند رجعت بقوة بجهاز الـ TR-1000 Rhythm Generator، وهو أول جهاز درامز أنالوج ليها من سنة 1983 (بعد الـ TR-909). الجهاز ده بيعيد بناء دوائر الأنالوج لـ 16 صوت من الـ TR-808 والـ TR-909 باستخدام مكونات حديثة.
+**واجهة عصرية وقابلة للتخصيص**
 
-**الجهاز الجديد لاقى استحسان كبير والناس مبسوطة بيه**
+بالإضافة لكل ده، الواجهة الجديدة هتكون أسهل في القراءة وأكثر حداثة وقابلية للتخصيص، وده هيخلي تجربة استخدام Audacity أفضل بكتير. وعلى الرغم من إن الشعار الجديد للبرنامج أثار بعض الانتقادات، إلا إن التحسينات اللي هتشملها النسخة الرابعة بتوحي بأنها هتكون خطوة كبيرة للأمام للبرنامج اللي اعتمد عليه كتير من محترفي الصوت.
 
-الميزة الكبيرة في الـ TR-1000 إنه مش محتاج اشتراكات عشان تستخدم كل إمكانياته، ومفيش فيه أضواء مبهرجة زي أجهزة الـ Aira. كمان فيه أزرار تحكم كتير بتسهل استخدامه. الناس اللي جربته أو شافته متحمسة جدًا، ووصفوه بأنه "جميل، مركز، احترافي" و"آخر جهاز درامز هتحتاجه". سعر الجهاز مبدئيًا حوالي 2699 دولار، والناس بتتمنى روولاند تنزل منه نسخة أرخص تركز على الأصوات الأنالوج بس.
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000</guid><pubDate>Sun, 05 Oct 2025 16:00:00 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</guid><pubDate>Sun, 05 Oct 2025 17:37:55 GMT</pubDate></item></channel></rss>
