@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 05 Oct 2025 20:14:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>If you can get past the terrible logo, Audacity 4 looks pretty great</title><link>https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</link><description>**تحديث برنامج Audacity: تحسينات جذرية في الإصدار الرابع**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 01:05:25 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The true extent of cyber attacks on UK business - and the weak spots that allow them to happen</title><link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link><description>بص يا سيدي، الموضوع كله بيتكلم عن هجمات سيبرانية كبيرة ضربت شركات ضخمة في بريطانيا، وأبرزها شركة العربيات "جاكوار لاند روفر" (JLR).
 
-برنامج Audacity، اللي بقى له أكتر من 25 سنة، بيستعد لإصدار تحديث كبير في نسخته الرابعة، واللي من المتوقع تنزل في أوائل سنة 2026. التحديث ده جاي عشان يحل مشاكل كتير في واجهة المستخدم اللي كانت معقدة وصعبة، ويخلي البرنامج أسهل وأقوى للمستخدمين.
+**الهجمة على جاكوار لاند روفر وتأثيرها:**
+يوم 1 سبتمبر، اللي كان المفروض يكون بداية موسم شغل جامد لجاكوار لاند روفر بسبب نزول أرقام عربيات جديدة، المصانع وقفت تمامًا. الهجوم السيبراني اللي حصل في أواخر أغسطس عطّل الإنتاج، وممكن ياخد شهر تاني عشان يرجع لطبيعته. الخسائر وصلت لـ 50 مليون جنيه استرليني في الأسبوع، وده خلاهم يخسروا إنتاج شهر كامل عالميًا.
 
-**وداعاً لـ "Audacity says 'no'"**
+**المشكلة أكبر من JLR:**
+الموضوع مش بس JLR، ده فيه موجة هجمات سيبرانية على شركات كبيرة زي "ماركس آند سبنسر" و"كو-أوب"، وكمان على شركات بتوفر خدمات أساسية زي مطارات. ده غير شركات صغيرة ومؤسسات خيرية، وإجمالي اللي اتضرب وصل لآلاف الشركات والمؤسسات في بريطانيا.
 
-أكبر تغيير في الإصدار الرابع هو التخلص من القيود اللي كانت بتخلي البرنامج يرفض بعض الأوامر بدون سبب واضح، وبيسموها "Audacity says ‘no’". دلوقتي، البرنامج هيسمح بحاجات زي سحب مقطع صوتي فوق مقطع تاني، أو لصق مقطع في مكان ضيق، أو تحديد أكتر من مقطع في نفس الوقت. ده هيتم عن طريق تغيير في طريقة عمل الواجهة، زي إن البرنامج هيقص المقطع اللي بتلصقه لو مفيش مساحة كافية، وهيتم إلغاء بعض "الأوضاع" اللي كانت بتحد من تفاعل المستخدم مع الصوت.
+**سلسلة التوريد والشركات الصغيرة في خطر:**
+الهجمات دي بتأثر على شركات تانية كتير مرتبطة بالشركات الكبيرة دي، خصوصًا لو كانت بتعتمد على عميل واحد بس زي JLR. كتير من الشركات الصغيرة دي مهددة بالإفلاس لأن مفيش سيولة كفاية عندهم. فيه مخاوف إن ده ممكن يسبب ضرر دائم للصناعة الهندسية المتقدمة في البلد.
 
-**تحسينات في الاستخدام وأدوات جديدة**
+**تأثير الهجمات على الاقتصاد وسببها:**
+الهجمات دي بتكلف الشركات ملايين الجنيهات، زي ما حصل مع ماركس آند سبنسر (300 مليون) وكو-أوب (120 مليون). السبب بيرجع لصعوبة الحصول على برامج الفدية (ransomware) اللي بتشفر البيانات وتطلب فلوس، وغالبًا وراها مجرمين بيتكلموا إنجليزي وبيستخدموا البرامج دي عشان يبتزوا الشركات. كمان، طريقة "التسليم في الوقت المحدد" (just-in-time) في سلاسل التوريد بتخليهم عرضة أكتر للخطر لو حصل أي تعطيل.
 
-التحديث الجديد هيضيف كمان مؤشرات صوت لكل تراك لوحده، وهيسهل عملية تقصير المقاطع الصوتية وتمديدها عن طريق سحب طرف المقطع. كمان هيتم إضافة أداة "split tool" عشان تسهل تنضيف الصوت. وبالنسبة للمستخدمين اللي بيستخدموا ميزة "Sync Lock"، فهيتم إلغائها في الإصدار الجديد، لكن المطورين أكدوا إن الطريقة الجديدة لعمل تزامن بين التراكات الصوتية في الإصدار الرابع هتكون أسهل وأكثر منطقية.
+**الحكومة والشركات لازم يتحركوا:**
+خبراء شايفين إن الموضوع ده نتيجة "تقاعس" من الحكومة والشركات في الاهتمام بالأمن السيبراني. فيه قوانين مقترحة بس لسه بتتعطل، وتقارير بتحذر من مخاطر الذكاء الاصطناعي في الهجمات الجاية. فيه مخاوف كمان من هجمات على بنية تحتية حيوية زي شبكات الكهرباء أو النقل، اللي ممكن تكون نتائجها كارثية.
 
-**واجهة عصرية وقابلة للتخصيص**
-
-بالإضافة لكل ده، الواجهة الجديدة هتكون أسهل في القراءة وأكثر حداثة وقابلية للتخصيص، وده هيخلي تجربة استخدام Audacity أفضل بكتير. وعلى الرغم من إن الشعار الجديد للبرنامج أثار بعض الانتقادات، إلا إن التحسينات اللي هتشملها النسخة الرابعة بتوحي بأنها هتكون خطوة كبيرة للأمام للبرنامج اللي اعتمد عليه كتير من محترفي الصوت.
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great</guid><pubDate>Sun, 05 Oct 2025 17:37:55 GMT</pubDate></item></channel></rss>
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate></item></channel></rss>
