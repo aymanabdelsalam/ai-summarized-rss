@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 01:05:25 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The true extent of cyber attacks on UK business - and the weak spots that allow them to happen</title><link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link><description>بص يا سيدي، الموضوع كله بيتكلم عن هجمات سيبرانية كبيرة ضربت شركات ضخمة في بريطانيا، وأبرزها شركة العربيات "جاكوار لاند روفر" (JLR).
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 04:16:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Apple and Samsung users could be due share of £480m payout</title><link>https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&amp;at_campaign=rss</link><description>الملخص بالعامية المصرية:
 
-**الهجمة على جاكوار لاند روفر وتأثيرها:**
-يوم 1 سبتمبر، اللي كان المفروض يكون بداية موسم شغل جامد لجاكوار لاند روفر بسبب نزول أرقام عربيات جديدة، المصانع وقفت تمامًا. الهجوم السيبراني اللي حصل في أواخر أغسطس عطّل الإنتاج، وممكن ياخد شهر تاني عشان يرجع لطبيعته. الخسائر وصلت لـ 50 مليون جنيه استرليني في الأسبوع، وده خلاهم يخسروا إنتاج شهر كامل عالميًا.
+حوالي 30 مليون واحد في بريطانيا اشتروا موبايلات آبل أو سامسونج بين سنة 2015 و 2024، ممكن ياخدوا تعويض حوالي 17 جنيه استرليني. ده لو مجموعة حماية المستهلك اللي اسمها "Which?" كسبت قضية ضد شركة "كوالكوم" الأمريكية.
 
-**المشكلة أكبر من JLR:**
-الموضوع مش بس JLR، ده فيه موجة هجمات سيبرانية على شركات كبيرة زي "ماركس آند سبنسر" و"كو-أوب"، وكمان على شركات بتوفر خدمات أساسية زي مطارات. ده غير شركات صغيرة ومؤسسات خيرية، وإجمالي اللي اتضرب وصل لآلاف الشركات والمؤسسات في بريطانيا.
+المجموعة دي هتبدأ محاكمة ضد "كوالكوم" يوم الاثنين في لندن، والمحاكمة دي هتفضل شغالة لمدة خمس أسابيع. "Which?" بتتهم شركة "كوالكوم" إنها بتستخدم ممارسات احتكارية، وإنها أجبرت آبل وسامسونج يدفعوا أسعار زيادة ورسوم ترخيص غالية على مكونات الموبايلات الأساسية، وده اللي زود سعر الموبايلات دي على الناس.
 
-**سلسلة التوريد والشركات الصغيرة في خطر:**
-الهجمات دي بتأثر على شركات تانية كتير مرتبطة بالشركات الكبيرة دي، خصوصًا لو كانت بتعتمد على عميل واحد بس زي JLR. كتير من الشركات الصغيرة دي مهددة بالإفلاس لأن مفيش سيولة كفاية عندهم. فيه مخاوف إن ده ممكن يسبب ضرر دائم للصناعة الهندسية المتقدمة في البلد.
+القضية دي بتركز على هل "كوالكوم" كانت مسيطرة على السوق، ولو فعلاً كده، هل استغلت وضعها ده. لو "Which?" كسبت، المرحلة الجاية هتكون إنهم يطالبوا بتعويض 480 مليون جنيه استرليني من "كوالكوم" عشان تتوزع على حوالي 29 مليون صاحب موبايل بريطاني متضرر.
 
-**تأثير الهجمات على الاقتصاد وسببها:**
-الهجمات دي بتكلف الشركات ملايين الجنيهات، زي ما حصل مع ماركس آند سبنسر (300 مليون) وكو-أوب (120 مليون). السبب بيرجع لصعوبة الحصول على برامج الفدية (ransomware) اللي بتشفر البيانات وتطلب فلوس، وغالبًا وراها مجرمين بيتكلموا إنجليزي وبيستخدموا البرامج دي عشان يبتزوا الشركات. كمان، طريقة "التسليم في الوقت المحدد" (just-in-time) في سلاسل التوريد بتخليهم عرضة أكتر للخطر لو حصل أي تعطيل.
+"Which?" بتطالب بتعويض عن كل موبايلات آبل وسامسونج اللي اتشرت من أول أكتوبر 2015 لحد 9 يناير 2024. المجموعة بتقول إن ده معناه إن كل واحد هياخد حوالي 17 جنيه. شركة "كوالكوم" قبل كده قالت إن القضية "مالهاش أساس". فيه قضية شبه دي شغالة في كندا، و"كوالكوم" اتغرمت قبل كده في الاتحاد الأوروبي بسبب ممارسات احتكارية.
 
-**الحكومة والشركات لازم يتحركوا:**
-خبراء شايفين إن الموضوع ده نتيجة "تقاعس" من الحكومة والشركات في الاهتمام بالأمن السيبراني. فيه قوانين مقترحة بس لسه بتتعطل، وتقارير بتحذر من مخاطر الذكاء الاصطناعي في الهجمات الجاية. فيه مخاوف كمان من هجمات على بنية تحتية حيوية زي شبكات الكهرباء أو النقل، اللي ممكن تكون نتائجها كارثية.
-
-Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate></item></channel></rss>
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Mon, 06 Oct 2025 01:33:58 GMT</pubDate></item></channel></rss>
