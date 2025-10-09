@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 04:17:08 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ARX Connects People, Ideas, and Technology to Transform the Way We Live - CBS News</title><link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlhrY1A2c1NMQ0pkc0RpRnNPNHJZQU5iZDVXRTZZYkRSdWp4ay16UnZ4QVM3SFpqVHBMaEFZSWEtX3pFWXJ1VmJkZ3ZLcGFOQUNGaDBZM0QtSHRxZk1FY1czYjVzNVRGLURDT2NybGRhTWJSNnFwcTlTRHNNTVg3YWxkV3RHeHMzM3NYRDlTMmhRM25VQUt1REppRlVRUEtHZmc?oc=5</link><description>الخبر ده بيتكلم عن حاجة اسمها ARX، ودي عبارة عن منصة أو نظام بيجمع بين الناس والأفكار والتكنولوجيا عشان يغيروا طريقة عيشنا. الهدف الأساسي هو استخدام التكنولوجيا دي، زي الذكاء الاصطناعي والواقع الافتراضي، عشان نحل مشاكل ونخلق فرص جديدة في مجالات كتير.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 08:19:12 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ID photos of 70,000 users may have been leaked, Discord says</title><link>https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&amp;at_campaign=rss</link><description>تمام، إليك تلخيص للمقال بالعامية المصرية، مع مراعاة التعليمات:
 
-المنصة دي بتعمل على ربط كل حاجة ببعضها، يعني لو عندك فكرة، ARX بيساعدك توصلها بالناس اللي ممكن يساعدوك فيها بالتكنولوجيا أو الخبرة. كمان لو عندك تكنولوجيا، بيخليك توصلها بالناس اللي محتاجاها. الفكرة دي بتخلي الأمور أسهل وأسرع في التطوير والابتكار.
+**تسريب بيانات مستخدمين ديسكورد بسبب هجوم إلكتروني**
 
-من خلال ARX، بيقدروا يطوروا حلول لمشاكل موجودة في حياتنا اليومية، سواء كانت في الشغل، التعليم، أو حتى في طريقة تفاعلنا مع بعض. التركيز هنا على إن التكنولوجيا مش مجرد أدوات، لكنها مفتاح لحل المشاكل وتحسين جودة الحياة بشكل عام.
+شركة ديسكورد، المنصة المشهورة بين اللاعبين، أعلنت إن حوالي 70 ألف صورة بطاقة هوية لمستخدمين ممكن يكون اتسربت بسبب هجوم إلكتروني. الهجوم استهدف شركة تابعة كانت مسئولة عن التحقق من سن المستخدمين، لكن منصة ديسكورد نفسها لم يتم اختراقها. ديسكورد بتسمح للمستخدمين بإضافة صور بطاقاتهم للتأكد من سنهم، خصوصًا إنها مكان مهم للاعبين عشان يتواصلوا ويشاركوا ملفات.
 
-باختصار، ARX بتدعم فكرة إن المستقبل يعتمد على التكامل بين البشر والتكنولوجيا والأفكار، وده هيفتح مجالات جديدة ومبتكرة لتغيير العالم للأحسن.
+**المعلومات اللي اتسربت ومين اتأثر**
 
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlhrY1A2c1NMQ0pkc0RpRnNPNHJZQU5iZDVXRTZZYkRSdWp4ay16UnZ4QVM3SFpqVHBMaEFZSWEtX3pFWXJ1VmJkZ3ZLcGFOQUNGaDBZM0QtSHRxZk1FY1czYjVzNVRGLURDT2NybGRhTWJSNnFwcTlTRHNNTVg3YWxkV3RHeHMzM3NYRDlTMmhRM25VQUt1REppRlVRUEtHZmc?oc=5</guid><pubDate>Thu, 09 Oct 2025 04:00:00 GMT</pubDate></item></channel></rss>
+البيانات المسربة ممكن تشمل معلومات شخصية، أجزاء من تفاصيل بطاقات الائتمان، ورسائل كانت بين المستخدمين وخدمة عملاء ديسكورد. الشركة أكدت إن تفاصيل بطاقات الائتمان الكاملة، ولا كلمات المرور، ولا أي رسائل أو أنشطة تانية غير اللي كانت مع خدمة العملاء، اتسربت. كل المستخدمين اللي اتأثروا تم التواصل معاهم، وديسكورد شغالة مع جهات إنفاذ القانون عشان تحقق في الموضوع.
+
+**إجراءات ديسكورد والادعاءات المتداولة**
+
+ديسكورد ألغت وصول الشركة المزودة لخدمة العملاء للنظام اللي اتعرض للاختراق، لكنها لم تذكر اسم الشركة دي. فيه كلام على الإنترنت إن حجم التسريب أكبر من اللي ديسكورد أعلنته، لكن متحدث باسم ديسكورد نفى الكلام ده وقال إنها محاولة ابتزاز. ديسكورد مش هتستجيب للمطالب دي وهتكمل في إجراءاتها القانونية.
+
+**خلفية الموضوع وأهمية البيانات المسربة**
+
+المعلومات الشخصية زي صور بطاقات الهوية والأرقام القومية قيمة جدًا للمجرمين الإلكترونيين، لأنها ممكن تستخدم في عمليات احتيال، وبتفضل ثابتة على عكس تفاصيل بطاقات الائتمان. ديسكورد كانت قبل كده زودت إجراءات التحقق من السن بسبب قلق من استخدام بعض السيرفرات في نشر مواد إباحية ومتطرفة.
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Thu, 09 Oct 2025 06:45:00 GMT</pubDate></item></channel></rss>
