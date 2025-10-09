@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 12:29:02 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>DC Comics won’t support generative AI: ‘not now, not ever’</title><link>https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge</link><description>المقال ده بيتكلم عن إن شركة DC Comics، اللي بتعمل قصص مصورة زي سوبرمان وباتمان، أكدت إنها مش هتستخدم الذكاء الاصطناعي (AI) في كتابة القصص أو رسمها. رئيس الشركة "جيم لي" قال إن الجمهور بيحب الحاجة اللي بتتعمل بإيد بشر، وإن الذكاء الاصطناعي مش بيحس ولا بيدّعي، هو بس بيلمّ المعلومات.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 09 Oct 2025 16:18:51 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The AI industry is at a major crossroads</title><link>https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt</link><description>تمام، المقال بيتكلم عن أخبار كتير مهمة حصلت في عالم الذكاء الاصطناعي الأسبوع ده، خصوصًا من شركة OpenAI.
 
-الشركة دي عندها قاعدة إن كل الشغل لازم يكون أصلي ومتعملش بالذكاء الاصطناعي، بس حصلت مشاكل قبل كده لما ناس شكّت إنهم استخدموا AI في رسومات أغلفة قصص مصورة. الجمهور زعل وقتها وخاف على شغل الفنانين والكتاب، وده خلاهم ياخدوا موقف أقوى ضد استخدام الذكاء الاصطناعي.
+**أخبار OpenAI وتطورات الذكاء الاصطناعي**
 
-"جيم لي" شبه خوف الناس من الذكاء الاصطناعي بخوفهم من "ألفية جديدة" أو الـ "NFT" وقتها، وقال إن أي حد ممكن يرسم شخصية خارقة أو يكتب عنها، وده اسمه "fanfiction" وده عادي. لكن المهم إن الشخصيات دي تكون في عالم DC الخاص بيها، وده اللي بيخليها مستمرة.
+كان فيه مؤتمر لـ OpenAI اسمه DevDay في سان فرانسيسكو، أعلنوا فيه عن حاجات جديدة في ChatGPT وأدوات جديدة اسمها "agents". كمان طرحوا رؤية جريئة لمستقبل الذكاء الاصطناعي. في نفس الوقت، تطبيق Sora الجديد للفيديوهات اللي بتعملها الذكاء الاصطناعي بقى منتشر أوي، وده سبب شوية مواقف غريبة ومفاجئة حتى لمدير OpenAI نفسه، سام ألتمان، اللي بقى تريند على الإنترنت بسبب ميمز Sora.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge</guid><pubDate>Thu, 09 Oct 2025 11:54:29 GMT</pubDate></item></channel></rss>
+**تحديات التوظيف والذكاء الاصطناعي**
+
+كمان، فيه خبر مهم عن إن دلوقتي الشركات بتستخدم الذكاء الاصطناعي عشان تفلتر طلبات التوظيف، وده خلا الناس تبدأ تحط رسائل سرية جوه السير الذاتية بتاعتهم عشان يخدعوا الروبوتات دي ويحاولوا يزودوا فرصهم في المقابلات.
+
+**نظرة مستقبلية على عالم الذكاء الاصطناعي**
+
+في ضوء كل ده، الكاتب استضاف "كانيون تشيو"، مديرة شركة Imbue المتخصصة في الذكاء الاصطناعي. "كانيون" عندها خبرة كبيرة في مجال التكنولوجيا، وبتقول إن أهم سؤال دلوقتي هو: هل مستقبل الذكاء الاصطناعي هيكون مفتوح وموجه للمستخدم زي بداية الإنترنت، ولا هيكون مقفول ومحصور زي شبكات التواصل الاجتماعي؟ هي دي النقطة اللي الكاتب عايز يناقشها معاها عشان يفهم إيه اللي بيحصل وليه، وإيه تأثيره على المجتمع.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt</guid><pubDate>Thu, 09 Oct 2025 16:00:00 GMT</pubDate></item></channel></rss>
