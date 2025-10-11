@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 01:02:03 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hollywood has no idea what to do about AI</title><link>https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner</link><description>المقال بيتكلم عن الفرق الكبير بين طريقة تفكير وادي السيليكون (Silicon Valley) وهوليوود في التعامل مع الذكاء الاصطناعي، خصوصًا بعد ما شركة OpenAI نزلت تطبيق Sora اللي بيعمل فيديوهات بالذكاء الاصطناعي.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 04:16:21 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>How hackers forced brewing giant Asahi back to pen and paper</title><link>https://www.bbc.com/news/articles/cly64g5y744o?at_medium=RSS&amp;at_campaign=rss</link><description>الخبر ده بيتكلم عن هجمة إلكترونية جامدة أوي وقعت على شركة "أساهي" اليابانية، ودي أكبر شركة بيبسي في اليابان. الهجمة دي خلت الشركة تقفل معظم مصانعها وشركاتها في اليابان، وده أثر جامد على السوق.
 
-سام ألتمان، رئيس OpenAI، قدم Sora على إنه هدية للمبدعين، وقال إنهم ممكن يكونوا متشددين زيادة عن اللزوم في منع أنواع معينة من الفيديوهات. هو شايف إن الناس متحمسة جدًا للإمكانيات دي وإنها ممكن تقوي الارتباط بين المبدعين والجمهور، ووصفها بأنها "جيل جديد من قصص المعجبين".
+**تأثير الهجمة على السوق: نقص في المنتجات:**
 
-في المقابل، لما الكاتب راح لحدث في لوس أنجلوس، لاحظ إن مسئولي هوليوود لسه مش عارفين يتعاملوا مع المخاطر اللي بيسببها الذكاء الاصطناعي. الكل كان بيتكلم عن قضية حقوق الملكية الفكرية (copyright) وإنهم بيهتموا بيها، بس محدش كان عايز يتكلم بصراحة عن إن OpenAI استخدمت محتواهم في تدريب الذكاء الاصطناعي بدون إذن، ونزلت منتج بيوضح ده.
+بسبب الهجمة، فيه نقص كبير في منتجات أساهي، مش بس البيبسي، كمان المشروبات الغازية والمياه. المحلات الصغيرة والكبيرة زي "فاميلي مارت" و"سيفن إيليفن" بيحذروا الزباين من نقص المنتجات. حتى تجار الجملة بيستلموا كميات قليلة جداً من المنتجات، وبيتعاملوا بالأوراق والفاكس بدل الأنظمة الإلكترونية.
 
-حتى رؤساء شركات كبيرة زي نتفليكس وباراماونت كانوا بيتجنبوا الكلام عن Sora بالذات، ويركزوا على استخدامات الذكاء الاصطناعي الأقل إثارة للجدل كأداة مساعدة في الإنتاج. الوحيد اللي اتكلم بوضوح كان رئيس شركة وارنر ميوزيك، اللي أكد إن محتواهم لازم يتم ترخيصه عشان يتم استخدامه في التدريب، وإن فيه عواقب للي مش بيلتزموا بالقواعد.
+**المسؤولية عن الهجمة والوضع في اليابان:**
 
-المقال بيوضح إن صناعة الموسيقى قدرت تاخد موقف أقوى لأنهم عندهم خبرة سابقة في التعامل مع مشكلة زي دي مع ظهور خدمات البث الموسيقي. لكن غياب التحرك الجماعي من باقي هوليوود بيخلي شركات الذكاء الاصطناعي تكمل بنفس الطريقة، تاخد اللي عايزاه وتعتذر بعدين، وده بيحصل لأنهم شايفين إن ده أسلوب شركات التكنولوجيا عشان توصل للسيطرة.
+مجموعة "كيلين" المتخصصة في برامج الفدية هي اللي أعلنت مسؤوليتها عن الهجمة. الهجمة دي مش أول هجمة إلكترونية تحصل في اليابان، وده بيبين إن اليابان عندها ضعف في الأمن السيبراني، بالرغم من إنها بلد متقدمة تكنولوجياً. فيه خبراء بيقولوا إن اليابان محتاجة تزود عدد متخصصي الأمن السيبراني، وإن الشركات مش مستعدة للهجمات دي.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner</guid><pubDate>Fri, 10 Oct 2025 23:00:00 GMT</pubDate></item></channel></rss>
+**جهود الحكومة اليابانية:**
+
+الحكومة اليابانية بتحاول تعالج المشكلة دي، واقرت قانون جديد بيديها صلاحيات أكتر لمواجهة الهجمات السيبرانية. لكن ده مش بيساعد المحلات الصغيرة اللي بتعاني من نقص المنتجات. صاحب مطعم صغير في طوكيو بيقول إنه مش عارف هيحصل إيه في الطلبات الجاية، وده حال ناس كتير في اليابان.
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cly64g5y744o?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Sat, 11 Oct 2025 00:43:35 GMT</pubDate></item></channel></rss>
