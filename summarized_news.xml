@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 10 Oct 2025 20:14:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>OpenAI is trying to clamp down on ‘bias’ in ChatGPT</title><link>https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval</link><description>تمام، ده تلخيص للمقال اللي بعته بالعامية المصرية، مع التركيز على النقط المهمة:
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 11 Oct 2025 01:02:03 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hollywood has no idea what to do about AI</title><link>https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner</link><description>المقال بيتكلم عن الفرق الكبير بين طريقة تفكير وادي السيليكون (Silicon Valley) وهوليوود في التعامل مع الذكاء الاصطناعي، خصوصًا بعد ما شركة OpenAI نزلت تطبيق Sora اللي بيعمل فيديوهات بالذكاء الاصطناعي.
 
-**OpenAI بتعلن عن GPT-5 وبيقولوا إنه أقل تحيزًا**
+سام ألتمان، رئيس OpenAI، قدم Sora على إنه هدية للمبدعين، وقال إنهم ممكن يكونوا متشددين زيادة عن اللزوم في منع أنواع معينة من الفيديوهات. هو شايف إن الناس متحمسة جدًا للإمكانيات دي وإنها ممكن تقوي الارتباط بين المبدعين والجمهور، ووصفها بأنها "جيل جديد من قصص المعجبين".
 
-شركة OpenAI، اللي عملت ChatGPT، بتقول إن أحدث نسخة عندها اللي اسمها GPT-5، هي الأقل تحيزًا بين كل النماذج اللي عملوها. ده بييجي بعد سنين من الشكاوى، خصوصًا من المحافظين، إن برامجهم فيها تحيز سياسي. الشركة عملت اختبارات مكثفة على أسئلة كتير فيها مواضيع سياسية خلافية عشان تتأكد من ده.
+في المقابل، لما الكاتب راح لحدث في لوس أنجلوس، لاحظ إن مسئولي هوليوود لسه مش عارفين يتعاملوا مع المخاطر اللي بيسببها الذكاء الاصطناعي. الكل كان بيتكلم عن قضية حقوق الملكية الفكرية (copyright) وإنهم بيهتموا بيها، بس محدش كان عايز يتكلم بصراحة عن إن OpenAI استخدمت محتواهم في تدريب الذكاء الاصطناعي بدون إذن، ونزلت منتج بيوضح ده.
 
-**الاختبارات اللي عملوها كانت إزاي؟**
+حتى رؤساء شركات كبيرة زي نتفليكس وباراماونت كانوا بيتجنبوا الكلام عن Sora بالذات، ويركزوا على استخدامات الذكاء الاصطناعي الأقل إثارة للجدل كأداة مساعدة في الإنتاج. الوحيد اللي اتكلم بوضوح كان رئيس شركة وارنر ميوزيك، اللي أكد إن محتواهم لازم يتم ترخيصه عشان يتم استخدامه في التدريب، وإن فيه عواقب للي مش بيلتزموا بالقواعد.
 
-الاختبار ده تم فيه عرض 100 موضوع مختلف على نماذج ChatGPT، وكل موضوع اتسأل عليه بطرق مختلفة، من الليبرالية للمحافظة، ومن اللي فيها شحن عاطفي للي فيها حيادية. ده اتعمل على نماذج قديمة زي GPT-4o ونماذج جديدة زي GPT-5. كان فيه نموذج تاني بيقيم إجابات ChatGPT عشان يشوف لو فيها أي علامات تحيز، زي لما البرنامج يقلل من وجهة نظر حد أو يتبنى رأي سياسي معين.
+المقال بيوضح إن صناعة الموسيقى قدرت تاخد موقف أقوى لأنهم عندهم خبرة سابقة في التعامل مع مشكلة زي دي مع ظهور خدمات البث الموسيقي. لكن غياب التحرك الجماعي من باقي هوليوود بيخلي شركات الذكاء الاصطناعي تكمل بنفس الطريقة، تاخد اللي عايزاه وتعتذر بعدين، وده بيحصل لأنهم شايفين إن ده أسلوب شركات التكنولوجيا عشان توصل للسيطرة.
 
-**النتائج كانت إيه؟**
-
-الشركة بتقول إن نماذجها بشكل عام كويسة في إنها تفضل محايدة، وإن التحيز بيظهر قليلًا وبدرجة بسيطة. لكن لما بيظهر تحيز، بيكون أكتر في الأسئلة اللي فيها شحن عاطفي، خصوصًا اللي ليها طابع ليبرالي. النماذج الجديدة من GPT-5 أظهرت تحسن كبير عن النماذج القديمة، وقللت التحيز بنسبة 30%، وغالبًا التحيز اللي بيظهر بيكون عبارة عن رأي شخصي أو التركيز على وجهة نظر واحدة.
-
-**ليه الموضوع ده مهم؟**
-
-فيه ضغط حاليًا من الحكومة الأمريكية على شركات الذكاء الاصطناعي إن نماذجها تكون أكتر تفهمًا لوجهات النظر المحافظة. OpenAI أكدت إن فيه مواضيع في اختباراتها زي "الثقافة والهوية" و"الحقوق والقضايا" واللي غالبًا بتكون محل اهتمام الإدارة الحالية. الشركة كمان سعت لتقليل التحيز عن طريق إنها تدي للمستخدمين إمكانية يغيروا نبرة ChatGPT، ونشرت الخطوط اللي بتتبعها في برمجة الذكاء الاصطناعي.
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval</guid><pubDate>Fri, 10 Oct 2025 20:11:18 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner</guid><pubDate>Fri, 10 Oct 2025 23:00:00 GMT</pubDate></item></channel></rss>
