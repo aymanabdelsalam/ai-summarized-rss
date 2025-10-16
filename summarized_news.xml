@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 16 Oct 2025 16:18:54 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Anthropic turns to &amp;#8216;skills&amp;#8217; to make Claude more useful at work</title><link>https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents</link><description>تمام، المقال بيتكلم عن حاجة جديدة اسمها "Skills for Claude" اللي أعلنت عنها شركة Anthropic، ودي شركة بتشتغل في مجال الذكاء الاصطناعي. الفكرة إنهم بيطوروا روبوتات ذكاء اصطناعي (AI agents) تكون مفيدة أكتر للناس في شغلهم.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 16 Oct 2025 20:15:52 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Unions are trying to stop Trump from kicking out immigrants over social media posts</title><link>https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit</link><description>الملخص بالعامية المصرية:
 
-"Skills for Claude" دي عبارة عن "مجلدات" فيها تعليمات وسكريبتات وحاجات تانية بتساعد روبوت Claude يفهم المهام شغل معينة كويس. يعني مثلاً، ممكن تعلمه إزاي يتعامل مع ملفات Excel أو إزاي يلتزم بقواعد معينة لشركتك. والجميل إن أي حد يقدر يبني "Skills" خاصة بيه عشان تساعده في شغله، ويستخدمها في أماكن مختلفة زي Claude.ai أو حتى من خلال البرمجة. شركات زي Box و Rakuten و Canva جربوها بالفعل.
+**إدارة ترامب بتلغي تأشيرات بسبب بوستات على السوشيال ميديا**
 
-الهدف من الميزة دي إن روبوت Claude يبقى أذكى في الشغل بتاعك بالظبط، عشان مش كل شوية تقعد تكتبله أوامر طويلة ومعقدة عشان يعمل حاجة. دي متاحة للمشتركين في باقات Pro و Max و Team و Enterprise. واحد من المسؤولين في Anthropic قال إن الميزة دي بتساعد الشركات تعلم Claude إزاي يشتغل كويس في سياق شغلهم الخاص، مش مجرد إنه يحقق أرقام قياسية وخلاص.
+إدارة الرئيس الأمريكي السابق ترامب كانت بتراقب حسابات المهاجرين على السوشيال ميديا عشان تلاقي أي سبب تلغي بيه تأشيراتهم. منظمة "Electronic Frontier Foundation" (EFF) رفعت قضية ضد الحكومة الأمريكية، وبتقول إن السياسة دي بتخنق حرية التعبير للناس اللي عايشين في أمريكا، سواء كانوا مواطنين أو لا.
 
-الموضوع ده بيجي بعد ما شركة OpenAI، المنافسة ل Anthropic، أعلنت عن أداة شبيهة اسمها AgentKit. OpenAI عرضت إزاي شركة زي Albertsons (عندها محلات بقالة كتير في أمريكا) ممكن تستخدمها عشان تحسن مبيعات الآيس كريم مثلاً. شركات تانية زي Box و Canva كمان جربوا أدوات OpenAI. ده معناه إن شركات الذكاء الاصطناعي الكبيرة كلها شغالة على تطوير الروبوتات دي عشان تبقى أكتر فايدة وعملية في حياتنا اليومية والشغل.
+**قانون "امسك والغي" وتأثيره على الناس**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents</guid><pubDate>Thu, 16 Oct 2025 16:00:00 GMT</pubDate></item></channel></rss>
+القضية دي بتطالب بإلغاء سياسة "Catch-and-Revoke" اللي بتخلي الحكومة تلغي تأشيرة أي حد لو لقت على صفحته إنه بيدعم حماس أو منظمات إرهابية تانية. المشكلة إن تعريف "دعم" ده ممكن يكون واسع جداً، خصوصاً إن ترامب نفسه وصف حركة "Antifa" بالإرهابية. منظمة EFF رفعت القضية دي نيابة عن نقابات عمالية كبيرة، منها نقابة عمال صناعة السيارات.
+
+**الخوف من التعبير عن الرأي**
+
+المقاضاة دي بتقول إن السياسة دي بتخلي الناس تخاف تعبر عن رأيها، وخصوصاً على الإنترنت، عشان ما يتلغيش تأشيراتهم ويترحّلوا. ده بيخلي أعضاء النقابات يخافوا حتى من المشاركة في أنشطة النقابة الرسمية. التأثير ده ممكن يوصل للمواطنين الأمريكيين كمان لو ليهم علاقة بحد تأشيرته ممكن تتلغي بسبب كلامه على السوشيال ميديا.
+
+**حجة الحكومة والتصريحات المثيرة للجدل**
+
+البعض، زي السيناتور ماركو روبيو، بيقول إن أمريكا ليها الحق تلغي التأشيرات لأي سبب، وإنهم مش عايزين يستقبلوا "ناشطين" في أمريكا، وإن الناس هنا عشان تدرس مش عشان تعمل احتجاجات. لكن مؤخراً، الحكومة ألغت تأشيرات لأشخاص كتبوا كلام سلبي عن ناشط يميني بعد ما اتقتل، وده زود المخاوف من قمع الحريات. منظمة EFF شايفه إن حمايات الدستور بتشمل أي حد موجود في أمريكا، بغض النظر عن جنسيته، عشان حرية التعبير قيمة لازم نحترمها للكل.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit</guid><pubDate>Thu, 16 Oct 2025 19:21:10 GMT</pubDate></item></channel></rss>
