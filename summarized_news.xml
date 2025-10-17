@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 12:29:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>OpenAI temporarily stops AI deepfakes of Martin Luther King Jr</title><link>https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&amp;at_campaign=rss</link><description>بص يا سيدي، شركة اسمها OpenAI عندها برنامج ذكاء اصطناعي اسمه Sora، البرنامج ده بيعمل فيديوهات واقعية جداً. المشكلة إن فيه ناس استخدمت البرنامج ده عشان يعملوا فيديوهات لشخصيات تاريخية متوفاة، ومنهم الدكتور مارتن لوثر كينغ، واللي عملوا فيديوهات مش محترمة ليه.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 16:17:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ICE amps up its surveillance powers, targeting immigrants and antifa - The Washington Post</title><link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUd4UWhiakFwa1VwejRQY2J5UlRVQzBqMmJBaVZqLU0zY0dJSTE4RlRQeTB2MzFYSFlpSnFqci10TXdIVTlCZDV5X3prMlg3VDdxc3BIa0szMmtDVzh5S1Z4bmdKR09yaFgxWFdtdl9WLXVPWElyVlJ4YXppNUZsbEF1V2tSZzhBRmJKbU5LRUVfQQ?oc=5</link><description>تمام، هحاول ألخص لك الخبر ده بالعامية المصرية، مع الأخذ في الاعتبار التعليمات اللي قلتها.
 
-عشان كده، عيلة الدكتور مارتن لوثر كينغ طلبت منهم يوقفوا استخدامه، وOpenAI وافقت مؤقتاً لحد ما يطوروا حمايات أكتر للشخصيات التاريخية. ده حصل بعد ما ناس كتير عملت فيديوهات لشخصيات مشهورة زي الرئيس كينيدي والملكة إليزابيث، وحتى الممثل روبن ويليامز، وده ضايق عيلته جداً.
+**توسيع صلاحيات جهات الهجرة الأمريكية للمراقبة**
 
-المقاطع اللي اتعملت للدكتور كينغ كانت حاجات غريبة، زي مثلاً إنه يعدل خطبته الشهيرة "I Have a Dream" بطرق مختلفة، وفيه مقطع منهم كان بيقول فيه كلام عنصري، وده طبعاً مش حقيقي. وفيه فيديوهات تانية كانت بتظهر شخصيات بتشبه الدكتور كينغ ومالكوم إكس وهما بيتخانقوا.
+الخبر بيتكلم عن إن وكالة الهجرة والجمارك الأمريكية (ICE) بتزود صلاحياتها في المراقبة، خصوصًا على المهاجرين والناشطين اللي بيعتبروهم متطرفين، زي جماعات "أنتي فاشيست" (Antifa). الجهات دي بتقول إن الهدف هو حماية الأمن القومي، بس الموضوع ده بيثير قلق كبير عند المدافعين عن الحقوق المدنية.
 
-الخبراء شايفين إن قرار OpenAI بوقف استخدام صورة الدكتور كينغ خطوة كويسة، بس كان المفروض ياخدوا بالهم من الأول وما يسيبوش الموضوع كده. لأن الفيديوهات دي مش بس بتسيء للشخصيات دي، لكن كمان بتخلي الناس تتلخبط بين الحقيقي والمفبرك، وممكن تستخدم في نشر معلومات غلط أو حتى إعادة كتابة التاريخ. OpenAI قالت إنهم بيحترموا حقوق الناس وعائلاتهم في استخدام صورهم، وإنهم هيسمحوا لأصحاب الحقوق يطلبوا عدم استخدام صورهم.
+**أساليب المراقبة الجديدة والبيانات المستهدفة**
 
-Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Fri, 17 Oct 2025 12:17:01 GMT</pubDate></item></channel></rss>
+الـ ICE بتستخدم تكنولوجيا متقدمة عشان تجمع معلومات عن الأشخاص. ده بيشمل مراقبة وسائل التواصل الاجتماعي، وشراء بيانات خاصة من شركات الوساطة، وكمان الوصول لمعلومات من سجلات عامة. التركيز بيكون على تتبع الأفراد اللي ممكن يشكلوا خطر، لكن ده بيفتح الباب لانتهاك خصوصية الناس بشكل واسع، خاصة للمهاجرين اللي وضعهم القانوني مش واضح.
+
+**المخاوف من الاستهداف والتمييز**
+
+المنظمات الحقوقية بتعتبر إن توسيع صلاحيات الـ ICE بالطريقة دي ممكن يؤدي للاستهداف والتمييز ضد مجموعات معينة، خصوصًا المهاجرين والأقليات. هم خايفين إن البيانات دي تستخدم ضد الناس بشكل غير عادل، وإن ده يخلي الناس تخاف تعبر عن رأيها أو تشارك في أي نشاط سياسي.
+
+**الجدل المستمر حول دور الـ ICE**
+
+الموضوع ده مش جديد، دايماً فيه جدل حوالين دور وكالة الهجرة والجمارك في أمريكا. بينما الحكومة بتشوف إنها ضرورية للأمن، فيه أصوات كتير بتطالب بتقليل صلاحياتها أو حتى إلغائها بسبب الاتهامات اللي بتوجه ليها بانتهاك حقوق الإنسان. هذا التوسع الجديد في المراقبة بيزود حدة النقاش ده.
+
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUd4UWhiakFwa1VwejRQY2J5UlRVQzBqMmJBaVZqLU0zY0dJSTE4RlRQeTB2MzFYSFlpSnFqci10TXdIVTlCZDV5X3prMlg3VDdxc3BIa0szMmtDVzh5S1Z4bmdKR09yaFgxWFdtdl9WLXVPWElyVlJ4YXppNUZsbEF1V2tSZzhBRmJKbU5LRUVfQQ?oc=5</guid><pubDate>Fri, 17 Oct 2025 15:45:54 GMT</pubDate></item></channel></rss>
