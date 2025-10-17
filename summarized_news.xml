@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 01:05:24 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>MacBook Pro rumor points to OLED, touchscreen upgrades next year</title><link>https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen</link><description>طيب، بص يا سيدي، الخبر ده بيتكلم عن أبل وعن أجهزة الماك بوك برو الجديدة اللي نازلة، بس كمان بيركز على التحديثات اللي ممكن تحصل في المستقبل.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 17 Oct 2025 04:17:17 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Skylark Drones &amp; Sensonic sign MoU for Rail Infrastructure Technology fusion - Yahoo Finance</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVM2LTFiOTdyV2RRX3JBVHZnUDRtMld1SElFdVc3eVVmWUJETGZsbFktQkFHdExMZTBCU1ZUQnVyenR5YTZBV0VZZHRMc3NhazkyYUo0QlRMY2FONTVyNzA0VF8zM2hlZXFtM1ZyZnRUc0R6bl9sVDJidTQ1WmZ3RnBMU2c?oc=5</link><description>تمام، فهمت التعليمات. المقال ده بيتكلم عن اتفاقية تعاون بين شركتين لتطوير تكنولوجيا السكك الحديدية.
 
-**التحديثات اللي جاية قريب:**
-أبل لسه منزلين تحديثات للماك بوك برو مقاس 14 بوصة، ودي فيها معالج M5 جديد، وتخزين أسرع، ووعد ببطارية بتشتغل 24 ساعة. بس ده مش كل حاجة، لأن فيه كلام كتير جاي عن تغييرات أكبر.
+**ملخص الخبر بالعامية المصرية:**
 
-**التغييرات الكبيرة المتوقعة (بعد سنة أو سنتين):**
-مارك جورمان، اللي بيجيب أخبار من مصادر أبل، بيقول إن التحديث الجاي للماك بوك برو هيكون فيه تغييرات جذرية. من ضمنها شاشات بتلمس (تاتش سكرين)، وشاشات OLED، وتصميم أخف وأنحف. كان المفروض ده ينزل آخر 2025، بس عشان مشاكل في تصنيع شاشات OLED، اتأجل.
+شركة "سكاي لارك درون" (Skylark Drones) اللي بتشتغل في مجال الطائرات بدون طيار، عملت اتفاقية مهمة مع شركة "سينسونيك" (Sensonic) اللي متخصصة في تكنولوجيا استشعار الاهتزازات. الهدف من التعاون ده هو دمج التكنولوجيتين دول عشان يحسنوا تكنولوجيا البنية التحتية للسكك الحديدية.
 
-**حاجات تانية ممكن تحصل:**
-كمان فيه كلام عن إن أبل ممكن تستبدل بصمة الإصبع (Touch ID) بكاميرا التعرف على الوجه (Face ID) زي اللي موجودة في الآيفون، بس دي لسه هتاخد كام سنة. قبل كل ده، المفروض نشوف تحديثات للماك بوك برو بمعالجات M5 Pro و M5 Max بنفس التصميم الحالي، وكمان تحديثات لأجهزة ماك بوك إير، وماك ستوديو، وماك ميني، وشاشتين تانيين.
+الاتفاقية دي بتسمح للشركتين إنهم يدمجوا خبراتهم مع بعض، بحيث تستخدم "سكاي لارك درون" طائراتها بدون طيار في جمع بيانات دقيقة عن خطوط السكك الحديدية، و"سينسونيك" تستخدم مستشعراتها المتطورة عشان تحلل أي اهتزازات أو مشاكل ممكن تحصل في القضبان والمحطات. ده هيساعد في اكتشاف أي أعطال محتملة بدري واتخاذ الإجراءات اللازمة قبل ما تحصل مشاكل كبيرة.
 
-**التكلفة والمميزات الجديدة:**
-التغييرات الكبيرة دي، زي كاميرا الويب اللي هتبقى زي اللي في الآيفون (Dynamic Island) ووصلات أقوى عشان الشاشة متتزحزحش وانت بتلمسها، هتخلي سعر الأجهزة يزيد "كام مئات الدولارات". وللأسف، التغييرات دي مش هتوصل للأجهزة الأرخص من أبل في الأول.
+التعاون ده يعتبر خطوة مهمة لتحديث أنظمة مراقبة وصيانة السكك الحديدية، ويهدف في النهاية لزيادة الأمان والكفاءة في تشغيل القطارات. من المتوقع أن المزيج بين تكنولوجيا الطائرات بدون طيار والاستشعار الدقيق هيوفر حلول مبتكرة لمشاكل البنية التحتية المعقدة في قطاع السكك الحديدية.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen</guid><pubDate>Fri, 17 Oct 2025 00:46:04 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMihAFBVV95cUxOdVM2LTFiOTdyV2RRX3JBVHZnUDRtMld1SElFdVc3eVVmWUJETGZsbFktQkFHdExMZTBCU1ZUQnVyenR5YTZBV0VZZHRMc3NhazkyYUo0QlRMY2FONTVyNzA0VF8zM2hlZXFtM1ZyZnRUc0R6bl9sVDJidTQ1WmZ3RnBMU2c?oc=5</guid><pubDate>Fri, 17 Oct 2025 03:32:00 GMT</pubDate></item></channel></rss>
