@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 21 Oct 2025 01:07:57 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>What caused the AWS outage - and why has it made the internet fall apart?</title><link>https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&amp;at_campaign=rss</link><description>**ملخص الخبر عن عطل أمازون لخدمات الويب (AWS)**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 21 Oct 2025 04:17:14 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Amazon outage 'resolved' as Snapchat and banks among sites impacted</title><link>https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&amp;at_campaign=rss</link><description>تمام، سألخص لك المقال ده بالعامية المصرية، مع التركيز على النقط المهمة زي ما طلبت:
 
-الخبر بيتكلم عن مشكلة كبيرة حصلت بسبب عطل في خدمات أمازون لخدمات الويب (AWS)، وده أثر على أكتر من 1000 شركة وملايين مستخدمي الإنترنت حول العالم. العطل ده أثر على منصات كبيرة زي سناب شات وريديت، وبنوك زي لويدز وهاليفاكس، وألعاب زي روبلوكس وفورتنايت.
+**المشكلة الكبيرة اللي حصلت بسبب AWS:**
 
-AWS دي شركة أمريكية ضخمة بتعتبر العمود الفقري للإنترنت، لأنها بتوفر أدوات وأجهزة كمبيوتر وخدمات تخزين بتشغل حوالي ثلث الإنترنت. ببساطة، الشركات بتعتمد عليها عشان تدير احتياجاتها التقنية بدل ما تبني أنظمة خاصة بيها. المشكلة اللي حصلت كانت بسيطة في أصلها، وهي خطأ في نظام أسماء النطاقات (DNS)، وده عامل زي الخريطة اللي بتوصل المستخدمين بالخدمات اللي بيدورو عليها.
+يوم الاتنين اللي فات، حصلت مشكلة كبيرة في خدمات أمازون السحابية (AWS)، ودي حاجة بتخلي مواقع وتطبيقات كتير جداً تشتغل. المشكلة دي خلت أكتر من 1000 موقع وتطبيق، زي سناب شات وبنوك زي لويدز وهاليفاكس، يشتغلوا بشكل متقطع أو ميبقوش متاحين خالص طول اليوم. عدد البلاغات عن المشاكل دي وصل لأكتر من 11 مليون بلاغ عالمياً في يوم واحد، وده بيورّي قد إيه إحنا معتمدين على الخدمات دي.
 
-العطل حصل في مركز بيانات أمازون الكبير في شمال فيرجينيا. خبراء كتير شايفين إن الحادث ده بيبين خطورة الاعتماد على مزود خدمة واحد بس، خاصة إن AWS هي اللاعب الأكبر في المجال ده، ومفيش بدائل كتير بنفس الحجم. المنافسين الرئيسيين هما Azure من مايكروسوفت ومنصة جوجل السحابية، وشركات أصغر زي IBM وعلي بابا الصينية.
+**إيه اللي حصل وإيه السبب؟**
 
-البعض بيدعو لإن أوروبا والمملكة المتحدة تبني بنية تحتية خاصة بيها عشان تقلل الاعتماد على أمريكا في خدمات الحوسبة السحابية، لكن البعض الآخر بيشوف إن الوقت فات. الحادث ده بيوضح قد إيه إن الاعتماد على نقطة فشل واحدة ممكن يسبب فوضى كبيرة، وده بيأكد أهمية تنويع مصادر الخدمات التقنية.
+المشكلة بدأت حوالي الساعة 7 صباحاً بتوقيت بريطانيا، وبدأت الناس تشتكي إنها مش قادرة توصل لمواقع كتير، زي ألعاب أونلاين وتطبيقات تعليم لغات. أمازون قالت إن المشكلة كانت متعلقة بنظام الـ DNS، اللي هو زي دليل تليفونات الإنترنت، وبيحول أسماء المواقع لأرقام الكمبيوتر بيفهمها. أي خلل فيه بيخلي المواقع مش بتظهر. أمازون اشتغلت على حل المشكلة، وقالت إن الأمور رجعت لطبيعتها حوالي الساعة 11 بالليل، بس ده حصل بعد ما اضطروا يوقفوا أجزاء من نظامهم عشان يحلوا المشكلة الأساسية، وده ممكن يكون عمل مشاكل تانية متتالية.
 
-Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Mon, 20 Oct 2025 15:33:00 GMT</pubDate></item></channel></rss>
+**الاعتماد على شركة واحدة والمخاطر:**
+
+المشكلة دي وضحت قد إيه إن الشركات معتمدة بشكل كبير على شركة واحدة زي أمازون عشان توفر لها البنية التحتية الرقمية. خبراء قالوا إن ده بيخلينا عرضة لمشاكل كبيرة لو حصل أي حاجة عند الشركة دي. كمان فيه رأي بيقول إن الشركات اللي بتستخدم خدمات AWS مش بتاخد احتياطات كفاية لحماية تطبيقاتها، وإن لازم يستثمروا في أنظمة احتياطية عشان يخلوا أنظمتهم أقوى وأكثر أماناً.
+
+**الدروس المستفادة والمستقبل:**
+
+المشكلة دي بتبيّن قد إيه الاعتماد على عدد قليل من الشركات الكبيرة في مجال الحوسبة السحابية (زي أمازون ومايكروسوفت وجوجل) فيه مخاطرة كبيرة. حوالي 70% من الخدمات السحابية بتيجي من الشركات دي، وده بيخلي أي مشكلة عندهم تأثر بشكل كبير على الاقتصاد. بعض الخبراء شايفين إن الحل هو تنويع مصادر الخدمات، والاعتماد على خدمات محلية أكتر عشان نحمي أمننا وسيادتنا واقتصادنا. كمان فيه أمثلة سابقة لشركات تانية حصلت فيها مشاكل مشابهة، وبعض الشركات لسه بتطالب بتعويضات عن خسائرها.
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Tue, 21 Oct 2025 03:30:02 GMT</pubDate></item></channel></rss>
