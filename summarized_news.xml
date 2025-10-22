@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 12:30:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Introducing: the body issue - MIT Technology Review</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWNzQkVuYTlKemRIX0pQeWI2MEo2d3ZacFZsQWpFZWpmSEdFZHM3UFZOVWxGRkZ3TUEwdVRDSkRnUEMzMG5BNGZ3N1I0U0RWcDAzU0dKQ0NWWnRWc1ZRSEM2ZnVDcEtqMVJQY1NKSUZPRE1nd3VIWTEtcWV1MlI0c0VSR2lMQdIBiwFBVV95cUxPZkdndUdINlpkSlJBWnJ6MWhCQlJ6V24tYVJFM0wyNklXYVB6NVJ3TkNmRUtnSnlJbFd5bDFubXNPLTdWRm5SQkdtM0ZWWVNYeHhIWjVxelJUNUlRUTJsYjN4bmhVNmQ3aGVsTkJyV2l1b1lFMk9EcFBtUGpLUmJTUU5iVXBqUEZ3empF?oc=5</link><description>المقال بيتكلم عن مشكلة كبيرة بتواجه صناعة التكنولوجيا، وهي إن "الذكاء الاصطناعي" (AI) مش قادر يفهم جسم الإنسان كويس. المشكلة دي ظهرت في نماذج الذكاء الاصطناعي الجديدة اللي بتطلع صور، واللي بتغلط كتير في تمثيل الأجسام البشرية.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 16:19:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The best Android phones</title><link>https://www.theverge.com/23674658/best-android-phone</link><description>## ملخص لأفضل هواتف أندرويد في السوق حاليًا
 
-المقال بيوضح إن الأخطاء دي مش مجرد حاجة بسيطة، دي بتعكس تحيزات موجودة في البيانات اللي بتتدرب عليها نماذج الذكاء الاصطناعي. يعني لو البيانات دي فيها صور ناقصة أو مش بتنوع بشكل كافي في الأجسام البشرية، فالذكاء الاصطناعي هيتعلم غلط وهيعكس الصورة دي.
+**مقدمة عن سوق الأندرويد:**
+سوق هواتف الأندرويد كبير ومتنوع، وده بيخلي فيه اختيارات كتير تناسب كل الأذواق والميزانيات. بس في نفس الوقت، كثرة الاختيارات ممكن تخلي الواحد يتوه. المقال ده بيقدم دليل لأفضل الهواتف الأندرويد اللي تم اختبارها مؤخرًا، بناءً على تجربة الكاتب الشخصية.
 
-والأخطر من كده، إن الأخطاء دي بتأثر على ناس كتير، زي الأشخاص اللي عندهم إعاقات، أو اللي أجسامهم مش بتتوافق مع المعايير اللي الذكاء الاصطناعي متعود عليها. كمان فيه قلق من إن الأخطاء دي ممكن تتطور وتسبب مشاكل أكبر في المستقبل، زي لو استخدمنا الذكاء الاصطناعي في حاجات زي التشخيص الطبي.
+**معايير اختيار الهاتف الممتاز:**
+عند اختيار هاتف أندرويد، فيه عوامل كتير مهمة لازم تبص عليها. أهمها:
+*   **المتانة وطول العمر:** لازم الهاتف يكون قوي ويستحمل الاستخدام لفترة طويلة، وده بيشمل مقاومة المايه والغبار (يفضل IP68)، وشاشات قوية، وإطار معدني. كمان مهم فترة دعم تحديثات النظام والأمان، ويفضل تكون 7 سنين زي ما جوجل وسامسونج بيقدموا دلوقتي.
+*   **الشاشة:** دقة عالية (1440p)، ومعدل تحديث سريع (120Hz) بيخلي الحركة سلسة، ويفضل يكون متغير عشان يوفر بطارية.
+*   **الكاميرا:** مش بس التصوير في الإضاءة الكويسة، المهم كمان أداء الكاميرا في الإضاءة المنخفضة والمشاهد الصعبة. تثبيت الصورة البصري (OIS) مهم جدًا.
+*   **الشحن اللاسلكي:** ميزة مهمة لناس كتير، رغم إن عدم وجودها مش نهاية العالم.
 
-الحل اللي المقال بيقترحه هو إننا نحتاج نطور نماذج ذكاء اصطناعي بتفهم جسم الإنسان بشكل أفضل، وكمان نحتاج نستخدم بيانات تدريب أكتر تنوعاً وشمولية. ده هيساعد إن الذكاء الاصطناعي يكون أداة مفيدة للكل، مش بس لفئة معينة.
+**أفضل الهواتف الموصى بها:**
 
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWNzQkVuYTlKemRIX0pQeWI2MEo2d3ZacFZsQWpFZWpmSEdFZHM3UFZOVWxGRkZ3TUEwdVRDSkRnUEMzMG5BNGZ3N1I0U0RWcDAzU0dKQ0NWWnRWc1ZRSEM2ZnVDcEtqMVJQY1NKSUZPRE1nd3VIWTEtcWV1MlI0c0VSR2lMQdIBiwFBVV95cUxPZkdndUdINlpkSlJBWnJ6MWhCQlJ6V24tYVJFM0wyNklXYVB6NVJ3TkNmRUtnSnlJbFd5bDFubXNPLTdWRm5SQkdtM0ZWWVNYeHhIWjVxelJUNUlRUTJsYjN4bmhVNmQ3aGVsTkJyV2l1b1lFMk9EcFBtUGpLUmJTUU5iVXBqUEZ3empF?oc=5</guid><pubDate>Wed, 22 Oct 2025 12:10:00 GMT</pubDate></item></channel></rss>
+*   **جوجل بيكسل 10 (Google Pixel 10):** يعتبر خيار ممتاز بسعر 799 دولار. بييجي بشاشة OLED 6.3 بوصة، معالج Tensor G5، وشحن لاسلكي Qi2. الكاميرات فيه كويسة للاستخدام اليومي، وميزته الكبيرة هي سهولة الاستخدام والميزات الذكية زي Magic Cue اللي بتوفر معلومات مفيدة بشكل استباقي.
+
+*   **سامسونج جالاكسي S25 ألترا (Samsung Galaxy S25 Ultra):** ده الهاتف اللي فيه كل حاجة تقريبًا، شاشة ضخمة 6.9 بوصة، كاميرات كتير (منها 200 ميجابكسل) وقلم مدمج. سعره غالي، بس بيقدم تجربة متكاملة. تحديثات الذكاء الاصطناعي فيه لسه مش مؤثرة أوي.
+
+*   **سامسونج جالاكسي S25 (Samsung Galaxy S25):** لو بتدور على هاتف بحجم معقول، ده اختيارك. بشاشة 6.2 بوصة، بيقدم كل المميزات المهمة زي البطارية اللي بتكمل اليوم، وكاميرا تقريب (telephoto) حقيقية. بيدعم 7 سنين تحديثات نظام.
+
+*   **سامسونج جالاكسي S25 إيدج (Samsung Galaxy S25 Edge):** لو عايز هاتف كبير بس رفيع وخفيف، ده مناسب. تصميمه شيك وسهل في الحمل، لكن عمر البطارية متوسط ومش بييجي بكاميرا تقريب مخصصة.
+
+*   **ون بلس 13 (OnePlus 13):** بيتميز ببطارية ضخمة بتكمل يومين استخدام عادي، وشحن سريع جدًا (80W في أمريكا). مقاومته للمايه والغبار قوية جدًا، وكاميراته اتحسنت كتير.
+
+*   **جوجل بيكسل 10 برو فولد (Google Pixel 10 Pro Fold):** لو بتفكر في الهواتف القابلة للطي، ده يعتبر أفضلهم من ناحية المتانة، فهو مقاوم للمايه والغبار (IP68). بييجي بشاشتين، بس كاميراته مش بنفس قوة باقي هواتف بيكسل 10، ووزنه تقيل شوية.
+
+**ملاحظات إضافية:**
+*   ميزات الذكاء الاصطناعي (AI) في الهواتف لسه مش بنفس القوة اللي الشركات بتوعد بيها، فالأفضل متعتمدش عليها بشكل أساسي.
+*   لو بتعيش في أمريكا، اختيارات هواتف الأندرويد أقل من أوروبا وآسيا بسبب قيود تجارية.
+*   شراء الهاتف "مفتوح" (unlocked) بيديك مرونة أكتر لو حبيت تغير شركة الاتصالات.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/23674658/best-android-phone</guid><pubDate>Wed, 22 Oct 2025 16:12:17 GMT</pubDate></item></channel></rss>
