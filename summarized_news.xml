@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 12:30:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The ChatGPT Atlas browser still feels like Googling with extra steps</title><link>https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search</link><description>تمام، هألخص لك المقال ده بالعامية المصرية، مع التركيز على المعلومات المهمة زي ما طلبت:
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 16:18:12 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meet Mico, Microsoft&amp;#8217;s AI version of Clippy</title><link>https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy</link><description>**مايكروسوفت بتجرب شخصية جديدة لـ Copilot اسمها Mico، عشان تخليه يتفاعل معاك بالصوت والصورة.**
 
-**أوبن إيه آي بتنزل متصفح جديد اسمه ChatGPT Atlas، بس لسه محتاج شغل كتير.**
+الشركة بتحاول ترجع روح المساعد الرقمي اللي كانت موجودة في "كليبي" بتاع زمان، بس بشكل متطور أكتر. Mico ده عبارة عن شخصية افتراضية بتتحرك وبتعبر عن مشاعرها حسب الكلام اللي بتقوله، وده بيخلي التفاعل معاه طبيعي أكتر. مايكروسوفت بتقول إن التجربة دي بتخلي المستخدمين يحسوا إنهم بيتكلموا مع شخص حقيقي مش مجرد برنامج.
 
-أوبن إيه آي نزلت متصفح جديد اسمه ChatGPT Atlas، وبيعتمد بشكل أساسي على شات جي بي تي عشان يخليك تتصفح الإنترنت. المتصفح ده لسه جديد وبينافس متصفحات تانية زي Comet من Perplexity وجوجل Gemini اللي موجود في كروم. أوبن إيه آي أملها إن استخدام شات جي بي تي يكون سبب كافي إن الناس تستخدمه، بس في الأول كده، التجربة مش قوية أوي مقارنة بالمنافسين.
+**Mico هيبدأ يشتغل في أمريكا وبريطانيا وكندا، وهيتعلم منك عشان يتذكر معلومات عنك وعن شغلك.**
 
-**شكل المتصفح وخصائصه الأساسية.**
+الميزة الجديدة دي بتخلي Mico يقدر يستدعي معلومات كان عرفها عنك قبل كده، وده بيخليه يقدم لك مساعدة مخصصة أكتر. كمان، مايكروسوفت بتضيف له "وضع التعلم المباشر" اللي بيخليه أشبه بمدرس خاص بيشرح لك المفاهيم بدل ما يديك الإجابات جاهزة، وده مفيد للطلاب أو أي حد بيتعلم حاجة جديدة.
 
-المتصفح ده مبني على Chromium، ولغاية دلوقتي شغال بس على أجهزة ماك، بس هيجيبوا منه نسخ لمنصات تانية. واجهته بسيطة جداً، على الشمال هتلاقي قائمة بتاريخ محادثاتك مع شات جي بي تي، في النص شريط العنوان اللي ممكن تستخدمه عشان تبحث مباشرة، وعلى اليمين زرار "اسأل شات جي بي تي" عشان تسأله عن أي حاجة في الموقع اللي انت فاتحه. لو مشترك في ChatGPT Plus أو Business أو Pro، فيه وضع اسمه "agentic mode" بيقدر يعمل لك مهام زي إنك تضيف حاجات لعربة التسوق أونلاين.
+**الهدف من Mico هو يدي لـ Copilot هوية خاصة بيه، ويشجع الناس إنهم يتكلموا مع أجهزتهم.**
 
-**مش دايماً نتائج البحث دقيقة، والمهام الآلية مش سريعة.**
+مايكروسوفت شايفه إن وجود شخصية زي Mico هيخلي Copilot حاجة ليها وجود دائم، مش مجرد برنامج بيستخدمه وخلاص. الشركة بتعمل حملات إعلانية بتشجع الناس إنهم يتكلموا مع الكمبيوتر بتاعهم، وده بيتماشى مع سعيها إنها تخلي التفاعل مع الأجهزة يتم عن طريق الصوت.
 
-المشكلة الأساسية إن شات جي بي تي مش دايماً بيكون مناسب كمدخل للويب. لما بتسأل سؤال، بتاخد رد من شات جي بي تي، وبعدين ممكن تحوله لبحث عادي على جوجل. بس النتائج مش دايماً بتكون مظبوطة، مثلاً لما سألت عن "أخبار قريبة مني" اداني مواقع أخبار في أماكن بعيدة عني. كمان لما بتبحث عن أماكن زي مطاعم، بيعرض لك معلومات بس مش بتقدر تدخل على المراجعات بتاعتها أو تشوف مصدرها، وده بيخليه أقل من متصفحات تانية زي Comet اللي بيدمج مع TripAdvisor.
+**رغم التطور، مايكروسوفت لسه بتواجه تحدي إقناع الناس إن الكلام مع الكمبيوتر مش غريب.**
 
-**المتصفح محتاج تحسينات عشان ينافس.**
+زي ما حصل مع "كليبي" و"كورتانا"، لسه فيه ناس ممكن تحس إن التفاعل الصوتي مع الكمبيوتر حاجة مش طبيعية. لكن مايكروسوفت بتراهن على إن Mico بشكله اللطيف وقدراته المتطورة هيقدروا يغيروا النظرة دي، وحتى بيجهزوا له "بيض عيد الفصح" (Easter eggs) عشان يخلوا التجربة ممتعة أكتر.
 
-بالنسبة للمهام الآلية، زي إضافة حاجات لعربة التسوق، الموضوع بياخد وقت طويل جداً، ممكن 10 دقايق عشان يضيف 3 حاجات بس، مقارنة بـ Comet اللي بيعملها في دقيقتين. صحيح إنه قدر يبعت إيميل ويكتب حدث في التقويم بسرعة، بس لما طلبت منه يحجز لي معاد في مطعم، لخبط بين الأسبوع ده والأسبوع اللي جاي. بشكل عام، ChatGPT Atlas بداية متواضعة بالنسبة لشركة زي أوبن إيه آي، لسه محتاج شغل كتير عشان الناس تسيبه من المتصفحات التقليدية زي كروم.
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search</guid><pubDate>Thu, 23 Oct 2025 12:30:00 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy</guid><pubDate>Thu, 23 Oct 2025 16:00:00 GMT</pubDate></item></channel></rss>
