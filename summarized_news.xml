@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 04:17:17 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The brain power behind sustainable AI - MIT News</title><link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHF5M1dnN2NUUWoxRU5pN2dnRDNwUXdnVHhMNkxwRnZlYzFKdnNNS2thU0VFMUl0NUwxd25tRHVFVE55d3ZkcG5QMmtBTUxfekpXYlBEbXFWQmczODV4WlhUM2N5VGtEQ1p3cGhaREt4Qkw2aDl2aElwQzF6ZDdtWksxT1lpLVox?oc=5</link><description>تمام، هحاول ألخص لك المقال ده بالعامية المصرية، مع التركيز على النقط الأساسية وتقديمها بشكل مفهوم.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 08:19:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Alaska Airlines says an information technology outage is grounding its flights - AP News</title><link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHB6RGpBQ3U1VFMtUTFUMUw2V2dtZzhpV0haS3ZSb3RTa1d4eWlTNy12SlQxOGF2dm5DYWhKYUZLeGFUal9jaXBpYzl0b3pROGplM2E5NTBINmJkaFpTNDN2LUhCOGdPNjZsWm9vUjYtNVpuZVBUNmdYSENaVy1hN1ZBdGJrMlRDcUMyQnlwZDdlTmF6ZnBZeGc4MEJJTWs2UGpYSWhUUW9XQ3VSb3dzVXVtZ3Rzdw?oc=5</link><description>الخبر ده بيقول إن شركة طيران اسمها "ألاسكا إيرلاينز" اضطرت توقف كل رحلاتها النهاردة بسبب مشكلة في نظام تكنولوجيا المعلومات بتاعهم. ده معناه إن كل الطيارات بتاعتهم واقفة في المطارات ومش بتتحرك.
 
-**الموضوع الرئيسي: الذكاء الاصطناعي المستدام و"قوة العقل" وراه**
+المشكلة بدأت الصبح، والشركة بتشتغل عشان تحلها في أسرع وقت. لحد دلوقتي، ما قالوش بالظبط إيه سبب المشكلة دي، بس أكيد حاجة كبيرة في الكمبيوترات بتاعتهم هي اللي عاملة القصة دي.
 
-المقال بيتكلم عن حاجة مهمة جدًا في عالم الذكاء الاصطناعي (AI)، وهي إننا إزاي نخلي التكنولوجيا دي "مستدامة". يعني مش بس تشتغل بكفاءة، لكن كمان تكون صديقة للبيئة ومش بتستهلك طاقة كتير لدرجة تضرنا. المعهد التقني ماساتشوستس (MIT) عنده أبحاث شغالة على الموضوع ده، وبيسموا التحدي ده "قوة العقل" ورا الذكاء الاصطناعي المستدام.
+تأثير المشكلة دي على المسافرين كبير طبعًا، ناس كتير اتعطلت ومش عارفة تسافر. الشركة اعتذرت للمسافرين عن الإزعاج ده، وبيحاولوا يرجعوا الأمور لطبيعتها.
 
-**التركيز على مشكلة استهلاك الطاقة**
+لسه مش عارفين المشكلة دي هتفضل قد إيه، بس الشركة أكدت إنهم بيعملوا كل اللي يقدروا عليه عشان يحلوا الموضوع ويرجعوا يطيروا تاني.
 
-المشكلة الكبيرة اللي بيواجهها الذكاء الاصطناعي دلوقتي هي إنه بيحتاج طاقة رهيبة عشان يتدرب ويعمل العمليات المعقدة بتاعته. تخيل إنك بتدرب موديل ذكاء اصطناعي كبير، ده ممكن يستهلك كهرباء قد بيت كامل لمدة سنة! ده طبعًا مش مستدام وبيضر البيئة. الباحثين في MIT بيشتغلوا على طرق عشان يقللوا استهلاك الطاقة ده، سواء في تصميم الخوارزميات نفسها أو في الأجهزة اللي بتشغّل الذكاء الاصطناعي.
-
-**ابتكارات لحلول مستدامة**
-
-الباحثين دول بيجربوا حاجات كتير، زي مثلاً إنهم يصمموا حاجة اسمها "شبكات عصبية" (Neural Networks) تكون أصغر وأكثر كفاءة. كمان بيشتغلوا على إنهم يخلوا الأجهزة اللي بنستخدمها في الذكاء الاصطناعي تكون بتستهلك طاقة أقل بكتير. الهدف في الآخر هو إننا نوصل لذكاء اصطناعي قوي ومفيد، بس في نفس الوقت يكون صديق للبيئة ومش عبء عليها.
-
-**التأثير المستقبلي والتحديات**
-
-الموضوع ده مهم أوي عشان مستقبل الذكاء الاصطناعي. لو قدرنا نحل مشكلة استهلاك الطاقة، ده هيفتح أبواب كتير لاستخدام الذكاء الاصطناعي في حاجات أكتر وأكتر، من غير ما نقلق على البيئة. طبعًا لسه فيه تحديات كتير، بس الأبحاث دي بتدي أمل إننا نقدر نوصل لحلول.
-
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeHF5M1dnN2NUUWoxRU5pN2dnRDNwUXdnVHhMNkxwRnZlYzFKdnNNS2thU0VFMUl0NUwxd25tRHVFVE55d3ZkcG5QMmtBTUxfekpXYlBEbXFWQmczODV4WlhUM2N5VGtEQ1p3cGhaREt4Qkw2aDl2aElwQzF6ZDdtWksxT1lpLVox?oc=5</guid><pubDate>Fri, 24 Oct 2025 04:00:00 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHB6RGpBQ3U1VFMtUTFUMUw2V2dtZzhpV0haS3ZSb3RTa1d4eWlTNy12SlQxOGF2dm5DYWhKYUZLeGFUal9jaXBpYzl0b3pROGplM2E5NTBINmJkaFpTNDN2LUhCOGdPNjZsWm9vUjYtNVpuZVBUNmdYSENaVy1hN1ZBdGJrMlRDcUMyQnlwZDdlTmF6ZnBZeGc4MEJJTWs2UGpYSWhUUW9XQ3VSb3dzVXVtZ3Rzdw?oc=5</guid><pubDate>Fri, 24 Oct 2025 00:58:00 GMT</pubDate></item></channel></rss>
