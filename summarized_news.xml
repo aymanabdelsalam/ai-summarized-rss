@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 12:31:01 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The AI browser wars are here</title><link>https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale</link><description>المقال ده بيتكلم عن إن متصفحات الإنترنت، اللي بقى شكلها وطريقتها واحدة تقريبًا بقالها سنين، فجأة بقت كل شركات التكنولوجيا عايزة تغيرها. السبب الرئيسي هو الذكاء الاصطناعي (AI) والإمكانيات الجديدة اللي بيقدمها، زي إنه يتحكم في المتصفح بدل المستخدم.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 16:18:04 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Microsoft Outlook is getting an AI overhaul under new leaders</title><link>https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad</link><description>الخبر ده بيقول إن مايكروسوفت بتفكر تعيد تصميم برنامج "آوتلوك" (Outlook) بتاعهم من الصفر عشان يكون مبني على الذكاء الاصطناعي.
 
-في حلقة جديدة من بودكاست "The Vergecast"، ناقشوا موضوع "ChatGPT Atlas" والبرامج الجديدة اللي بتستخدم الذكاء الاصطناعي عشان تتصفح الإنترنت. كمان اتكلموا عن جهاز "Samsung Galaxy XR" وإذا كان الناس مهتمة تلبس أجهزة ذكاء اصطناعي على وشها. وبعدين، بحثوا في موضوع شركة "Warner Bros. Discovery" اللي معروضة للبيع، وتاريخ الشركات اللي اشترتها وفشلت في إدارتها.
+**إعادة تصميم آوتلوك عشان الذكاء الاصطناعي:**
 
-الحلقة كمان شملت فقرة مضحكة عن "Brendan Carr" وفقرة "Lightning Round" اللي اتكلموا فيها عن كذا موضوع زي احتجاجات "Friend"، وإلغاء دعم "CarPlay" من "GM"، وتعطل "AWS"، واستراتيجية "OpenAI" القانونية، وتغيير "Pitchfork" لطريقة عرض محتواها، ومستقبل "Xbox".
+غوراف سارين، المسؤول الكبير في مايكروسوفت، قال إنهم مش هيضيفوا الذكاء الاصطناعي فوق الحاجات القديمة، لأ، هما هيعيدوا بناء آوتلوك بالكامل عشان يناسب عصر الذكاء الاصطناعي. الهدف إن آوتلوك يبقى زي "شريك" ليك، يساعدك في حاجات كتير، مش مجرد برنامج إيميل عادي.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale</guid><pubDate>Fri, 24 Oct 2025 12:30:00 GMT</pubDate></item></channel></rss>
+**آوتلوك كـ "مساعد شخصي" بالذكاء الاصطناعي:**
+
+سارين تخيل إن آوتلوك في المستقبل هيقدر يقرأ إيميلاتك، يكتب ردود، وينظم مواعيدك. ده معناه إن فريق آوتلوك هيتغير وهيبقى شغال أسرع، وبيجربوا حاجات جديدة كل أسبوع بدل كل كام شهر. الذكاء الاصطناعي مش هيكون مجرد ميزة، ده هيبقى جزء أساسي في طريقة شغلهم وتطويرهم للبرنامج.
+
+**التحدي الكبير لـ مايكروسوفت:**
+
+آوتلوك برنامج بيستخدمه ملايين الناس، خصوصًا في الشركات، فلازم مايكروسوفت تكون حذرة جدًا في التغييرات دي عشان متأثرش على شغل الناس. ده بيحصل في وسط تغييرات كبيرة بتحصل في مايكروسوفت كلها عشان تركز على الذكاء الاصطناعي.
+
+**رهان مايكروسوفت على المستقبل:**
+
+سارين قال إن السنة الجاية كل البرامج هتقول إنها مبنية على الذكاء الاصطناعي، بس فيه فرق بين اللي بيضيفوا الذكاء الاصطناعي كـ "شكل" وبين اللي بيعيدوا بناء المنتج والثقافة من الأساس. هو متراهن على إن فريق آوتلوك هيكون من اللي بيعيدوا بناء المنتج بشكل حقيقي.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad</guid><pubDate>Fri, 24 Oct 2025 16:00:00 GMT</pubDate></item></channel></rss>
