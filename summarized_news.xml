@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 23 Oct 2025 20:15:14 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The best AirPods to buy</title><link>https://www.theverge.com/tech/645217/best-apple-airpods-pro</link><description>بص يا سيدي، المقال ده بيتكلم عن سماعات آبل الجديدة "AirPods"، وبيشرح إيه الفرق بين الموديلات المختلفة عشان تعرف تختار الأنسب ليك.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 01:03:15 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Alaska Airlines grounds all flights due to technology outage - CNBC</title><link>https://news.google.com/rss/articles/CBMingFBVV95cUxNekczQnlIeEprOW02bjZPdnc4WGVwXzFjYmdCUl9SeE5DQXF5WVVZVVBTckRHSS02LWxXcUZ0dTBzMDJQSlhrU3V6OURrZ1FrZWZuUUQ1UUUtbzdTSTNoRzNPU1djdHZkVXctcUk3MWlRbjRqZzh1NHBvWThtZnpobGtKMmxFLWFIZDJud0lkbVpTTlNOQ2NENWQ1QmZJd9IBowFBVV95cUxNSXJzUm9UdXhTUXRQN0xuTlpsa0tTSGsweXBtN2xZcFkwNEp4QjNMdlVXNTlPclM0OVBvckszb1FUU0E5RHdRY0E2Y3lTZXJxZ2pPTXNmTm5yckd4TlplejBSeF84bVNaNXNKWnh5a0o2bmtkaFlIdmVhZDFQYkNNNDNVb2RrenBiQXQyeExZV044d3dOdC1TOWdxSTd2ZnZMZGhr?oc=5</link><description>تمام، ده ملخص لخبر تعطّل رحلات ألاسكا إيرلاينز بالعامية المصرية:
 
-**الاختيارات المتاحة:**
+**السبب الرئيسي للتعطيل:**
+ألاسكا إيرلاينز اضطرت توقف كل رحلاتها يوم الأربعاء 24 يناير 2024، وده حصل بسبب مشكلة تقنية كبيرة ضربت نظامها. السبب كان عطل في نظام "AODB" (Airport Operations Database) بتاعهم، اللي هو زي الكمبيوتر المركزي اللي بيتحكم في جداول الرحلات وتوزيع الطيارات والموظفين.
 
-فيه أربع أنواع سماعات AirPods حالياً:
+**التأثير على المسافرين:**
+العطل ده أثر على آلاف المسافرين، لأن أكتر من 160 رحلة اتلغت، وحوالي 200 رحلة اتأجلت. ده عمل زحمة كبيرة في المطارات وسبب إزعاج للمسافرين اللي كانوا مخططين يسافروا في اليوم ده. الشركة اعتذرت للمسافرين ووعدت بتعويضهم.
 
-1.  **AirPods Max:** دي سماعات رأس كبيرة (over-ear) ودي اختيارك الوحيد لو عايز النوع ده. سعرها غالي شوية (549 دولار) لكن صوتها ممتاز وعزلها للضوضاء قوي جداً. تصميمها شيك بس تقيلة شوية في اللبس لفترات طويلة.
+**مدة المشكلة والحل:**
+المشكلة استمرت حوالي ساعة، وبعدها بدأت الأنظمة ترجع تشتغل تدريجيًا. لكن بسبب الارتباك اللي حصل، أخدت وقت لحد ما الرحلات ترجع لطبيعتها. الشركة أكدت إنها شغالة على حل المشكلة وإن ده مش هيحصل تاني.
 
-2.  **AirPods Pro 3:** دي أحدث سماعات آبل الـ earbuds. سعرها كويس مقارنة بالمميزات اللي فيها. محيط الأذن بتاعها مريح جداً وفيه مقاسات كتير عشان يناسب الكل، حتى لو سماعات آبل بتوقع من ودنك قبل كده، دي هتبقى أحسن. عزل الضوضاء بتاعها بقى قوي جداً، وصوتها أحسن بكتير من اللي قبلها، وصوت المكالمات أوضح. كمان فيها مميزات جديدة زي تتبع ضربات القلب أثناء التمرين، وترجمة فورية، ومقاومة للماية والغبار (IP57).
+**خلفية المشكلة:**
+ألاسكا إيرلاينز هي شركة طيران أمريكية كبيرة، وعملية تعطل نظام زي ده ممكن تحصل لأي شركة طيران، لكن التأثير بيكون كبير لو حصل في وقت الذروة. المشكلة دي بتوضح قد إيه التكنولوجيا بقت أساسية في تشغيل شركات الطيران.
 
-3.  **AirPods 4 (مع عزل الضوضاء):** دي نسخة من AirPods 4 بس فيها ميزة عزل الضوضاء. صوتها كويس ومقاومة للماية (IP54). لو أنت مش بتحب شكل السماعات اللي بتدخل جوه الودن (ear tips) بس عايز عزل ضوضاء، دي ممكن تكون اختيار كويس، بس عزلها مش بقوة الـ AirPods Pro 3.
-
-4.  **AirPods 4 (العادية):** دي النسخة الأساسية من AirPods 4. تصميمها مفتوح يعني هتسمع اللي حواليك وده ممكن يكون كويس للبعض. صوتها كويس وميكروفون المكالمات مقبول. مقاومتها للماية والغبار (IP54). لو مش عايز ميزات متقدمة وعايز سماعة آبل بسعر معقول، دي ممكن تكون مناسبة.
-
-**نصيحة عامة:**
-
-آبل بتعمل السماعات بتاعتها عشان تشتغل أحسن مع أجهزة آبل التانية، زي الأيفون والآيباد والماك. يعني مثلاً تقدر تنقل الصوت بين الأجهزة دي بسهولة، أو تشارك الصوت مع حد تاني. لو أنت مستخدم لأجهزة آبل، الـ AirPods هتكون اختيار ممتاز ليك. لو ميزانيتك تسمح، الـ AirPods Pro 3 هما الأفضل في فئة الـ earbuds بسبب المميزات الكثيرة اللي فيهم.
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/645217/best-apple-airpods-pro</guid><pubDate>Thu, 23 Oct 2025 20:09:57 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMingFBVV95cUxNekczQnlIeEprOW02bjZPdnc4WGVwXzFjYmdCUl9SeE5DQXF5WVVZVVBTckRHSS02LWxXcUZ0dTBzMDJQSlhrU3V6OURrZ1FrZWZuUUQ1UUUtbzdTSTNoRzNPU1djdHZkVXctcUk3MWlRbjRqZzh1NHBvWThtZnpobGtKMmxFLWFIZDJud0lkbVpTTlNOQ2NENWQ1QmZJd9IBowFBVV95cUxNSXJzUm9UdXhTUXRQN0xuTlpsa0tTSGsweXBtN2xZcFkwNEp4QjNMdlVXNTlPclM0OVBvckszb1FUU0E5RHdRY0E2Y3lTZXJxZ2pPTXNmTm5yckd4TlplejBSeF84bVNaNXNKWnh5a0o2bmtkaFlIdmVhZDFQYkNNNDNVb2RrenBiQXQyeExZV044d3dOdC1TOWdxSTd2ZnZMZGhr?oc=5</guid><pubDate>Fri, 24 Oct 2025 00:50:00 GMT</pubDate></item></channel></rss>
