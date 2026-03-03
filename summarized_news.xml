@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 03 Mar 2026 05:11:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Amazon says drones damaged three facilities in UAE and Bahrain</title><link>https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&amp;at_campaign=rss</link><description>**ضربات جوية على منشآت أمازون في الإمارات والبحرين بعد هجمات أمريكية وإسرائيلية على إيران**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 03 Mar 2026 08:33:44 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Iran war heralds era of AI-powered bombing quicker than ‘speed of thought’</title><link>https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought</link><description>الجيش الأمريكي بقى يستخدم الذكاء الاصطناعي في التخطيط للحرب، وده بيخلي الضربات سريعة جداً، أسرع من "سرعة التفكير" ⚡️، وده مخلي فيه مخاوف إن البشر اللي بياخدوا القرارات ممكن يتشالوا من الصورة.
 
-يوم الأحد اللي فات، تعرضت ثلاث منشآت تابعة لشركة أمازون لخدمات الويب (AWS) في الإمارات والبحرين لضربات بطائرات مسيرة. حصلت الضربات دي بعد أيام قليلة من هجمات أمريكية وإسرائيلية على مواقع في إيران.
+الذكاء الاصطناعي ده، زي نموذج Claude من شركة Anthropic، بيساعد في اختصار الوقت بين تحديد الهدف وتنفيذ الضربة. أمريكا وإسرائيل استخدموا ده في ضرباتهم على إيران، حيث شنوا حوالي 900 ضربة في أول 12 ساعة بس، وده أدى لمقتل القيادي الإيراني الأعلى، آية الله علي خامنئي، بصواريخ إسرائيلية. 💥
 
-في الإمارات، وقعت الضربة الصباحية على مركز بيانات، وتسببت في شرر ونيران. أما في البحرين، فكان فيه مشاكل في الكهرباء والاتصالات في إحدى المنشآت. بعد كده، أكدت أمازون يوم الاثنين إن الضربات دي هي السبب وراء الانقطاعات دي.
+الخبراء بيقولوا إن الذكاء الاصطناعي بيقلل وقت التخطيط للعمليات المعقدة، وده ممكن يخلي الخبراء العسكريين والقانونيين مجرد "يوافقوا" على خطط الضربات اللي بتعملها الآلة. ده لأن الذكاء الاصطناعي بيحلل كميات ضخمة من المعلومات من صور الطيارات من غير طيار، ومكالمات، ومعلومات استخباراتية، ويقترح الأسلحة المناسبة، وحتى بيقيم الأسباب القانونية للضربة. 🤯
 
-**تداعيات الضربة على البنية التحتية التكنولوجية**
+الذكاء الاصطناعي ده بدأ يتطبق في وزارة الحرب الأمريكية وجهات أمنية تانية عشان يسرع عملية التخطيط للحرب، وده بيخلق "عصر جديد" في الاستراتيجيات العسكرية. لكن مع السرعة دي، فيه قلق من حاجة اسمها "التفريغ المعرفي"، يعني الإنسان يحس إنه بعيد عن نتيجة قراراته لأن الآلة هي اللي عملت معظم الشغل. 🤖
 
-الضربات دي بتوضح قد إيه البنية التحتية التكنولوجية الحيوية زي مراكز البيانات ممكن تكون معرضة للخطر وقت الحروب. في الإمارات، ضربت الطائرات المسيرة اتنين من المنشآت بشكل مباشر. أما في البحرين، فكانت الضربة قريبة جداً من إحدى المنشآت، وده سبب أضرار مادية للبنية التحتية.
+في واقعة حصلت يوم السبت، اتقتل 165 شخص، منهم أطفال، في ضربة صاروخية على مدرسة في جنوب إيران، وده وصفته الأمم المتحدة بـ "انتهاك خطير للقانون الإنساني". الجيش الأمريكي بيقول إنه بيحقق في الموضوع ده. 👀
 
-**الأضرار والحلول المقترحة**
+رغم إن فيه كلام إن إيران بتستخدم الذكاء الاصطناعي في استهداف صواريخها، إلا إن برنامجها ده ضعيف قدام قوة أمريكا والصين. فيه كمان معلومة إن أمريكا كانت هتبعد نماذج زي Claude عشان رفضت استخدامها في أسلحة مستقلة بالكامل أو للتجسس على مواطنيها، لكنها لسه شغالة لحد ما تتشال. 🇺🇸🇨🇳
 
-الضربات دي سببت أضرار في المباني، وقطعت الكهرباء عن المنشآت، وفي بعض الحالات احتاجت لعمليات إطفاء حرائق نتج عنها تلف بسبب المياه. الشركة شغالة حالياً عشان ترجع الخدمات للمناطق المتضررة، لكن ده ممكن ياخد وقت بسبب حجم الأضرار.
-
-كمان، نصحت أمازون العملاء اللي بيستخدموا خدماتها في المنطقة إنهم ياخدوا نسخ احتياطية من بياناتهم، وممكن كمان ينقلوا شغلهم لمنشآت أمازون تانية في أماكن تانية في العالم. الشركة حذرت من إن الوضع في الشرق الأوسط لسه غير مستقر.
-
-**خلفية الأزمة**
-
-الرئيس الأمريكي دونالد ترامب صرح إن الضربات على إيران ممكن تستمر من أربع لخمس أسابيع، وممكن تطول أكتر من كده. إيران كمان كانت بترسل صواريخ وطائرات مسيرة على قواعد أمريكية وحلفاء في المنطقة، زي الإمارات وقطر والكويت والسعودية.
-
-**ملاحظات إضافية:**
-
-*   الخبر الأصلي ذكر تجربة مرعبة لشخص في فندق بدبي اتضرب بصاروخ، وده بيدل على اتساع نطاق الهجمات.
-*   كمان فيه إشارة لتصريح رئيس وزراء السويد بأن الحادث "طريقة روسية في التصرف".
-*   تم ذكر إن شركة "Ukrspecsystems" بتنتج طائرات مسيرة للجنود في أوكرانيا، وده ممكن يكون سياق تاني لاستخدام الطائرات المسيرة.
-*   فيه تحذير من استهداف الأطفال على السوشيال ميديا لسرقة هواتفهم، وده جانب تاني من المخاطر المرتبطة بالتكنولوجيا.
-
-Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Tue, 03 Mar 2026 03:59:26 GMT</pubDate></item></channel></rss>
+Source for summary: The Gardian</description><guid isPermaLink="true">https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought</guid><pubDate>Tue, 03 Mar 2026 06:00:31 GMT</pubDate></item></channel></rss>
