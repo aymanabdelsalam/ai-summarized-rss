@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 07 Mar 2026 08:23:39 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>DJI will pay $30K to the man who accidentally hacked 7,000 Romo robovacs</title><link>https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security</link><description>يا جماعة، فيه خبر مهم حصل بخصوص شركة DJI اللي بتعمل روبوتات وحاجات تانية. واحد اسمه سامي أزدوفال، كان بيجرب يتحكم في روبوت مكنسة بتاع DJI بجيم باد بتاع بلايستيشن، ولقى حاجة غريبة جداً. اكتشف شبكة كبيرة فيها حوالي 7000 روبوت من DJI، وكان ممكن يشوف اللي بيحصل جوه بيوت الناس من خلالهم! 🤯
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 07 Mar 2026 12:34:48 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Best MIDI Controllers for Synths, Guitars, and More (2026)</title><link>https://www.wired.com/gallery/best-midi-controllers/</link><description>يا جدعان الموسيقى! لو بتستخدم أي جهاز بيطلع صوت، يبقى أكيد قابلت حاجة اسمها "MIDI". التكنولوجيا دي بقالها أكتر من 40 سنة، بس تقريبا مفيش فيها أي تغيير. الفكرة إنها لغة موحدة عشان الأجهزة الموسيقية تتكلم مع بعض، حتى لو من شركات مختلفة. دي ميزتها إنها بسيطة وسريعة وموثوقة عشان تتحكم في أجهزة المزيكا بتاعتك.
 
-الشركة كانت بدأت تصلح بعض المشاكل دي حتى قبل ما سامي يكتشفها، بس مكنش واضح هيدوه مكافأة ولا لأ، خصوصاً إنهم قبل كده مكانوش كويسين مع باحث أمني تاني. بس النهاردة، فيه أخبار جديدة.
+في حاجات كتير بتستخدم الـ MIDI عشان تعمل شغل جامد. مثلاً، لو عايز تتحكم في الفلاتر وتغيير المؤثرات بصوابعك زي الساحر، فيه جهاز MIDI بيعمل كده. ولو بتحب طريقة "The Edge" بتاع فرقة U2 في تغيير صوت الجيتار برجله، فيه دواسة MIDI بتعملها. ولو مش عايز تشيل معاك كومة أجهزة عشان تلعب في حفلة، فيه وحدة تحكم MIDI بتريحك.
 
-DJI قررت تدي لسامي أزدوفال 30 ألف دولار على اكتشافه ده، بس مش محددين بالظبط على أي اكتشاف دفعوله. برضه مش هيعلنوا اسمه، بس أكدوا إنهم كافئوا باحث أمني مجهول. 💰 وكمان، أكدوا إنهم صلّحوا مشكلة إن أي حد يقدر يشوف فيديوهات روبوتات DJI الرومو من غير باسورد، وده حصل في أواخر فبراير.
+الأجهزة دي بتيجي بأشكال وأنواع كتير، وأنا جربت عشرات منها عشان ألاقي اللي يناسبني. بتنفع للجيتار وللتجربة مع السينث، ومهم عندي الحاجة اللي تشتغل في الاتنين. فيه حاجات بتفتح دماغك وتخليك تبدع، وحاجات تانية عملية جداً عشان تكمل بيها الأجهزة بتاعتك.
 
-أما بالنسبة للمشكلة الأكبر اللي كانت مقلقة جداً، DJI بتقول إنهم شغالين عليها وهيصلّحوها بالكامل خلال شهر واحد تقريباً. 🛠️ هما برضه عملوا بوست على مدونتهم عن تأمين الروبوتات دي، وبيقولوا إنهم لقوا المشكلة بنفسهم، بس كمان بيشكروا اتنين باحثين أمنيين تانيين على إنهم لقوا نفس المشكلة.
+من أحسن الأجهزة اللي بتستخدم MIDI حالياً:
 
-في البوست بتاعهم، DJI بيوصفوا إن المشكلة اتحلت خلاص، بس هما قالوا لنا إن الموضوع ممكن ياخد شهر كمان. 🤷‍♀️ كمان بيقولوا إن الروبوتات بتاعتهم واخدة شهادات أمان، وده بيخلينا نسأل، الشهادات دي بتعمل إيه لو واحد بس قدر يدخل على كل الشبكة دي؟ عموماً، الشركة بتوعد إنها هتفضل تختبر وتصلّح وتعمل فحوصات أمنية على الروبوتات والتطبيقات بتاعتها. وكمان بيقولوا إنهم هيتعاونوا أكتر مع الباحثين الأمنيين وهيعملوا طرق جديدة للشغل معاهم. 🤝
+*   **Arturia KeyLab:** دي كيبوردات قوية جداً، فيها توصيل MIDI ممتاز، والكيبورد بتاعها مريح جداً، وبتشتغل كويس جداً مع برنامج Analog Lab بتاعهم اللي فيه أصوات سينثات مشهورة.
+*   **Akai MPK Mini:** دي وحدة تحكم MIDI بسعر 100 دولار، وبتيجي بـ 8 باتس (pads) جامدة جداً، وبتشتغل كويس مع برامج الكمبيوتر، وفيها وصلة MIDI عادية وده نادر دلوقتي.
+*   **M-Audio Oxygen Pro Mini:** دي وحدة تحكم MIDI بـ 32 مفتاح، فيها 8 باتس، و4 knobs، و4 faders، وفيها وصلة MIDI بتشتغل بالـ TRS ودي أحسن من القديمة. فيه بديل تاني اسمه Arturia MiniLab 3 لو محتاج knobs أكتر ومفاتيح أقل.
+*   **Korg nanoKEY Studio:** دي وحدة تحكم MIDI صغيرة جداً، بتشتغل بالبلوتوث، وبطاريتها بتعيش فترة طويلة، وده بيخليك تستخدمها في أي مكان من غير ما تبان غريب.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/news/890982/dji-pay-sammy-azdoufal-robot-vacuum-hack-romo-security</guid><pubDate>Sat, 07 Mar 2026 02:59:32 GMT</pubDate></item></channel></rss>
+فيه كمان أجهزة للموسيقيين اللي بيحبوا يمشوا على الأرض برجليهم:
+
+*   **Luminite Graviton M2:** دي دواسة MIDI (foot pedal) بتستخدم للتحكم في المؤثرات، فيها شاشة تاتش سهلة الاستخدام، وبتشتغل بالـ WIDI والـ Wi-Fi، وسعرها أقل من المنافسين.
+*   **Keith McMillen Instruments 12 Step 2:** دي وحدة تحكم شبه الدواسات، فيها 12 مفتاح زي البيانو، كل مفتاح فيه حساسية للضغط والميل، عشان تتحكم في حاجات كتير زي الفلتر والصوت.
+*   **M-Vave Chocolate Plus:** دي حاجة صغيرة بتربط بين رجلك والموبايل أو الكمبيوتر عشان تتحكم في الأصوات والمؤثرات.
+
+وفيه حاجات للمزيكا اللي بتعتمد على التكرار (Looping) والتكنولوجيا المتقدمة:
+
+*   **Retrokits RK-008:** ده جهاز صغير بيلقط إشارات MIDI وبيسجلها ويعيد تشغيلها، وده بيخليك تتحكم في سرعة اللوب من غير ما يبوظ الصوت.
+*   **Genki Instruments Wave Ring:** دي خاتم بتلبسه في إيدك، وبيقه بتحكم في المؤثرات والأصوات بحركات إيدك.
+*   **Embodme Erae Touch V2:** دي شاشة تاتش كبيرة بتشتغل زي iPad بس للـ MIDI، بتسمح لك ترسم عليها اللي أنت عايزه عشان تتحكم في كل حاجة.
+*   **Artiphon Orba:** دي آلة موسيقية صغيرة بتشتغل باللمس، وبتطلع أصوات مختلفة، وممكن تربطها بأجهزة تانية عن طريق الـ MIDI.
+*   **Alesis Vortex Wireless 2:** دي "كييتار" (Keytar) بتشتغل بالوايرلس، فيها 3 أوكتافات، و 8 باتس، وممكن تتحكم فيها بحركات جسمك.
+
+وحاجات بتخلي الشغل على الكمبيوتر أسهل وأشيك:
+
+*   **M-Vave Roto-Control:** دي knobs بتتحرك لوحدها عشان تتطابق مع الأرقام اللي على الكمبيوتر، عشان متبقاش الأرقام مش ماشية مع اللي بتشوفه.
+*   **Intech Grid Series:** دي وحدات صغيرة بتركب على بعض زي الليجو، كل وحدة فيها knobs أو faders أو buttons، وبتوصلها ببعض عن طريق USB.
+*   **Conductive Labs MRCC:** ده جهاز كبير بيوصل كل أجهزة الـ MIDI ببعض، فيه مداخل ومخارج كتير جداً، وبيسمح لك تتحكم في الإشارات وتعمل حاجات معقدة.
+*   **CME H4MIDI WC:** ده جهاز صغير جداً بيوصل أجهزة MIDI عن طريق الـ TRS، وبيشتغل بالبلوتوث، وممكن توصل بيه أجهزة تانية عن طريق USB.
+*   **CME WIDI Master / WIDI Thru6 BT:** دي أجهزة بتخلي الـ MIDI يشتغل من غير سلك (Bluetooth)، وده بيخليك تتحكم في كل حاجة من غير ما تتشابك في الأسلاك.
+*   **Uwyn MIDI Wrist:** ده تطبيق ساعة Apple Watch بيخليك تتحكم في الأصوات والمؤثرات من على الساعة نفسها، وده مفيد جداً لو مش عايز تمسك الموبايل.
+
+باختصار، عالم الـ MIDI مليان أدوات مبتكرة بتخلي الموسيقى أسهل وأمتع، سواء كنت محترف أو مجرد هاوي.
+
+Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/gallery/best-midi-controllers/</guid><pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate></item></channel></rss>
