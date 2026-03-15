@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 14 Mar 2026 20:21:21 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meta is reportedly laying off up to 20 percent of its staff</title><link>https://www.theverge.com/business/895026/meta-laying-off-20-percent</link><description>**ميتا بتشيل موظفين كتير عشان تركز على الذكاء الاصطناعي**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 15 Mar 2026 01:52:49 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Trump administration is allegedly collecting $10 billion on the TikTok deal</title><link>https://www.theverge.com/policy/895039/trump-10-billion-tiktok</link><description>التعليمات:​
 
-شركة ميتا، اللي بتمتلك فيسبوك وإنستجرام وواتساب، بتفكر في تسريح عدد كبير من موظفيها، ممكن يوصل لـ 20% من إجمالي العاملين فيها، وده معناه إن حوالي 15,800 موظف ممكن يمشوا. ودي هتبقى أكبر موجة تسريح للشركة من وقت ما شالت 22 ألف موظف بين نوفمبر 2022 وأوائل 2023 📉.
+التركيز: ركز على الأحداث الرئيسية، الشخصيات المهمة، الأرقام التواريخ، والنتائج النهائية.​
+التنظيم: قسم التلخيص في فقرات متوسطة، بحد أقصى 4 فقرات. تجنب أي ذكر انك بتلخص المقال ورد بالتلخيص واعادة الكتابة فورا بدون اي اعادة للتعليمات.​
+الدقة: حافظ على كل المعلومات الجوهرية من المقال الأصلي بدون ما تفقد أي تفاصيل مهمة.​
+الإيجاز: استخدم لغة بسيطة ومباشرة وجذابة واستخدم الايموجي لو لقيت فيه حاجه لكدة بدون زيادة استخدام عالفاضي، وتجنب التكرار والحشو والكلام اللي مالوش لازمة.​
+البحث الإضافي: ابحث في مصادر خارجية عشان توضح خلفية الخبر أو تكمل أي معلومة ناقصة، بحيث يكون التلخيص شامل ومفهوم.
 
-القرار ده بيجي بعد ما ميتا قللت استثماراتها في مجال الواقع الافتراضي (VR) والميتافيرس، وقفلوا استوديوهات كتير 🚪. بدل ده، الشركة بتركز جامد على جذب المواهب في مجال الذكاء الاصطناعي 🧠، وبناء مراكز بيانات ضخمة، وشراء شركات تانية زي Moltbook.
+---
 
-الموضوع ده بيحصل في وقت الشركة عندها مشاكل كتير، زي نظاراتها الذكية، وروبوتات المحادثة بتاعتها، وتأثيرها على المراهقين 📱. ميتا لسه متردتش على استفسارات رويترز بخصوص الموضوع ده.
+**ترامب بياخد فلوس كتير من صفقة تيك توك! 💰**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/business/895026/meta-laying-off-20-percent</guid><pubDate>Sat, 14 Mar 2026 18:48:56 GMT</pubDate></item></channel></rss>
+القصة بدأت لما دونالد ترامب قال إن أمريكا بتاخد "رسوم ضخمة" مقابل وساطته في صفقة تيك توك. دلوقتي، مصادر بتقول لمجلتي وول ستريت جورنال ونيويورك تايمز إن الرسوم دي ممكن توصل لـ 10 مليار دولار! 🤯 الفلوس دي المفروض هيدفعها مستثمرين جدد، منهم شركة أوراكل (Oracle) وسيلفر ليك (Silver Lake).
+
+**الدفعات بدأت بالفعل! 💸**
+
+التقارير بتقول إن 2.5 مليار دولار اتدفعت بالفعل للخزانة الأمريكية يوم 22 يناير اللي فات، وقت ما الصفقة اكتملت. والباقي هيتدفع على دفعات. الصفقة دي بتعتبر مثال جديد لتدخل إدارة ترامب في صفقات الشركات الخاصة بطرق غير مسبوقة.
+
+**الصفقة دي مش بس فلوس، دي كمان علاقات! 🤝**
+
+اللي زود الموضوع ده إن الصفقة مرتبطة بلاري إليسون، مؤسس مشارك ورئيس قسم التكنولوجيا في أوراكل، وهو واحد من أكبر الداعمين لترامب والممولين لحملاته الانتخابية. لو الأرقام دي صح، الرسوم دي هتمثل أكتر من 70% من قيمة الصفقة نفسها، اللي وصل فيها مجموعة مستثمرين لحصة الأغلبية في تيك توك بـ 14 مليار دولار.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/policy/895039/trump-10-billion-tiktok</guid><pubDate>Sat, 14 Mar 2026 21:57:07 GMT</pubDate></item></channel></rss>
