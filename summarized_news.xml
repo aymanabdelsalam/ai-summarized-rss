@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 21 Mar 2026 20:19:37 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price</title><link>https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal</link><description>أبل نزلت سماعات جديدة اسمها AirPods Pro 3، ودي تعتبر بديل أرخص لسماعات AirPods Max 2 اللي أعلنت عنها قريب. السماعات دي فيها شريحة H2 الجديدة اللي بتخليها تعمل حاجات ذكية زي الترجمة الفورية، وكمان بتعرف لما تكون بتكلم حد عشان تعلي صوته وتفصل أي دوشة حواليك. 👂
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 22 Mar 2026 01:47:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Halide co-founder is suing former partner for bringing source code to Apple</title><link>https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple</link><description>**خبر جديد بخصوص مطور تطبيقات شهير انضم لآبل!**
 
-السماعات دي سعرها دلوقتي 199.99 دولار بعد ما كان عليها خصم 50 دولار، وده يعتبر تاني أرخص سعر ليها لحد دلوقتي. ده غير إنها بتتباع على أمازون و وول مارت وبيست باي. 💸
+القصة بدأت لما شركة آبل عيّنت sebastiaan de With، اللي كان شريك مؤسس في شركة Lux Optics، في شهر يناير اللي فات. شركة Lux Optics دي كانت ورا تطبيق Halide، واحد من أشهر تطبيقات التصوير للآيفون، واللي كان معروف بقوته في التحكم الاحترافي بالصور. 📸
 
-لو معاك آيفون، السماعات دي هتبقى اختيار جامد جداً ليك. فيها أحسن عزل للضوضاء وصوت نقي، وكمان تصميمها مريح أكتر ومناسب للأذن. فيها كمان مقاس جديد لقطعة السيليكون (XXS) عشان تناسب أي حد، وكمان مقاومة للمياه والعرق بدرجة IP57، وده بيخليها مناسبة للجري والتمارين الرياضية. 💪💦
+**آبل كانت عايزة تشتري الشركة، لكن حصل حاجة غير متوقعة!**
 
-المميز كمان في السماعات دي إنها فيها حساس لقياس ضربات القلب، وممكن تستخدمها كجهاز تتبع للياقة البدنية لو مش معاك ساعة آبل. هتقدر تعرف عدد السعرات الحرارية اللي حرقتها في أكتر من 50 نوع تمرين. ده طبعاً لو مش بتعتمد على ساعة آبل في تتبع صحتك. 📈
+المفاجأة بقى إن آبل كانت مهتمة جدًا بشركة Lux Optics لدرجة إنها حاولت تشتريها الصيف اللي فات، بس الصفقة مكملتش. وفي الآخر، اكتفوا بتعيين sebastiaan de With. الكل افتكر إن آبل خطفته من شركته، بس طلع فيه دعوى قضائية جديدة بتقول إن sebastiaan كان اتفصل من شركته قبل كده بشهور بسبب سوء تصرف مالي. 😮
 
-وغير كل ده، السماعات دي بتشتغل بسلاسة مع أي أجهزة آبل تانية، يعني ممكن تتنقل بين جهاز والتاني بسهولة. وكمان لو السماعة ضاعت، فيه خاصية "Find My" اللي بتساعدك تلاقيها. 🍎✨
+**المحكمة بتكشف تفاصيل صادمة!**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal</guid><pubDate>Sat, 21 Mar 2026 17:00:00 GMT</pubDate></item></channel></rss>
+الدعوى القضائية دي، اللي رفعها الشريك المؤسس التاني Ben Sandofsky في محكمة كاليفورنيا، اتهمت sebastiaan de With بإنه استخدم أكتر من 150 ألف دولار من فلوس الشركة الخاصة عشان يدفع مصاريف شخصية. وكمان اتهمته إنه خد أكواد المصدر والمعلومات السرية بتاعة الشركة معاه وهو رايح آبل. 💰🤫
+
+**محامي sebastiaan بيرد وبيقول إيه؟**
+
+محامي sebastiaan de With نفى كل الكلام ده، وقال إن محاولة إدخال آبل في الموضوع ده هدفها بس إنها تزود الضغط وتجيب اهتمام للقضية. لسه الأيام الجاية هتكشف مين الصح في الحكاية دي. 🤔
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple</guid><pubDate>Sat, 21 Mar 2026 21:02:56 GMT</pubDate></item></channel></rss>
