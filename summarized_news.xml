@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Wed, 25 Mar 2026 20:33:06 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The surprise hit Nex Playground is the latest console to get a price hike</title><link>https://www.theverge.com/entertainment/900856/nex-playground-price-hike</link><description>بص يا سيدي، جهاز الألعاب الجديد اللي شبه الـ Kinect، اللي اسمه "Nex Playground"، هيغلى سعره. الجهاز ده عمل ضجة كبيرة آخر سنة عشان قدر يبيع أكتر من Xbox في فترة الأعياد، وده يعتبر إنجاز كبير.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 26 Mar 2026 01:52:21 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meta and YouTube found liable in landmark social media addiction trial</title><link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link><description>**حكم تاريخي ضد شركات التكنولوجيا الكبرى: تعويضات ضخمة لفتاة تضررت من إدمان السوشيال ميديا**
 
-المهم، من يوم 1 أبريل الجاي، سعر الجهاز هيكون 299 دولار، وده معناه زيادة 50 دولار عن سعره القديم. الشركة قالت إن السبب في الغلو ده هو ارتفاع أسعار المكونات الأساسية زي الذاكرة (DDR) ومساحة التخزين (eMMC) اللي بتستخدم في الأجهزة دي. الزيادة دي بتحصل في السوق كله بسبب الطلب الكبير على المكونات دي لتطوير الذكاء الاصطناعي. 🤖
+في حكم غير مسبوق، قضت هيئة محلفين في لوس أنجلوس بمسؤولية شركتي ميتا (فيسبوك وإنستجرام وواتساب) وجوجل (يوتيوب) عن تعرض فتاة في الـ 20 من عمرها للإدمان على منصاتهما الرقمية، مما أثر سلبًا على صحتها النفسية. تم الحكم بتعويض الفتاة، المعروفة باسم كالي، بمبلغ 6 ملايين دولار، وهو قرار قد يؤثر على مئات القضايا المماثلة التي لا تزال قيد النظر في المحاكم الأمريكية.
 
-الشركة حاولت على قد ما تقدر تتحمل الزيادة دي، بس خلاص مبقاش ينفع. ده مش بس Nex Playground اللي بيحصل معاه كده، ده كمان الشركات الكبيرة زي نينتندو وسوني ومايكروسوفت رفعت أسعار أجهزتها السنة اللي فاتت لنفس الأسباب تقريباً. 🎮
+**الشركات تعترض والتعويضات موزعة**
 
-رغم إن سعر الجهاز نفسه هيزيد، الشركة أكدت إن سعر خدمة الاشتراك بتاعتهم "play pass" هتفضل زي ما هي. يعني هم عارفين إن السعر القليل كان نقطة قوة للجهاز، والزيادة دي كانت حاجة صعبة عليهم. والرئيس التنفيذي ديفيد لي اعتذر وقال إنه حاسس إن الزيادة دي ممكن تخلي الجهاز مش سهل على كل العائلات. 🙏
+أعلنت كل من ميتا وجوجل رفضهما للحكم، مؤكدتين عزمهما على الطعن فيه. ترى ميتا أن قضايا الصحة النفسية للمراهقين معقدة ولا يمكن ربطها بتطبيق واحد، بينما ترى جوجل أن يوتيوب منصة بث مسؤولة وليست موقع تواصل اجتماعي. تم تقسيم مبلغ التعويض بواقع 3 ملايين دولار كتعويضات تعويضية و3 ملايين دولار كتعويضات تأديبية، حيث تتحمل ميتا 70% من المبلغ و جوجل 30%، وذلك بسبب إثبات أن الشركتين "تصرفتا بسوء نية، أو قمع، أو احتيال" في طريقة تشغيل منصاتهما.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/entertainment/900856/nex-playground-price-hike</guid><pubDate>Wed, 25 Mar 2026 20:25:10 GMT</pubDate></item></channel></rss>
+**الأهل يحتفلون والأحكام تتوالى**
+
+شهدت المحكمة احتفالات بين أهالي الأطفال الذين يدعون تعرضهم للأذى بسبب وسائل التواصل الاجتماعي، وذلك فور صدور الحكم. يأتي هذا الحكم بعد يوم واحد من قرار هيئة محلفين في نيومكسيكو بإدانة ميتا بتعريض الأطفال للخطر والمواد الإباحية. يؤكد الخبراء أن هذه الأحكام المتتالية تمثل "نقطة تحول" في العلاقة بين شركات التواصل الاجتماعي والجمهور، خاصة مع تزايد القيود المفروضة على استخدام الأطفال لهذه المنصات في دول مثل أستراليا والمملكة المتحدة.
+
+**اتهامات بالتعمد وتصميم "آلات إدمان"**
+
+خلال المحاكمة، واجه مارك زوكربيرج، رئيس ميتا، اتهامات بمعرفة استخدام الأطفال الصغار لمنصاته رغم سياسة الشركة بعدم السماح لمن هم دون 13 عامًا. أكد محامو كالي أن ميتا ويوتيوب صممتا "آلات إدمان" وفشلتا في منعهما الأطفال من الوصول إلى منصاتهما. بدأت كالي استخدام إنستجرام في سن التاسعة ويوتيوب في سن السادسة، ولم تواجه أي محاولات لمنعها بسبب عمرها، مما أدى إلى إهمالها لعائلتها وتطور لديها قلق واكتئاب، بالإضافة إلى اضطراب تشوه الجسم.
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Wed, 25 Mar 2026 22:59:23 GMT</pubDate></item></channel></rss>
