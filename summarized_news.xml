@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 29 Mar 2026 05:41:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Suno leans into customization with v5.5</title><link>https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model</link><description>شركة Suno نزلت تحديث جديد جامد لموديل الذكاء الاصطناعي بتاعها لعمل المزيكا، اسمه v5.5. السنة اللي فاتت كانوا مركزين على إن الصوت يبقى طبيعي أكتر، لكن التحديث ده بقى فيه تحكم أكتر للمستخدمين. فيه تلات مميزات جديدة: Voices، My Taste، و Custom Models.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 29 Mar 2026 08:33:53 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>'Quantum computing talent should be used for good' - BBC</title><link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UURvVmo2YlBybTFaTzV0ZjFvaG5jT1lUNmE5eHVjY0RDWF9QeEhhTkxabUh4MjMtOG5ucEVLSExNM2FqQU5OUjRsTFd1QmJxQnJiX3VUMC1pQQ?oc=5</link><description>**خبراء الكمبيوتر الكمي: لازم نستخدم التكنولوجيا دي للخير مش للشر**
 
-أكتر حاجة الناس طلبتها هي ميزة "Voices"، اللي بتخليك تدرب الموديل على صوتك انت. تقدر تحمل تسجيلات صوتية صافية، أو أغاني كاملة فيها موسيقى، أو حتى تغني تسجيل مباشر من موبايلك أو لاب توبك. كل ما التسجيل كان أنقى وجودته أعلى، كل ما يحتاج بيانات أقل. وعشان يمنعوا حد يسرق صوت حد تاني، Suno بتطلب منك تقول جملة تأكيد معينة. بس لسه فيه احتمال حد يقدر يقلد أصوات مشاهير بالذكاء الاصطناعي.
+أتكلم مجموعة من علماء وخبراء الكمبيوتر الكمي (Quantum computing) عن أهمية استخدام التكنولوجيا دي في حاجات مفيدة للمجتمع، بدل ما نستخدمها في حاجات تضر الناس. قالوا إن التكنولوجيا دي قوية جداً وممكن تحل مشاكل معقدة جداً، زي اكتشاف أدوية جديدة، وتطوير مواد أفضل، وفهم أعمق للكون. 🔬
 
-بعد ما تدرب ميزة "Voices"، تقدر تخلي نسخة ذكاء اصطناعي منك تغني على موسيقى انت محملها أو موسيقى مولدة بالذكاء الاصطناعي. 🎶
+**التكنولوجيا الكمية: أمل كبير لكن لازم حذر**
 
-كمان فيه ميزة "Custom Models" اللي بتسمحلك تدرب Suno على موسيقاك انت. لازم تحمل على الأقل ست أغاني من أعمالك وتدي للنموذج ده اسم. بعد كده، تقدر تستخدمه عشان يوجه استجابات v5.5 لأوامرك.
+التكنولوجيا الكمية لسه في بدايتها، لكنها بتتقدم بسرعة جداً. العلماء متحمسين جداً لإمكانياتها، لكنهم كمان قلقانين من إنها ممكن تتستخدم في حاجات مش كويسة، زي تطوير أسلحة جديدة، أو اختراق أنظمة الأمن. عشان كده، لازم نلاقي طرق عشان نضمن إن التكنولوجيا دي تتطور وتتستخدم بشكل مسؤول وأخلاقي. ⚖️
 
-أما "My Taste" فبتتعلم تفضيلاتك مع الوقت. يعني بتعرف إيه أنواع الموسيقى، وإيه الأجواء، وإيه الفنانين اللي بتستخدمهم كتير في أوامرك، وتطبقهم تلقائي بعد كده لما تستخدم عصا "السحر" عشان تولد الأساليب الموسيقية. ✨
+**دعوة للتعاون الدولي**
 
-ميزة "My Taste" هتكون متاحة لكل الناس، لكن "Voices" و "Custom Models" محجوزين لمشتركي Pro و Premier.
+الخبراء دعوا الدول والحكومات إنهم يتعاونوا مع بعض عشان يحطوا قوانين وضوابط لاستخدام التكنولوجيا الكمية. كمان أكدوا على أهمية التعليم والتدريب عشان ناس أكتر تفهم التكنولوجيا دي وتشارك في تطويرها بشكل إيجابي. 🌍
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model</guid><pubDate>Sat, 28 Mar 2026 18:33:10 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE05UURvVmo2YlBybTFaTzV0ZjFvaG5jT1lUNmE5eHVjY0RDWF9QeEhhTkxabUh4MjMtOG5ucEVLSExNM2FqQU5OUjRsTFd1QmJxQnJiX3VUMC1pQQ?oc=5</guid><pubDate>Sun, 29 Mar 2026 05:49:55 GMT</pubDate></item></channel></rss>
