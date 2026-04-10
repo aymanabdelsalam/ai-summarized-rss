@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 12:57:42 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Fear and loathing at OpenAI</title><link>https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast</link><description>الخبر ده بيتكلم عن سام ألتمان، رئيس شركة OpenAI، وإزاي فترته في الشركة كانت مليانة دراما. بالمختصر، ألتمان اتطرد من منصبه كرئيس تنفيذي لفترة قصيرة، ورجع تاني بعد أيام، وبدأ يغير في الشركة دي. صحيفة "The New Yorker" نشرت تحقيق عميق عن ألتمان، وفترته في OpenAI، وإنه هل هو الشخص المناسب إنه يكون مسؤول عن تكنولوجيا زي الذكاء الاصطناعي اللي بتغير العالم. 🤔
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 16:43:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>This Clever Bike Bell Can Even Be Heard by People Wearing Noise-Canceling Headphones</title><link>https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/</link><description>**جرس الدراجة اللي بيخترق سماعات إلغاء الضوضاء: حماية جديدة للمشاة**
 
-في بودكاست "The Vergecast"، ديفيد ونيليه اتكلموا عن كل ده، وعن ألتمان، وبشكل أوسع عن موضوع الذكاء الاصطناعي. قبل ما يتكلموا عن ده، كان عندهم مشاريع شخصية يحكوا عنها. نيليه خلص تحويل جهاز iMac لشاشة، مع إنه واجه شوية مشاكل. أما ديفيد، فقدر يعمل تطبيق أحلامه للإنتاجية، بس بالغلط دخل في أحلام ناس تانية! 😅 الاتنين قارنوا تجاربهم، واللي حصل معاهم في استخدام أدوات زي "Claude Code"، وإيه مستقبل "vibe-coding" ده.
+في تطور مفاجئ، اخترعت شركة سكودا (اللي كانت بدايتها سنة 1895 بعربياتهم) جرس جديد للدراجات، اسمه "DuoBell"، وده حل ميكانيكي كلاسيكي لمشكلة سببتها التكنولوجيا الحديثة. المشكلة دي هي إن سماعات إلغاء الضوضاء (ANC) اللي الناس بتستخدمها دلوقتي بتعزلهم تمامًا عن أي أصوات بره، وده بيخليهم مش بيسمعوا أي حاجة جاية ناحيتهم في الشارع، وده طبعًا خطر كبير. 🎧🚫
 
-بعد ما خلصوا حكايات المشاريع، دخلوا في موضوع OpenAI. ناقشوا إزاي ألتمان رجل أعمال عادي جداً، وإيه الأسباب اللي تخلي الذكاء الاصطناعي يحتاج قائد مختلف عن أي قائد تاني. الإجابة على السؤال ده بتعتمد على قد إيه أنت شايف إن الذكاء الاصطناعي ده حاجة كبيرة وهتغير الدنيا. 🤖
+**"فجوة الأمان" اللي بتخلي الجرس مسموع**
 
-في فقرة الأسئلة السريعة، كان فيه جولة جديدة من "بريندان كار غبي"، ومحاولة جديدة لكشف هوية ساتوشي ناكاموتو، مخترع البيتكوين. يا ترى اسمه آدم باك؟ 🧐
+الباحثين في سكودا بالتعاون مع باحثين من جامعة سالفورد في بريطانيا لقوا حاجة اسمها "فجوة الأمان". دي عبارة عن موجات صوتية بتردد معين (بين 750 و 780 هرتز) محدش بيقدر يلغيها بالسماعات العادية. الجرس الجديد ده مصمم عشان يصدر أصوات في النطاق ده، عشان كده بيقدر يخترق أي سماعات بتلغي الضوضاء، حتى أحدث الأنواع. 💡👂
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast</guid><pubDate>Fri, 10 Apr 2026 12:23:18 GMT</pubDate></item></channel></rss>
+**تصميم ميكانيكي وضربات سريعة لضمان السمع**
+
+الجرس ده كله ميكانيكي، بس فيه كمان حاجة إضافية بتزود من قوته. الضربة اللي بتطلع منه سريعة وغير منتظمة، وده بيخليه صعب على أنظمة إلغاء الضوضاء إنها تلغيه. ده مفيد جدًا في المدن المزدحمة، عشان لو مرة واحدة مش كفاية، ممكن كذا مرة تخلّي الناس تنتبه. 🔔💨
+
+**اختبارات ناجحة في لندن**
+
+سكودا اختبرت الجرس ده في شوارع لندن، ولقوا إنه فعلاً بيخلي الناس اللي لابسة سماعات تسمع الدراجة اللي جاية قبل بـ 5 ثواني وعلى مسافة 22 متر أكتر من الجرس العادي. حاليًا مفيش أخبار عن سعر الجرس ده ولا ميعاد نزوله في الأسواق، بس الشركة نشرت الدراسة بتاعتهم كاملة. 🇬🇧✅
+
+Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/story/skoda-duobell-bike-bell-can-be-heard-by-people-wearing-noise-canceling-headphones/</guid><pubDate>Fri, 10 Apr 2026 16:21:05 GMT</pubDate></item></channel></rss>
