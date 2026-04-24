@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 06:04:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models - NPR</title><link>https://news.google.com/rss/articles/CBMirgFBVV95cUxORlEyXzFsQUlfZ1ZxNk5oaXF0OWxXejQtMElLOHBtN2g4enlrTTVXQ0pxTTEyLTNacTgwNEF4R3BvLXVIbkZrUFY1dUlHSlpmZHZ5aGxrMFE0Zl9mMjZIRjNPZ2Q4RjJacndRaGpON1YwR2VkTFVBdVgwRE1QaW50TlE2dmdrUUVzdExIM0lzVnhIVlA0aEdXd2ItYjNvWHozX2MwZTJRX0tycHVSMGc?oc=5</link><description>**أمريكا بتشدد الخناق على الشركات الصينية اللي بتستغل نماذج الذكاء الاصطناعي الأمريكية**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 24 Apr 2026 09:25:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>White House memo claims mass AI theft by Chinese firms</title><link>https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&amp;at_campaign=rss</link><description>الأبيض قال إنه هيشتغل مع شركات الذكاء الاصطناعي (AI) في أمريكا عشان يواجهوا حملات كبيرة من دول تانية بتحاول تسرق التطورات في التكنولوجيا دي. 🇺🇸🤝🤖
 
-الإدارة الأمريكية في عهد ترامب كانت عاملة حسابها بقوة على موضوع الشركات الصينية اللي بتستخدم نماذج الذكاء الاصطناعي الأمريكية بدون وجه حق. كانت فيه خطط جادة لفرض قيود صارمة على الشركات دي، خصوصًا اللي بتشتغل في مجالات حساسة زي الأمن القومي. الهدف الأساسي كان منع الصين من الاستفادة من التطور التكنولوجي الأمريكي وتسخيره لصالحها، خصوصًا في المجالات اللي ممكن تهدد المصالح الأمريكية. 🇺🇸🇨🇳
+"مايكل كراتسيوس"، مدير سياسات العلوم والتكنولوجيا، كتب إن فيه معلومات جديدة بتقول إن دول أجنبية، خصوصًا الصين، بتستغل شركات أمريكية. بيسموا العملية دي "التقطير" (distilling)، وهي عبارة عن نسخ تكنولوجيا الذكاء الاصطناعي اللي طورتها الشركات الأمريكية. الهدف من ده هو إضعاف البحث والتطوير الأمريكي وسرقة المعلومات الخاصة. 🇨🇳🔍
 
-**إجراءات حاسمة لمواجهة التجسس وسرقة التكنولوجيا**
+الصين ردت من خلال سفارتها في واشنطن، وقالت إن تطورها ده ناتج عن مجهودها الخاص وتعاون دولي بيحقق مكاسب للطرفين. 🗣️🌍
 
-الخطة كانت بتتمثل في منع الشركات الأمريكية من التعاون مع الشركات الصينية في تطوير الذكاء الاصطناعي، خصوصًا لو فيه شبهة إن ده ممكن يؤدي لنقل تكنولوجيا سرية أو استغلال نماذج الذكاء الاصطناعي اللي اتطورت في أمريكا. كانوا بيشوفوا إن ده نوع من أنواع سرقة التكنولوجيا والتجسس الاقتصادي، وكانوا مصممين ياخدوا إجراءات حاسمة عشان يحموا الابتكار الأمريكي. 🛡️
+عشان يوقفوا الاستغلال ده، البيت الأبيض هيعمل 4 حاجات، بس لسه ما وضحوش إيه هي بالظبط. 🤫
 
-**حماية الأمن القومي الأمريكي من التهديدات المحتملة**
+شركات زي OpenAI و Anthropic قالوا إنهم بيواجهوا عمليات "تقطير" دي. Anthropic اتهمت 3 معامل ذكاء اصطناعي صينية (DeepSeek، Moonshot، و MiniMax) بمحاولة نسخ نماذجهم. OpenAI كمان اتهمت DeepSeek بنسخ تكنولوجيتها. 😠
 
-التركيز كان على إن نماذج الذكاء الاصطناعي دي ممكن تستخدم في تطوير قدرات عسكرية أو استخباراتية صينية، وده بيمثل تهديد مباشر للأمن القومي الأمريكي. لذلك، الإدارة كانت بتتحرك بسرعة عشان تسد أي ثغرات ممكن تسمح للصين بالوصول للتكنولوجيا دي أو استغلالها. 🚀
+DeepSeek، اللي نزلت السنة اللي فاتت، بقت مشهورة جداً، وتكلفتها كانت قليلة مقارنة بشركات تانية. بس مؤخراً حصل فيها عطل كبير، ومن المتوقع إنها تنزل نسخة جديدة قريب. 📈
 
-**تأثيرات مستقبلية على التعاون التكنولوجي العالمي**
-
-الإجراءات دي كان ليها تأثير كبير على شكل التعاون التكنولوجي بين الدول، وفتحت الباب لنقاشات أوسع حول أخلاقيات استخدام الذكاء الاصطناعي وسياسات حماية الملكية الفكرية في العصر الرقمي. كان فيه قلق من إن ده ممكن يؤدي لحرب تكنولوجية، لكن في نفس الوقت، أمريكا كانت بتصر على حماية حقوقها ومصالحها. ⚖️
-
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMirgFBVV95cUxORlEyXzFsQUlfZ1ZxNk5oaXF0OWxXejQtMElLOHBtN2g4enlrTTVXQ0pxTTEyLTNacTgwNEF4R3BvLXVIbkZrUFY1dUlHSlpmZHZ5aGxrMFE0Zl9mMjZIRjNPZ2Q4RjJacndRaGpON1YwR2VkTFVBdVgwRE1QaW50TlE2dmdrUUVzdExIM0lzVnhIVlA0aEdXd2ItYjNvWHozX2MwZTJRX0tycHVSMGc?oc=5</guid><pubDate>Fri, 24 Apr 2026 05:21:12 GMT</pubDate></item></channel></rss>
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Fri, 24 Apr 2026 00:58:58 GMT</pubDate></item></channel></rss>
