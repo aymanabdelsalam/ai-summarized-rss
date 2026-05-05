@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 05 May 2026 17:18:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>OpenAI claims ChatGPT’s new default model hallucinates way less</title><link>https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant</link><description>أخبار جامدة نزلت النهاردة من شركة OpenAI، أعلنوا عن موديل جديد اسمه GPT-5.5 Instant، وده عبارة عن تحديث جامد للذكاء الاصطناعي بتاعهم اللي في ChatGPT. أهم حاجة في الموديل الجديد ده إنه هيقلل الأخطاء والكلام اللي ملوش لازمة اللي بتطلع من الذكاء الاصطناعي، أو اللي بنسميها "الهلاوس". 🤖
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 05 May 2026 20:57:13 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>US to safety test new AI models from Google, Microsoft, xAI</title><link>https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss</link><description>**أمريكا هتراقب كل حاجة جديدة في الذكاء الاصطناعي قبل ما تنزل للناس!** 🇺🇸
 
-الشركة بتقول إن الموديل الجديد ده بقى أحسن بكتير في إنه يجيب معلومات صحيحة، وده بان في اختباراتهم الداخلية. قالوا إن GPT-5.5 Instant قلل الأخطاء بنسبة 52.5% مقارنة بالموديل اللي قبله (GPT-5.3 Instant) في الأسئلة الصعبة اللي بتخص مجالات زي الطب والقانون والفلوس. وكمان قلل المعلومات الغلط بنسبة 37.3% في المحادثات اللي المستخدمين اشتكوا منها قبل كده. 💯
+دلوقتي شركات التكنولوجيا الكبيرة زي جوجل ومايكروسوفت وxAI (بتاعة إيلون ماسك) هيقدموا نماذج الذكاء الاصطناعي الجديدة بتاعتهم عشان تتفحص وتتراجع قبل ما توصلنا. ده حصل بعد اتفاقيات جديدة مع وزارة التجارة الأمريكية 🤝. الهدف إنهم يتأكدوا إن الحاجات دي آمنة وقوية ومش هتسبب مشاكل.
 
-مش بس كده، GPT-5.5 Instant بقى أشطر كمان في المهام اليومية، زي إنه يحلل الصور ويفهم إمتى يحتاج يخش على النت عشان يجيب معلومة. وهتلاحظ إن الردود بتاعته بقت أقصر وأكثر تركيزًا، وكمان هيقللوا استخدام الإيموجي اللي مالوش لازمة. 👍
+**مين ورا الاتفاق ده؟** 🤔
 
-التحديث الأهم بقى هو إن ChatGPT بقى أحسن في إنه يستخدم معلومات من محادثات سابقة أو حتى من إيميلاتك (لو سمحت له) عشان يديلك ردود مخصصة ليك أكتر. دي حاجة جوجل كمان بتشتغل عليها في موديل Gemini بتاعها. 📧 وكمان فيه ميزة جديدة هتخليك تشوف بالظبط إيه المعلومات اللي استخدمها الشات بوت عشان يديلك الردود المخصصة دي، وتقدر تمسحها أو تعدلها لو عايز. 🧠
+الاتفاق ده يعتبر تكملة لاتفاقيات حصلت قبل كده في عهد إدارة بايدن مع شركات تانية زي OpenAI و Anthropic. دلوقتي كل الشركات دي هتخضع نماذجها للفحص عشان يقيموا قدراتها وأمانها. رئيس مركز المعايير والابتكار في الذكاء الاصطناعي (CAISI) قال إن ده هيساعدهم يشتغلوا أكتر عشان مصلحة الناس في وقت مهم زي ده.
 
-التحديثات دي هتبدأ تنزل للمستخدمين كلهم بتوع ChatGPT يوم الثلاثاء، بس GPT-5.3 Instant هيفضل متاح لمدة تلات شهور كمان عشان الناس تلحق تتعود على الجديد. 🗓️ أما التخصيصات اللي بتعتمد على الذكريات دي هتنزل الأول لمشتركي Plus و Pro على الويب، وبعدين قريب جدًا على الموبايل. وكمان فيه خطط إنها توصل لكل المستخدمين التانيين قريب. ميزة "memory sources" دي بدأت تنزل دلوقتي على الويب لمشتركي ChatGPT العاديين، وقريب هتنزل على الموبايل. 📱
+**إيه اللي هيتراجع بالظبط؟** 🔍
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant</guid><pubDate>Tue, 05 May 2026 17:00:00 GMT</pubDate></item></channel></rss>
+الفحص ده هيشمل اختبارات، وأبحاث مشتركة، وتطوير أفضل الممارسات للأنظمة التجارية للذكاء الاصطناعي. جوجل عندها نموذج اسمه "Gemini" اللي بيستخدموه في منتجات جوجل وحتى في الجيش الأمريكي! 🚀 ومايكروسوفت عندها "CoPilot"، وxAI عندها "Grok" اللي طلع له مشاكل قبل كده في عرض صور مش كويسة.
+
+**مش أول مرة!** 🔢
+
+المركز ده عمل قبل كده 40 تقييم لنماذج ذكاء اصطناعي، منهم نماذج قوية جداً لسه ما نزلتش للجمهور. مايكروسوفت قالت إنهم بيختبروا نماذجهم بالفعل، بس الاختبارات اللي بتخص الأمن القومي وسلامة الجمهور لازم تكون بالتعاون مع الحكومة.
+
+**تغيير في السياسة!** 💡
+
+النهج ده مختلف عن إدارة ترامب اللي كانت بتسيب شركات التكنولوجيا والذكاء الاصطناعي براحتها. ترامب كان عايز يشيل القيود والتنظيمات عشان أمريكا تكسب في مجال الذكاء الاصطناعي. لكن دلوقتي، مع استخدام الجيش المتزايد للذكاء الاصطناعي، والتقارير عن نماذج قوية جداً لدرجة إن الشركات بتخاف تنزلها، يبدو إن الإدارة الحالية بدأت تغير رأيها. حتى إن مسؤولين من إدارة ترامب قابلوا رئيس شركة Anthropic، رغم إن الشركة دي في قضية مع وزارة الدفاع الأمريكية بسبب رفضها تشيل حواجز الأمان لنماذجها.
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Tue, 05 May 2026 20:16:24 GMT</pubDate></item></channel></rss>
