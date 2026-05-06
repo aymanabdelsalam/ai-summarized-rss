@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 05 May 2026 20:57:13 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>US to safety test new AI models from Google, Microsoft, xAI</title><link>https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss</link><description>**أمريكا هتراقب كل حاجة جديدة في الذكاء الاصطناعي قبل ما تنزل للناس!** 🇺🇸
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Wed, 06 May 2026 02:13:48 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Experts warn AI-generated deepfakes are outpacing laws meant to control them - WMUR</title><link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXBHWWpuT2tVTmtPZUZ3SVA3alBsd04xdlRndWp1N2M0eU1hMjNqMVBrZ3hoQ3Fjb1d0SnZXSVlrR2dQTVZadVNQSGdaRFNVU1ZxOFBXQ0stOXlYY2ZiX3o5NDZRakZLeHRiNHI3eFk1YzhncHdPcEU1dENiZGdBTXU1WGZCNUl1SHVN?oc=5</link><description>خبراء بيقولوا إن الـ"ديب فيك" اللي معمول بالذكاء الاصطناعي بقت أسرع من القوانين اللي بتحاول تسيطر عليها. يعني التكنولوجيا دي بتتقدم جامد لدرجة إن القوانين مش قادرة تلحقها، وده بيخلي فيه قلق كبير من استخدامها في حاجات مش كويسة. 🤔
 
-دلوقتي شركات التكنولوجيا الكبيرة زي جوجل ومايكروسوفت وxAI (بتاعة إيلون ماسك) هيقدموا نماذج الذكاء الاصطناعي الجديدة بتاعتهم عشان تتفحص وتتراجع قبل ما توصلنا. ده حصل بعد اتفاقيات جديدة مع وزارة التجارة الأمريكية 🤝. الهدف إنهم يتأكدوا إن الحاجات دي آمنة وقوية ومش هتسبب مشاكل.
+المشكلة الأساسية إن التكنولوجيا دي سهلة الاستخدام ومتاحة لناس كتير، وده بيخلي إنتاج فيديوهات وصور مزيفة واقعية جداً يبقى أسهل من أي وقت فات. ده ممكن يستخدم في تشويه سمعة ناس، أو حتى التأثير على الانتخابات والقرارات المهمة. 😱
 
-**مين ورا الاتفاق ده؟** 🤔
+الدول والحكومات بتحاول تحط قوانين عشان تواجه المشكلة دي، بس لسه فيه تحديات كتير. من أهم التحديات دي إن التكنولوجيا دي بتتطور بسرعة رهيبة، وده بيخلي القوانين اللي بتتحط ممكن تبقى قديمة ومش فعالة بعد فترة قصيرة. بالإضافة لكده، فيه صعوبة في تحديد مين المسؤول عن المحتوى المزيف ده، خصوصاً مع انتشار الذكاء الاصطناعي. ⚖️
 
-الاتفاق ده يعتبر تكملة لاتفاقيات حصلت قبل كده في عهد إدارة بايدن مع شركات تانية زي OpenAI و Anthropic. دلوقتي كل الشركات دي هتخضع نماذجها للفحص عشان يقيموا قدراتها وأمانها. رئيس مركز المعايير والابتكار في الذكاء الاصطناعي (CAISI) قال إن ده هيساعدهم يشتغلوا أكتر عشان مصلحة الناس في وقت مهم زي ده.
+الخبراء بينادوا بضرورة تطوير التكنولوجيا نفسها عشان تقدر تكشف الـ"ديب فيك" دي، وفي نفس الوقت لازم يكون فيه توعية للناس بخطورة المحتوى المزيف ده وإزاي يقدروا يميزوه. الموضوع ده محتاج تعاون بين المطورين، الحكومات، والمجتمع كله عشان نقدر نواجه التحدي ده. 🤝
 
-**إيه اللي هيتراجع بالظبط؟** 🔍
-
-الفحص ده هيشمل اختبارات، وأبحاث مشتركة، وتطوير أفضل الممارسات للأنظمة التجارية للذكاء الاصطناعي. جوجل عندها نموذج اسمه "Gemini" اللي بيستخدموه في منتجات جوجل وحتى في الجيش الأمريكي! 🚀 ومايكروسوفت عندها "CoPilot"، وxAI عندها "Grok" اللي طلع له مشاكل قبل كده في عرض صور مش كويسة.
-
-**مش أول مرة!** 🔢
-
-المركز ده عمل قبل كده 40 تقييم لنماذج ذكاء اصطناعي، منهم نماذج قوية جداً لسه ما نزلتش للجمهور. مايكروسوفت قالت إنهم بيختبروا نماذجهم بالفعل، بس الاختبارات اللي بتخص الأمن القومي وسلامة الجمهور لازم تكون بالتعاون مع الحكومة.
-
-**تغيير في السياسة!** 💡
-
-النهج ده مختلف عن إدارة ترامب اللي كانت بتسيب شركات التكنولوجيا والذكاء الاصطناعي براحتها. ترامب كان عايز يشيل القيود والتنظيمات عشان أمريكا تكسب في مجال الذكاء الاصطناعي. لكن دلوقتي، مع استخدام الجيش المتزايد للذكاء الاصطناعي، والتقارير عن نماذج قوية جداً لدرجة إن الشركات بتخاف تنزلها، يبدو إن الإدارة الحالية بدأت تغير رأيها. حتى إن مسؤولين من إدارة ترامب قابلوا رئيس شركة Anthropic، رغم إن الشركة دي في قضية مع وزارة الدفاع الأمريكية بسبب رفضها تشيل حواجز الأمان لنماذجها.
-
-Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Tue, 05 May 2026 20:16:24 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXBHWWpuT2tVTmtPZUZ3SVA3alBsd04xdlRndWp1N2M0eU1hMjNqMVBrZ3hoQ3Fjb1d0SnZXSVlrR2dQTVZadVNQSGdaRFNVU1ZxOFBXQ0stOXlYY2ZiX3o5NDZRakZLeHRiNHI3eFk1YzhncHdPcEU1dENiZGdBTXU1WGZCNUl1SHVN?oc=5</guid><pubDate>Wed, 06 May 2026 01:46:00 GMT</pubDate></item></channel></rss>
