@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 07 May 2026 21:00:14 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster</title><link>https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster</link><description>القصة دي عن اللي حصل في شركة OpenAI، بتاعة الذكاء الصناعي، قبل عيد الشكر 2023. حصلت خناقة كبيرة أوي بين رئيس الشركة سام ألتمان ومجلس الإدارة، لدرجة إنهم مشيوه فجأة. السبب الرسمي كان إنه "مش صريح مع مجلس الإدارة".
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 08 May 2026 02:32:45 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Instagram privacy tech is turned off today- what does this mean for your DMs?</title><link>https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&amp;at_campaign=rss</link><description>انستجرام بيلغي الرسائل الخاصة المشفرة بالكامل 🔒
 
-الموضوع كله اتكشف أكتر دلوقتي في قضية بين إيلون ماسك وسام ألتمان. الأوراق والشهادات اللي طلعت بتقول إن ميرا مراتي، اللي كانت المسؤولة التقنية في الشركة، كان ليها دور كبير في الموضوع ده. هي اللي بدأت الكلام عن مشاكل مع ألتمان وبعتت معلومات كتير للمؤسس إيليا سوتسكفر، اللي بدوره وداها لمجلس الإدارة.
+ميتا، الشركة الأم لانستجرام، قررت تلغي ميزة التشفير التام بين الطرفين (E2EE) في الرسائل المباشرة على انستجرام عالميًا. الميزة دي كانت بتضمن إن محدش يقدر يشوف الرسائل غير اللي بيبعتها واللي بتتبعت له، حتى انستجرام نفسه. 🙅‍♂️
 
-في شهادات قديمة، قالوا إن مراتي وسوتسكفر هما اللي زودوا مخاوف مجلس الإدارة من ألتمان، وإنهم كانوا شايفين إنه مش شفاف وبيتحايل على القرارات. في يوم 16 نوفمبر 2023، مجلس الإدارة اللي كان فيه 4 أعضاء، قرروا رسمياً يمشوا ألتمان ويعينوا مراتي مكانة مؤقتاً.
+القرار ده بيعتبر رجوع عن كلام ميتا اللي كان زمان بتقول فيه إن التشفير ده هو "المعيار الذهبي" لخصوصية المستخدمين. 🔄
 
-بس الغريب إن مراتي، اللي كان ليها دور كبير في إن ألتمان يتشال، رجعت تدعمه بسرعة. في 78 رسالة بعتتها لألتمان في يوم واحد، كانت بتحاول تشوف إيه الحل عشان يرجع. ألتمان سألها إذا كان فيه أخبار كويسة ولا وحشة، فقالت له "وحشة أوي يا سام، الموضوع ده خطر جداً". لما سألها إيه اللي ممكن يصلح الوضع، قالت له إن مجلس الإدارة مقتنعين بقراره ومش عايزينه يرجع.
+ليه فيه معارضة ودعم للقرار ده؟ 🤔
 
-مراتي كمان بعتت رسائل كتير لمسؤولين تانيين، زي ساتيا نادالا بتاع مايكروسوفت، اللي كان بيدعم ألتمان وعرض يوظف كل موظفين OpenAI عنده. حتى إن مراتي كتبتلهم إنها "مش هتوقع على حاجة" بتخص قرار مجلس الإدارة.
+المدافعين عن خصوصية الأطفال بيحتفلو بالقرار ده، زي منظمة NSPCC، لأنهم شايفين إن التشفير ده كان ممكن يساعد المجرمين إنهم يخبوا أفعالهم ويستغلوا الأطفال من غير ما حد يكشفهم. 🧒🏽‍👧🏽‍👦🏽
 
-وبعدها، أكتر من 750 موظف في OpenAI بعتوا خطاب لمجلس الإدارة بيهددوا إنهم هيسيبوا الشركة ويروحوا لمايكروسوفت لو ألتمان مش رجع. الغريب إن ميرا مراتي كانت أول اسم في الخطاب ده! بس شهادات تانية قالت إنها كانت مترددة تاخد منصب الرئيس المؤقت إلا لو القرار كان "قانوني"، وإنها كانت مستنية تشوف الرياح هتمشي إزاي.
+لكن في المقابل، منظمات حقوق الخصوصية زي Big Brother Watch شايفين إن القرار ده خطوة لورا، وبيخافوا إن ميتا تكون بتستسلم لضغوط الحكومات. 🏛️
 
-حتى في شهادتها في المحكمة، مراتي أكدت على انتقاداتها لألتمان وقالت إن مشاكلها معاه كانت "إدارية بحتة"، وإنها كانت عايزاه يقود الشركة بوضوح وما يقللش من شأن شغلها. كل ده بيبين قد إيه كانت معقدة ومحيرة في الأحداث دي.
+إيه اللي هيحصل بعد كدة؟ 🗓️
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster</guid><pubDate>Thu, 07 May 2026 19:55:22 GMT</pubDate></item></channel></rss>
+بعد 8 مايو 2026، الرسائل المشفرة بالكامل مش هتكون مدعومة تاني على انستجرام. ده معناه إن انستجرام هيقدر يوصل لكل محتوى الرسائل، بما فيها الصور والفيديوهات والرسائل الصوتية. 🔊 📸 📹
+
+ميتا بتقول إن السبب في القرار ده هو إن عدد قليل جدًا من المستخدمين كانوا بيستخدموا الميزة دي. لكن فيه محللين شايفين إن الموضوع أعمق من كده، وإن شركات زي ميتا ممكن تستفيد من بيانات الرسائل دي في تدريب نماذج الذكاء الاصطناعي بتاعتها. 🧠 🤖
+
+القرار ده ممكن يأثر على شركات تانية، لأن اتجاه كتير من تطبيقات التواصل كان ماشي نحو زيادة التشفير، لكن دلوقتي فيه علامات استفهام حوالين المستقبل ده. ❓
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Fri, 08 May 2026 01:31:55 GMT</pubDate></item></channel></rss>
