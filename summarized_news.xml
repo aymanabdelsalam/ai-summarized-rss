@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 15 May 2026 06:51:25 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Parts of Sacramento's Florin Road to get technology aimed at reducing red light crashes - Yahoo</title><link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG04NkNOUUdINVdveEZjZEdYOUdITExfOUFjbUdwQ0FvckszZ3VDdm8zWVY5WDR0bVFCaW91RldJb2s0ZkZUQ3p3ZzdzTGJOd3hCWWFNNjZELTJoYU92cWFtWEU3Wlp1Skd1WW41V1JGTnRjN1RfeDh0UWRsVkhJQXowQno1SVdqdERCbFBWemdtR3M?oc=5</link><description>**تكنولوجيا جديدة في شارع فلورين بسكرامنتو عشان تقلل حوادث الإشارة الحمراء** 🚦
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 15 May 2026 10:15:36 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Developer withdraws plans for Perth datacentre after fierce community opposition - The Guardian</title><link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQRm5RbnVaQ0tUUmNPUlIyV3JQQ3BjQXU2Z0JzVV9LV1VEVVpOSzVIcXJORU1hNGt5OFZXUld5UVZxdEIxc3ltbUZZaVNfRkJiOEpnUHZCd000RW9kcnFqVWlPLVF2VldBb3l6MzFoOXAzVE5aRDhOZ0pwQ25HTHU3ZWFYTlN2MjZNNVc2WWJHS3k1azAyaTlfOHlsUXY4c1NuRmFqQ3RvUXBHY2ZwQnhiYk9mSW9VcFpxOWwyZjlqT2pLNUlQbEx4alJhVQ?oc=5</link><description>**الشركات بتنسحب من بناء مراكز بيانات في بيرث بسبب اعتراضات السكان**
 
-البلدية في سكرامنتو قررت تركب كاميرات تكنولوجية جديدة في جزء من شارع فلورين عشان يقللوا من الحوادث اللي بتحصل بسبب تجاوز الإشارة الحمراء. ده هيحصل في المنطقة اللي بين شارع "أولد سكول" وشارع "بافلو". الهدف الأساسي هو إنهم يخلوا الشارع ده مكان آمن أكتر للسواقين والمشاة.
+شركة "أو إس كيه" (OSK) كانت ناويّة تبني مركز بيانات ضخم في منطقة "كينغز بارك" في بيرث، أستراليا، وده كان هيحصل في شهر مارس اللي فات. بس حصلت مشكلة كبيرة، والسكان المحليين اعترضوا بشدة على المشروع ده. الاعتراضات دي كانت قوية جداً لدرجة إن الشركة قررت تسحب خططها تماماً. 😠
 
-**إيه هي التكنولوجيا دي؟** 🤔
+**ليه الناس كانت معترضة؟**
 
-التكنولوجيا دي عبارة عن كاميرات متطورة بتراقب حركة المرور. هيتم تركيبها في تقاطعات معينة في شارع فلورين. الهدف إنها مش بس تسجل اللي بيتجاوز الإشارة الحمراء، لكن كمان تساعد في فهم أنماط السير وتقليل السرعات المتهورة. ده جزء من خطة أكبر للبلدية لتحسين السلامة المرورية في سكرامنتو.
+السكان كانوا خايفين من كذا حاجة. أولاً، كانوا قلقانين من **تأثير مركز البيانات على البيئة**، وده يشمل زيادة استهلاك الطاقة والمياه، بالإضافة إلى احتمالية انبعاث حرارة زيادة في المنطقة. ثانياً، كانوا خايفين من **التأثير على جودة الحياة** في المنطقة، زي الضوضاء اللي ممكن تنتج عن تشغيل المعدات. وكمان، كان فيه مخاوف من **التأثير على قيمة العقارات** في المنطقة. 🏘️
 
-**ليه شارع فلورين بالذات؟** 📍
+**النتيجة النهائية: الشركة بتعيد التفكير**
 
-شارع فلورين يعتبر من الشوارع الرئيسية في سكرامنتو، وفيه حركة مرور كثيفة طول الوقت. للأسف، المنطقة دي شهدت عدد كبير نسبياً من الحوادث، خصوصاً الحوادث اللي مرتبطة بتجاوز الإشارة الحمراء. عشان كده، البلدية اختارت المكان ده عشان يبدأوا فيه التجربة دي، على أمل إنهم يلاقوا نتيجة إيجابية ويطبقوها في أماكن تانية.
+بعد كل الاعتراضات دي، شركة "أو إس كيه" قررت إنها تنسحب من المشروع. ده معناه إن خططهم لبناء مركز البيانات في "كينغز بارك" اتلغت. ده بيورّي قد إيه رأي المجتمع المحلي مهم في القرارات دي، وإن الشركات لازم تاخد بالها من التأثير البيئي والاجتماعي لمشاريعها. 👍
 
-**النتائج المتوقعة** ✅
-
-المسؤولين بيتوقعوا إن التكنولوجيا دي هتقلل بشكل كبير من عدد الحوادث في المنطقة دي. مش بس كده، ده كمان ممكن يشجع السواقين على الالتزام بقواعد المرور أكتر. الهدف النهائي هو إنهم يخلقوا بيئة مرورية أكتر أماناً للجميع، سواء كانوا بيسوقوا عربيات، أو راكبين عجل، أو حتى ماشيين على رجليهم. 🙏
-
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG04NkNOUUdINVdveEZjZEdYOUdITExfOUFjbUdwQ0FvckszZ3VDdm8zWVY5WDR0bVFCaW91RldJb2s0ZkZUQ3p3ZzdzTGJOd3hCWWFNNjZELTJoYU92cWFtWEU3Wlp1Skd1WW41V1JGTnRjN1RfeDh0UWRsVkhJQXowQno1SVdqdERCbFBWemdtR3M?oc=5</guid><pubDate>Fri, 15 May 2026 05:35:00 GMT</pubDate></item></channel></rss>
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiywFBVV95cUxQRm5RbnVaQ0tUUmNPUlIyV3JQQ3BjQXU2Z0JzVV9LV1VEVVpOSzVIcXJORU1hNGt5OFZXUld5UVZxdEIxc3ltbUZZaVNfRkJiOEpnUHZCd000RW9kcnFqVWlPLVF2VldBb3l6MzFoOXAzVE5aRDhOZ0pwQ25HTHU3ZWFYTlN2MjZNNVc2WWJHS3k1azAyaTlfOHlsUXY4c1NuRmFqQ3RvUXBHY2ZwQnhiYk9mSW9VcFpxOWwyZjlqT2pLNUlQbEx4alJhVQ?oc=5</guid><pubDate>Fri, 15 May 2026 08:58:00 GMT</pubDate></item></channel></rss>
