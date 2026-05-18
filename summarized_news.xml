@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 18 May 2026 15:16:55 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports</title><link>https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs</link><description>لينوس تورفالدس، مؤسس نظام لينكس، قال إن الاعتماد الكبير على أدوات الذكاء الاصطناعي في اكتشاف الثغرات الأمنية بيسبب مشكلة كبيرة. 🤖 ده لأن الأداة بتطلع تقارير كتير ومتكررة، وناس كتير بتلاقي نفس المشاكل بنفس الأدوات، وده بيعمل زحمة كبيرة في قائمة الأمن بتاعة لينكس وبيخليها مش قابلة للإدارة. 🤯
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 18 May 2026 17:54:33 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>All of the updates from Elon Musk and Sam Altman’s battle over OpenAI</title><link>https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</link><description>**قضية إيلون ماسك ضد سام ألتمان: نهاية معركة قانونية حول مستقبل "أوبن إيه آي"**
 
-تورفالدس أكد إن التقارير دي ملهاش لازمة، لأنها بتيجي من ناس كتير بتستخدم نفس الأدوات، وبالتالي بيلاقوا نفس الثغرات. 🤷‍♂️ وقال إن المفروض التقارير دي متتعاملش كمعلومات سرية، لأن الذكاء الاصطناعي بيخليها معروفة ومش سرية أصلاً. ده بيضيع وقت ومجهود على الكل، وبيخلي مشكلة التكرار أسوأ. ⏳
+قضت هيئة محلفين مؤخرًا برفض الدعوى القضائية التي رفعها إيلون ماسك ضد سام ألتمان والرئيس التنفيذي لشركة "أوبن إيه آي"، بحجة أن الشركة انحرفت عن مهمتها الأصلية في تطوير الذكاء الاصطناعي لمنفعة البشرية، واتجهت نحو تحقيق الأرباح. استمرت المحاكمة قرابة شهر وشهدت شهادات شخصيات بارزة مثل ماسك نفسه، ألتمان، ساتيا ناديلا الرئيس التنفيذي لـ "مايكروسوفت"، جريج بروك مان المؤسس المشارك لـ "أوبن إيه آي"، وشيفون زيليس عضو مجلس الإدارة السابق.
 
-وقال كمان إن أدوات الذكاء الاصطناعي مفيدة بس بشرط تستخدم صح. لو عايز تضيف قيمة حقيقية، لازم تقرا الوثائق، وتعمل تصحيح (patch)، وتضيف حاجة مفيدة فوق اللي الذكاء الاصطناعي عمله، مش مجرد تبعت تقرير عشوائي من غير فهم. 💡
+**خلفية القضية وأسبابها**
 
-جيروم براون، مهندس أمن منتجات في GitHub، أكد نفس الكلام. قال إنهم معندهمش مشكلة مع استخدام الذكاء الاصطناعي، بس تقارير الثغرات اللي بتيجي منه لازم يتم التحقق منها عشان تكون مفيدة. ✅ التقرير اللي بتيجي معاه دليل على المشكلة (proof of concept) ويكون تم التحقق منه بيكون ممتاز، لكن التقرير اللي بيجي لوحده من غير تحقق أو إثبات للمشكلة بيكون ملوش قيمة. 👎 نصح بالتركيز على جودة البحث والتحقق بدل الكمية، لأن تقرير واحد متأكد منه بيساوي أكتر من 10 تقارير تخمينية. 👍
+بدأت القصة في عام 2024 عندما اتهم ماسك، أحد المؤسسين المشاركين لـ "أوبن إيه آي"، الشركة بالخيانة. زعم ماسك أن ألتمان وبروك مان خدعوه للحصول على أموال منه، ثم تخلوا عن الهدف الأصلي للشركة. من جانبها، وصفت "أوبن إيه آي" الدعوى بأنها "محاولة يائسة وغير مبررة لتخريب منافس" بهدف دعم شركات ماسك الخاصة مثل "سبيس إكس" و "إكس إيه آي" التي أطلقت "جروك" كمنافس لـ "تشات جي بي تي".
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs</guid><pubDate>Mon, 18 May 2026 14:21:10 GMT</pubDate></item></channel></rss>
+**تفاصيل الدعوى والنتيجة**
+
+في دعواه، طالب ماسك بإقالة ألتمان وبروك مان، وإيقاف "أوبن إيه آي" عن العمل كشركة ذات منفعة عامة. ومع ذلك، وبعد ساعات قليلة من المداولات، توصلت هيئة المحلفين إلى قرار بالإجماع برفض جميع التهم. السبب الرئيسي لهذا القرار هو "قانون التقادم" (statute of limitations)، مما يعني أن المدة القانونية لرفع هذه الدعاوى قد انتهت.
+
+**تفاصيل إضافية حول سير المحاكمة**
+
+خلال المحاكمة، تميزت المرافعات الختامية بالانتقادات اللاذعة. واجه محامي ماسك، ستيفن مول، صعوبات في تقديم الأدلة، حتى أنه أخطأ في ذكر اسم جريج بروك مان. في المقابل، قدمت محامية "أوبن إيه آي"، سارة إيدي، الأدلة بشكل منظم، مشيرة إلى أن "حتى والدة أطفال ماسك لا تدعم قصته". كما أشار المحامي ويليام سافيت إلى عدد المرات التي قال فيها ماسك "لا أتذكر" خلال المحاكمة، متسائلاً كيف لرجل أعمال ذكي ألا يفهم وثيقة من أربع صفحات.
+
+**الخلاصة النهائية**
+
+رغم أن قرار هيئة المحلفين هو قرار استشاري وليس ملزمًا قانونيًا، إلا أن القاضية إيفون جونزاليس روجرز وافقت عليه. وبذلك، انتهت المعركة القضائية التي كانت تحمل أهمية كبيرة لمستقبل "أوبن إيه آي" وتقنياتها، مع تركيز الأنظار الآن على ما سيحدث بعد ذلك في عالم الذكاء الاصطناعي. 🤖⚖️
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit</guid><pubDate>Mon, 18 May 2026 17:49:49 GMT</pubDate></item></channel></rss>
