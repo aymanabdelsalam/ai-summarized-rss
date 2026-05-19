@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 19 May 2026 17:59:41 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The 13 biggest announcements at Google I/O 2026</title><link>https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini</link><description>جوجل عملت مؤتمرها السنوي I/O 2026، وركزت فيه جامد على الذكاء الاصطناعي AI، وجابت أخبار كتير عن تحديثات في برامجها ونماذج الذكاء الاصطناعي بتاعتها. 🤯
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 19 May 2026 21:14:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Google to release first smart glasses since Google Glass flop</title><link>https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&amp;at_campaign=rss</link><description>جوجل رجعت تاني في عالم النضارات الذكية بعد فشل نظارة جوجل اللي نزلت سنة 2013 وفشلت في 2015 بسبب السعر والخصوصية. 🧐
 
-أهم حاجة أعلنوا عنها كانت عيلة نماذج Gemini 3.5 الجديدة، اللي منها Gemini 3.5 Flash اللي هينزل النهاردة وهيكون هو الأساسي في تطبيق Gemini ووضع AI في البحث. ده غير Gemini 3.5 Pro اللي هيظهر الشهر الجاي. بيقولوا إنهم أسرع وأفضل في المهام المعقدة وبيعملوا واجهات ويب ورسومات أحسن، وكمان حمايتهم بقت أقوى عشان ميطلعوش حاجات غلط. 🚀
+النظارة الجديدة هتنزل في الخريف وهيكون فيها كاميرا صغيرة وسماعات عشان تتفاعل مع الذكاء الاصطناعي بتاع جوجل "جيميني". جوجل عرضت أول تصميمات للنظارة دي بالتعاون مع "وربي باركر" و"جنتل مونستر". 🕶️
 
-كمان جوجل بتطلق تطبيق Gemini بتصميم جديد اسمه "neural expressive" فيه ألوان ورسومات وحركات جديدة، وهينزل يوم 19 مايو على الويب والتطبيقات. وكمان فيه نماذج جديدة اسمها Gemini Omni، أولها Omni Flash اللي بيقدر يعمل فيديوهات من كلام وصور وفيديوهات وصوت. 🎬
+النظارة الجديدة هتخليك تستخدم إيدك ورأسك بحرية، وهتشتغل على أجهزة أندرويد وآيفون. هتسمع المعلومات بصوت خاص في ودنك بدل ما تشوفها على شاشة، بس لسه فيه نسخة تانية بشاشة جوه العدسة هيتم الإعلان عنها قريب. 👂
 
-جوجل كمان بتقدم مساعد AI جديد اسمه Gemini Spark، بيفضل شغال 24 ساعة وبيساعدك تكتب إيميلات، وتعمل ملخصات دراسة، ويكتشف لك أي رسوم زيادة على كروت الائتمان. ده غير إن فيه ميزة جديدة في AI Studio بتخليك تعمل تطبيقات أندرويد كاملة بالذكاء الاصطناعي وتنشرها. 📱
+النظارات دي شبه نظارات ميتا اللي اتباع منها 7 مليون نسخة، بس لسه مخاوف الخصوصية موجودة، زي إن الناس ممكن تتصور من غير علمها. وسناب وأبل كمان بيجهزوا لنظارات مشابهة. 📸
 
-بالنسبة للنظارات الذكية، جوجل بتحدث Project Aura بالتعاون مع Xreal، والنظارات دي بقى فيها مستشعر بصمة. وكمان فيه نظارتين جداد من Warby Parker و Gentle Monster هينزلوا الخريف ده، دول هيبقوا للصوت بس وهيقدموا مميزات زي الترجمة المباشرة والمساعدة في الاتجاهات. 👓
+الخبراء شايفين إن رجوع جوجل للسوق ده كويس للمستهلكين وللشركات الناشئة عشان تبني تطبيقات جديدة عليها. 🚀 والنظارات الذكية تعتبر المرحلة الجاية بعد الموبايلات. 📱
 
-وجوجل بتطلق "Universal Cart" اللي بتجمع المنتجات من يوتيوب، البحث، Gemini، وجيميل في سلة تسوق واحدة، وتقدر تشتري من كذا مكان في وقت واحد. 🛒
-
-في جيميل، البحث بقى أحسن بكتير بفضل Gemini Live، اللي بيجيب لك المعلومة اللي عايزها بالصوت من الإيميلات بدل ما تدور وسطها. ده كمان هيتطبق في Google Docs و Keep. ✉️
-
-وجوجل بتطور أدواتها عشان تساعد الناس تعرف الصور اللي معمولة بالذكاء الاصطناعي أو متعدلة. 🖼️
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini</guid><pubDate>Tue, 19 May 2026 17:54:33 GMT</pubDate></item></channel></rss>
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Tue, 19 May 2026 21:00:12 GMT</pubDate></item></channel></rss>
