@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 18:21:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Apple announces Siri AI and its next generation of Apple Intelligence</title><link>https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc</link><description>أبل بتعمل "فرصة تانية" لسيري عشان تبقى أذكى ومخصصة أكتر 👍، وده بيحصل بعد سنتين من أول ما أعلنوا عن خططهم لحاجة شبه كده بس ماكملتش. في مؤتمر WWDC، أبل كشفت عن كام ميزة ذكاء اصطناعي جديدة وسيري مطورة بتقدر تفهمك أكتر.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 21:46:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>OpenAI files for IPO, following Anthropic</title><link>https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential</link><description>أخبار جامدة من عالم الذكاء الاصطناعي! 🤖 OpenAI، الشركة اللي ورا ChatGPT، قربت أوي إنها تنزل البورصة، ودي خطوة كبيرة في سباقها مع شركة تانية اسمها Anthropic.
 
-السيري الجديدة دي أبل بتقول عليها "نسخة جديدة خالص" وبقت بتتكلم معاك بطريقة طبيعية أكتر وقادرة تعمل حاجات أكتر. صوتها بقى معبر أكتر وممكن تتحكم في سرعته ونبرته، بس في الأول هتبقى شغالة باللغة الإنجليزية بس، مع وعود إنهم هيضيفوا لغات تانية بسرعة. 🗣️
+الشركة قدمت ورقة رسمية اسمها "Form S-1" بشكل سري لهيئة الأوراق المالية الأمريكية (SEC)، وده معناه إن تفاصيل كتير لسه مش ظاهرة للناس، زي مرتبات المديرين والمخاطر اللي ممكن تواجه الشركة وأرقام مالية تانية. 🤫
 
-السيري الجديدة دي هتبقى موجودة في كل أجهزة أبل، وتقدر تشوف اللي على الشاشة وتتفاعل مع التطبيقات. أبل أكدت إنهم صمموا السيري دي مع مراعاة الخصوصية في كل خطوة، يعني الأسئلة يا إما بتتعالج على الجهاز نفسه يا إما على سيرفرات أبل الخاصة. 🔒
+المنافسة قوية، و Anthropic بقت أغنى شركة ناشئة في العالم بقيمة 965 مليار دولار، بعد ما عدت OpenAI اللي قيمتها 852 مليار دولار. 💰 OpenAI بتجهز للطرح ده بقالها كام شهر، بس فيه كلام إن مش كل المديرين متحمّسين ليه، خصوصًا إن فيه أهداف إيرادات ونمو مستخدمين ماتحقتتش، ده غير تكاليف الحوسبة الضخمة اللي الشركة محتاجة تغطيها.
 
-السيري الجديدة دي هتنزل على كل أجهزة أبل زي الآيفون، الآيباد، الماك، ساعة أبل، وحتى نظارة فيجن برو. على الآيفون، هتقدر توصلها بأنك تسحب من الدايناميك آيلاند، وفي الماك من سبوتلايت، أما مستخدمي فيجن برو هيقدروا يكلموها بمجرد ما يبصوا على دايرة بتظهر قدامهم من غير ما يقولوا "Hey, Siri". 👀
+الخبر ده بيجي بعد قضية شهيرة بين إيلون ماسك وسم ألتمن، ولأن SpaceX بتاع ماسك هتنزل البورصة قريب وهتجمع 80 مليار دولار، ودي هتكون أكبر عملية طرح أسهم في التاريخ. 🚀 ومن المتوقع إن طرح OpenAI هيتقارن بطرح SpaceX، خصوصًا إن ماسك اشترى شركة منافسة لـ OpenAI وعمل اتفاقية مع Anthropic.
 
-كمان السيري هينزلها تطبيق خاص بيها، شبه تطبيقات الذكاء الاصطناعي التانية زي ChatGPT و Claude و Gemini. التطبيق ده فيه واجهة محادثة نصية وصوتية، وتقدر تتكلم عن الصور والملفات، وترجع للمحادثات القديمة. المحادثات دي هتتخزن على iCloud عشان تقدر تكمل كلامك من جهاز لجهاز. 🔄
-
-السيري دي هتقدر تجاوب على أسئلة معلوماتية عن طريق معلومات من الويب أو بياناتك الخاصة، وكمان تعمل مهام زي كتابة إيميلات أو مراجعة جدول مواعيدك. أغلب الحاجات دي شبيهة باللي بنشوفه في Gemini على أندرويد أو تطبيقات الذكاء الاصطناعي التانية، وده بيخلي أبل تبان كأنها بتلحق بالركب. 🏃‍♀️
-
-بس أبل استغلت ده عشان تقول إن تأخرهم ده كان مقصود عشان يعملوا حاجة صح. قالوا إن فيه ناس بتجري ورا الذكاء الاصطناعي لمجرد الذكاء الاصطناعي، من غير ما يفكروا في الناس. أبل مؤمنة إن الذكاء الاصطناعي المفيد لازم يكون متركز حواليك وحوالين احتياجاتك. 💡
-
-جدير بالذكر إن أبل واجهت مشاكل في تنفيذ ميزات الذكاء الاصطناعي اللي أعلنوا عنها في 2024، واتفقوا يدفعوا 250 مليون دولار لتسوية دعوى قضائية اتهمتهم فيها بتضليل المستهلكين بخصوص إمكانيات وأداء Apple Intelligence. 💸
-
-أبل عملت اتفاقية مع جوجل عشان تستخدم Gemini عشان تشغل ميزات Apple Intelligence والسيري الجديدة، وده هيخلي أبل تركز على منتجاتها وميزاتها الخاصة بالذكاء الاصطناعي، مش على النماذج الأساسية اللي بتشغلها. 🤝
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc</guid><pubDate>Mon, 08 Jun 2026 17:34:24 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential</guid><pubDate>Mon, 08 Jun 2026 21:38:29 GMT</pubDate></item></channel></rss>
