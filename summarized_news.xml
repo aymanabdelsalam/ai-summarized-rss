@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 03:21:39 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Bluesky is getting ‘communities’</title><link>https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit</link><description>البلو سكاي هتنزل ميزة جديدة اسمها "كوميونيتيز" (Communities) وهي عبارة عن مساحات صغيرة تقدر تتجمع فيها مع ناس بتحب نفس الحاجات اللي انت بتحبها. الميزة دي هتكون متاحة السنة دي. 🤩
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 11 Jun 2026 08:38:24 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Deezer launches an AI music detector for other streaming services</title><link>https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple</link><description>**ديزر بتقدر تكشف الأغاني اللي معموله بالذكاء الاصطناعي 🤖🎶**
 
-الميزة دي هتكون مبنية على نظام اسمه "AT Protocol" اللي شغال عليه البلو سكاي، والمسؤول عن المنتجات في البلو سكاي، أليكس بنزر، قال إنها "هيكل جديد للكل" وهتكون جزء من "Atmosphere". ☁️
+شركة ديزر، اللي بتقدم خدمات بث الموسيقى، بدأت خدمة جديدة بتخليك تعرف إذا كانت أي أغنية في قوائم التشغيل بتاعتك معموله بالذكاء الاصطناعي ولا لأ. دي مش أول مرة ديزر تعمل حاجة زي دي، لأنها كانت أول شركة كبيرة تبدأ تعلم الأغاني اللي معموله بالذكاء الاصطناعي. الشركة كانت عرضت التكنولوجيا دي على شركات تانية، بس محدش اهتم بيها.
 
-بنزن شرح إنك هتقدر تعمل كوميونيتيز، تنضم ليها، تنشر فيها، وتاخد تحديثات. وقال إن الحاجات الأساسية في البلو سكاي هتفضل بسيطة، لكن السحر الحقيقي هيجي من إن الكوميونيتيز دي هتكون موجودة كمان على الويب المفتوح، وده هيخليك تقدر تعدلها وتضيف لها مميزات تانية باستخدام أدوات وتطبيقات Atmosphere. ✨
+**بالمختصر المفيد:**
 
-كل كوميونيتي هيكون ليها اسم "بيشتغل كـ URL" يعني تقدر تدخله وتوصل لصفحة خاصة بالكوميونيتي دي، أو حتى المطورين يقدروا يعملوا تجربة مخصصة بالكامل ليها. وهيكون فيه 3 مستويات خصوصية للكوميونتيز: عامة، دعوة بس، وسرية. وكل كوميونيتي هيكون ليها الـ feed الخاص بيها. 📬
+*   **إيه اللي حصل؟** ديزر عملت أداة مجانية عشان تكشف الأغاني اللي معموله بالذكاء الاصطناعي.
+*   **ليه؟** عشان الشركات التانية مش بتشتري التكنولوجيا بتاعتهم، فقرروا يوفروها للناس على طول.
+*   **إزاي؟** بتروح على موقع ديزر، تختار منصة الموسيقى بتاعتك (زي سبوتيفاي، آبل ميوزيك، يوتيوب ميوزيك وغيرهم)، وتدي الإذن لديزر عشان تشوف قوائم التشغيل بتاعتك.
+*   **النتيجة؟** ديزر هتقولك إذا كان فيه أي أغاني معموله بالذكاء الاصطناعي وهتقدر تشارك النتائج دي.
 
-الكلام ده جه بعد ما روز وانج، المديرة التنفيذية في البلو سكاي، قالت الأسبوع اللي فات إنهم عايزين يبعدوا عن فكرة إنهم "ساحة عامة" وإنهم مستوحين من شركات زي ريديت. خلي بالك إن ميتا كمان بتجرب ميزة كوميونيتيز في Threads، وإكس (تويتر سابقاً) كانت أعلنت عن إغلاق ميزة كوميونيتيز بتاعتها. 🧐
+**خلفية الموضوع:**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit</guid><pubDate>Thu, 11 Jun 2026 00:05:48 GMT</pubDate></item></channel></rss>
+في الفترة الأخيرة، فيه زيادة ملحوظة في إنتاج الموسيقى باستخدام الذكاء الاصطناعي. ده بيطرح أسئلة كتير حوالين حقوق الملكية الفكرية، والأصالة الفنية، وتأثير ده على الفنانين والموسيقيين. عشان كده، شركات زي ديزر بتحاول تواكب التطور ده وتقدم حلول للمستهلكين عشان يكونوا واعيين باللي بيسمعوه. شركات تانية زي Qobuz عملت تكنولوجيا مشابهة، بينما Apple و Spotify اعتمدوا على نظام "وضع علامات" طوعي، يعني الفنانين بيختاروا بنفسهم يعلموا شغلهم إذا كان معمول بالذكاء الاصطناعي.
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple</guid><pubDate>Thu, 11 Jun 2026 08:00:00 GMT</pubDate></item></channel></rss>
