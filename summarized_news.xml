@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 13 Jun 2026 07:41:07 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Here’s How AI Agents Can Protect EV Chargers</title><link>https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/</link><description>العربيات الكهرباء كل يوم بتزيد في العالم، وده خلاهم يعملوا محطات شحن أسرع وأحسن. بس المشكلة إن ده كمان بيجيب معاه مخاطر أمنية جديدة محدش درسها كويس لسه، ومفيش حلول كتير ليها 😥.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 13 Jun 2026 10:23:37 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails</title><link>https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/</link><description>الريس بتاع ريفيان، RJ Scaringe، اللي كان بيدرس محركات الاحتراق الداخلي في MIT، قرر يعمل حاجة عكسها بالظبط! أسس شركة اسمها ريفيان سنة 2009، قضت حوالي 10 سنين في الخفاء، لحد ما جابت عربيتين كهربا محدش كان يتوقعهم في معرض لوس أنجلوس للسيارات سنة 2018. 🚗💨
 
-الدكاترة في جامعة مالاجا بإسبانيا لقوا حل للمشكلة دي. هما عملوا نظام بيستخدم ذكاء اصطناعي (AI) عشان يحمي محطات الشحن دي من أي هجمات. النظام ده بيقدر يكشف أي حاجة غريبة بتحصل، سواء كانت سرقة كهرباء أو حتى هجمات أكبر ممكن تأثر على شبكة الكهرباء كلها. 🛡️
+الطريق ما كانش سهل خالص. ريفيان خسرت 3.6 مليار دولار في 2025، وصرفت حوالي 25 مليار دولار في آخر 8 سنين، أكتر من أي شركة عربيات كهربا تانية. رغم إن الاكتتاب العام بتاعهم سنة 2021 كان الأكبر في العالم وتقييم الشركة وصل لـ 100 مليار دولار، سعر السهم نزل من 130 دولار لحوالي 16 دولار. من ساعة ما بدأت تبيع عربيات R1 في 2021، باعت 175 ألف عربية، مقارنة بـ 8 مليون عربية باعتهم تسلا في نفس الفترة. 📉
 
-النظام الجديد ده بيشتغل عن طريق إن كل محطة شحن أو جزء منها بيكون فيه "عملاء" ذكاء اصطناعي. العملاء دول بيراقبوا اللي بيحصل حواليهم وبيكلموا بعض عشان يكون عندهم فكرة كاملة عن الوضع. كمان بيستخدموا حاجة اسمها "إجماع الآراء" عشان يتأكدوا من المعلومات ويتجنبوا أي أخطاء. 🤝
+بس على الرغم من كل ده، سنة 2024، مجموعة فولكس فاجن استثمرت 5.8 مليار دولار عشان يطوروا سوا برامج وتكنولوجيا عربيات كهربا. والسنة دي، أوبر هتعمل استثمار بـ 1.25 مليار دولار عشان يبنوا 50 ألف تاكسي روبوت ذاتي القيادة. 🤝
 
-التجربة اللي عملوها في الجامعة كانت ناجحة جداً، والنظام قدر يكشف كل المشاكل اللي كانت بتحصل في محطات الشحن، سواء كانت حاجات بسيطة في جهاز واحد أو مشاكل بتأثر على كذا محطة. ده بيضمن إن محطات شحن العربيات الكهرباء هتكون آمنة أكتر في المستقبل. 👍
+المهم دلوقتي إن عربية R2 الجديدة لازم تنجح، مش بس تتباع، لأ، لازم تتباع بأعداد ضخمة. 🚀
 
-Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/</guid><pubDate>Sat, 13 Jun 2026 06:30:00 GMT</pubDate></item></channel></rss>
+الريس بتاع ريفيان اتكلم بصراحة عن حاجات كتير، زي إيه هيحصل لو R2 فشلت، وليه R1 بدأت بتقنيات قديمة، وإزاي ينافسوا الصين، وفشل عربية سايبرتراك، وأهمية الأزرار جوه العربيات. ✨
+
+بالنسبة لعربية فيراري الجديدة، قال إن تصميمها متعمد جدًا، وإن أجزاء من الداخل زي الأزرار والتحكمات "فنّية" جدًا. وكمان أكد إن فيه نقص كبير في اختيارات العربيات الكهربا في أمريكا، وإن تسلا بتحتكر السوق بعربيات قليلة. 🤷‍♂️
+
+وعن سايبرتراك، قال إنها كانت "مغامرة كبيرة" وإنها مش عربية للسوق العام، وإنها niche جدًا بسبب قرارات التصميم. أما عن بولستار، فالريس قال إنهم محتاجين يظبطوا السعر والتكنولوجيا عشان يقنعوا فئة أكبر من الناس، وإن ده اللي ناقصهم. 🤨
+
+الملخص إن ريفيان حاطة كل آمالها في عربية R2 الجديدة عشان تكون عربية لكل الناس، خصوصًا إن الشركة صرفت مليارات عشان تجهز خطوط إنتاج وخدمات عشان العربية دي. لو R2 فشلت، الشركة هتحتاج تعيد حساباتها كلها. المصنع الجديد في جورجيا هيتصنع على مرحلتين، المرحلة الأولى هتكون طاقتها 300 ألف عربية في السنة عشان تدعم موديلات تانية زي R3 والتوسع في أوروبا. 🏭
+
+بالنسبة للتكنولوجيا الذاتية القيادة، ريفيان بتطورها بنفسها، وممكن يبيعوها لشركات تانية. بس لو R2 ما نجحتش، ده هيبقى أهم مصدر دخل للشركة. أول نسخة من التكنولوجيا دي في R1 كانت بتقنية قديمة، بس دلوقتي بيطوروا نسخة أحدث (Gen 2.5) وهتكون فيه Gen 3 بتقنيات أقوى بكتير. 💪
+
+بالنسبة للمنافسة مع الصين، ريفيان بتواجه صعوبة في السعر، بس بتقول إن تكنولوجيتها قوية جدًا، وإن التعاون مع فولكس فاجن بيساعدهم يطوروا تكنولوجيا تنافس العربيات الصينية الرخيصة. 🇨🇳
+
+وفي النهاية، الريس أكد إن R3 هتيجي بعد R2، وإنهم مركزين حاليًا على زيادة إنتاج R2 وتقديمها للعملاء. 🤞
+
+Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/</guid><pubDate>Sat, 13 Jun 2026 10:00:00 GMT</pubDate></item></channel></rss>
