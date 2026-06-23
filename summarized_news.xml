@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 22 Jun 2026 21:57:50 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Valve describes just how brutal RAM negotiations are in 2026</title><link>https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis</link><description>يا جماعة، شركة Valve أعلنت عن أسعار أجهزة Steam Machine الجديدة، والأسعار دي طلعت نار! 💸 أغلى نسخة بـ 1049 دولار (حوالي 50 ألف جنيه مصري) بسعة 512 جيجا، ولو عايز 2 تيرا هتدفع 1349 دولار (حوالي 64 ألف جنيه مصري). والمشكلة إن دي أسعار الجهاز بس، لسه هتضيف عليهم سعر الكونترولر.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 23 Jun 2026 02:41:52 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns - The Guardian</title><link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5</link><description>**قلق دولي من هجمات الذكاء الاصطناعي المدمرة.. دول "العيون الخمس" تحذر**
 
-السبب الرئيسي في الأسعار دي إن Valve مش بتدعم الجهاز مادياً، ده غير إن أزمة نقص مكونات الكمبيوتر (زي الرامات) خلتهم يرجعوا يفكروا تاني في التسعير. المهندسين بتوع Valve قالوا في مقابلة إنهم بيجيبوا الرامات بالقطعة، والشركات بتديهم سعر كل شهر، ولو رفضوا السعر ده، مش هيرضوا يتعاملوا معاهم تاني. 🤷‍♂️
+الخبراء بيتوقعوا إن نماذج الذكاء الاصطناعي اللي بتقدر تعمل هجمات خطيرة على الحكومات والشركات ممكن تكون جاهزة في خلال شهور قليلة 🗓️. ده حسب تحذير خطير صدر من مجموعة "العيون الخمس" (Five Eyes)، وهي تحالف استخباراتي بين دول زي أمريكا، بريطانيا، كندا، أستراليا، ونيوزيلندا. التحذير ده مهم لأنه بيجي لأول مرة من المجموعة دي بخصوص التهديدات اللي ممكن يسببها الذكاء الاصطناعي.
 
-الأزمة دي مش بس في Valve، ده فيه شركات تانية كتير بتعاني من نقص المكونات دي. حتى آبل أعلنت إن أسعار الآيفون والماك ممكن تزيد. 🍎 والمشكلة دي متوقع إنها تستمر لفترة.
+**مخاطر تتجاوز الهجمات السيبرانية التقليدية**
 
-الغريب بقى إن Valve هتجيب الرامات للجهاز يا إما قطعة واحدة 16 جيجا، أو قطعتين 8 جيجا، حسب اللي بيعرفوا يجيبوه. 💽 وعلى الرغم من إن قطعتين أداءهم أحسن، إلا إن مهندسين Valve بيقولوا إن ده مبيعملش فرق كبير في الألعاب. 🎮 
+الخطر مش بس في اختراق الأنظمة أو سرقة البيانات، لكن التهديد أكبر من كده. نماذج الذكاء الاصطناعي دي ممكن تستخدم في شن هجمات مدمرة تتسبب في فوضى على نطاق واسع، وده بيشكل تهديد للأمن القومي والاستقرار الاقتصادي للدول. التحذير ده بيدل على جدية التهديد وإنه وصل لمستوى بيتطلب تكاتف دولي لمواجهته.
 
-Valve ما أعلنتش عن سعرها الأصلي اللي كانت مفكر فيه، بس لو بصينا على زيادة أسعار Steam Deck OLED، نقدر نتوقع إن السعر الأصلي كان ممكن يكون حوالي 809 دولار للنسخة الـ 512 جيجا و 1049 دولار للنسخة الـ 2 تيرا. يعني الأسعار الجديدة أغلى بكتير من اللي كان مخطط له. 😥
+**دعوة للتعامل مع التحديات الأخلاقية والتشريعية**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/games/953945/valve-steam-machine-memory-component-crisis</guid><pubDate>Mon, 22 Jun 2026 21:07:14 GMT</pubDate></item></channel></rss>
+الخبراء والمحللين بيشددوا على ضرورة إن الدول تاخد الموضوع ده بجدية وتشتغل على وضع قوانين وتشريعات تنظم استخدام تقنيات الذكاء الاصطناعي. لازم يكون فيه رقابة صارمة على تطوير ونشر النماذج دي عشان نتجنب أي استغلال ممكن يهدد الأمن والسلم العالميين. 🌐
+
+**مستقبل غامض يتطلب يقظة مستمرة**
+
+السباق في تطوير الذكاء الاصطناعي مستمر، والتحديات اللي بتواجهنا معاه بتزيد. تحذير "العيون الخمس" ده يعتبر جرس إنذار للمجتمع الدولي كله إنه لازم يكون مستعد لأي تطورات، سواء كانت إيجابية أو سلبية، في عالم الذكاء الاصطناعي. 🤖
+
+Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTklxTWJwcms1UlBCeUYyTGtNTGFtdEtGcmR3bEJJWHY2VHRpbUJqR3lUdW13RkF6MWJ4SklkWEtEYUlOLURENnRDNWNjN1dCclZVVGNOQVV0OEg5U0gyY2pGWDVDY3JUR3lKelJGSHdxUUM1UXY2UXFpa09idjN1Z0ZLNFZWX2dmR1FyaDRrM2NVY2trNFJwbjJHdWZuYUUtck1rWU9VRWZEbV9kT2hXOUNxbm1iU3FwTlp3dzkzdUhQdw?oc=5</guid><pubDate>Tue, 23 Jun 2026 01:09:00 GMT</pubDate></item></channel></rss>
