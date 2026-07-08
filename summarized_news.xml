@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 17:23:24 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>If Microsoft sold off Xbox, who would even buy it?</title><link>https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma</link><description>**مايكروسوفت بتعمل "نضف" في قسم ألعاب Xbox، ومستقبل الـ"كونسول" مش واضح**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Wed, 08 Jul 2026 21:00:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement</title><link>https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/</link><description>الـ FTC (لجنة التجارة الفيدرالية الأمريكية) أعلنت يوم الأربعاء عن اتفاق مع شركة "جون دير" (John Deere) اللي بتصنع الجرارات، وده بعد دعوى قضائية كانت متقدمة ضدها سنة 2025. الدعوى دي كانت بتتهم الشركة إنها بتستخدم أساليب "غير قانونية للاستحواذ على قوة احتكارية والحفاظ عليها في أسواق خدمات صيانة معدات المزارع بتاعتها". 🚜
 
-الشركة العملاقة مايكروسوفت قررت تاخد خطوة جريئة جداً في قسم الألعاب بتاعها Xbox، حيث أعلنت عن تسريح 1600 موظف دلوقتي، و1600 تانيين السنة الجاية، ده غير إنها هتستغنى عن 4 استوديوهات تطوير ألعاب. رئيسة Xbox، آشا شارما، قالت بصراحة إن الوضع "مش صحي" وإنهم "انتشروا أكتر من اللازم". 🤷‍♀️
+الاتفاق ده بيُلزم "جون دير" إنها تدي المزارعين وورش التصليح التابعة لأطراف تالتة نفس الأدوات والموارد اللي بتوفرها لوكلاء "جون دير" الرسميين. ده بيشمل برامج قادرة على قراءة الأكواد وإعادة ضبطها، وربطها ببرامج تانية. المزارعين كانوا بيعانوا من صعوبة الوصول للحاجات دي، وده كان بيأخر تشخيص المشاكل في المعدات، وبالتالي بياخر الحصاد، وده كان بيهدد مصدر رزقهم. 🌾
 
-**تساؤلات حول مستقبل Xbox.. هل مايكروسوفت هتبيع القسم كله؟**
+الاتفاق ده هيخلي "جون دير" توفر الأدوات والخدمات دي لمدة 10 سنين جاية، وهتكون تحت إشراف الـ FTC. ده يعتبر مكسب كبير للمزارعين اللي بقالهم أكتر من 10 سنين بيحاربوا عشان حقهم في تصليح معداتهم. ✊
 
-مع التغييرات الكبيرة دي وتركيز Xbox على الألعاب الكبيرة بس، مستقبل المنصة بقى غامض. فيه كلام كتير إن مايكروسوفت ممكن تبيع قسم Xbox بالكامل، خصوصاً إنها بتركز مجهوداتها وفلوسها على الذكاء الاصطناعي (AI). 🤖 أساتذة في مجال التكنولوجيا قالوا إن بيع Xbox بالكامل ممكن يكون وارد، لكنه "أقل احتمالاً" بسبب صعوبة إيجاد مشترٍ يقدر يدفع المبلغ الضخم ده، اللي ممكن يتجاوز 23 مليار دولار سنوياً. 💰
+"جون دير" من ناحيتها بتقول إنها طول عمرها بتوفر موارد صيانة كويسة لعملائها، زي كتيبات الخدمة وأجهزة التشخيص. الشركة بتأكد إن الاتفاق ده بيدعم اللي بيعملوه أصلاً وبيأكد التزامهم بتوفير خيارات صيانة أكتر مرونة وشفافية للمزارعين. 🤝
 
-**مين ممكن يشتري Xbox؟ الخيارات محدودة**
-
-رغم إن فيه شركات عملاقة زي نتفليكس، أمازون، وتنسنت ممكن نظرياً تشتريهم، لكنهم مش مهتمين بشراء قسم ألعاب كامل. تنسنت مثلاً بتقلل استثماراتها في الألعاب، وأمازون مركزة على خدماتها السحابية. ☁️ حتى شركات الترفيه زي نتفليكس وديزني، استراتيجياتهم مبتعتمدش على الاستحواذات الكبيرة في الألعاب. 🎬
-
-**السيناريو الأكثر ترجيحاً: بيع أجزاء من Xbox**
-
-الخبراء شايفين إن السيناريو الأقرب للواقع هو إن مايكروسوفت ممكن تبيع "أجزاء معينة" من Xbox، زي استوديوهات تطوير أو حقوق ملكية لألعاب معينة. 🎮 ده حصل قبل كده لما سمحت لبعض الاستوديوهات إنها تبقى مستقلة أو باعت استوديوهات تانية لمشترين مجهولين. شارما بتركز حالياً على الألعاب المعروفة زي Halo و Call of Duty و Minecraft، وده بيدي إشارة إن Xbox بتراهن على الأسماء الكبيرة. 💪
-
-**مستقبل Xbox لسه مش واضح.. التغييرات مستمرة**
-
-لسه مش عارفين بالظبط إيه هي خطة مايكروسوفت المستقبلية لـ Xbox، لكن المؤكد إن التغييرات دي لسه مخلصتش. ممكن نشوف بيع أجزاء من القسم أو تقليص حجمه عشان مايكروسوفت توفر فلوس لتركيزها على الذكاء الاصطناعي. 🤔 فيه تقديرات بتقول إننا هنعرف أكتر عن مستقبل Xbox بنهاية السنة دي، أو خلال سنتين. ⏳
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/games/962837/microsoft-xbox-spin-off-sell-divest-layoffs-asha-sharma</guid><pubDate>Wed, 08 Jul 2026 17:10:05 GMT</pubDate></item></channel></rss>
+Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/</guid><pubDate>Wed, 08 Jul 2026 20:27:18 GMT</pubDate></item></channel></rss>
