@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 12 Jul 2026 06:27:56 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>After years of teasing, the viral Nopia synth is ‘basically finished’</title><link>https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo</link><description>الناس بتوع الموسيقى اللي بيلعبوا على النت مولعين من سنة 2023 لما شافوا حاجة اسمها "Nopia" لأول مرة، ودلوقتي ماريان جريكو وروتشيو غال خلاص قربوا يطرحوها في السوق. الاتنين جابوها لمكتب "MusicRadar" عشان يشوفوها عن قرب، وقالوا إنها هتنزل "في خلال شهرين" بسعر حوالي 550 جنيه إسترليني. 💰
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 12 Jul 2026 09:46:44 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Best External Hard Drives (2026): SSD to Store Data, Video, and More</title><link>https://www.wired.com/story/best-portable-external-storage-drives/</link><description>لو مساحة اللاب توب بتاعتك بتخلص أو محتاج تعمل نسخة احتياطية لملفاتك، أو عندك فيديوهات كتير عايز تعملها مونتاج، الهاردات الخارجية حل ممتاز. بس فيه أنواع كتير وأسعار مختلفة، فإزاي تختار الأنسب ليك؟ جربنا عشرات الهاردات عشان نعرف أحسنهم للتخزين، النسخ الاحتياطي، الألعاب، مونتاج الفيديو، وأجهزة التخزين الشبكي (NAS).
 
-الجهاز ده اسمه "harmony machine" وبيتفرد بطريقة جديدة في عزف الهارموني. بدل ما يبقى فيه كام زرار وكيبورد بيتحكموا في صوت سينث واحد، هو بيخلط كذا حاجة مع بعض: مفاتيح، بيز، أرپيجياتور، وباد، كل ده في أداء واحد، زي أجهزة الـ groovebox اللي من غير طبول. فيه كيبورد فيه أوكتاف واحد اسمه "Chord Builder"، و 12 زرار اسمه "Tonal Selector"، وزرار اسمه "Extensions Dial" اللي بيحددوا مفتاح الموسيقى ونغمات الكوردات. الفكرة إنك تعرف تعزف كوردات معقدة بإصبع واحد أو اتنين بس. 👌
+**أسعار الهاردات بتزيد جامد بسبب سباق الذكاء الاصطناعي** 📈
+أسعار الهاردات غليت جداً في آخر 6 شهور، خصوصاً الـ SSDs اللي بقت أغلى من لاب توب جديد. بس الهاردات القديمة اللي بتلف (HDDs) لسه سعرها كويس ومناسبة جداً للنسخ الاحتياطي.
 
-فيه كمان مميزات تانية للأداء، زي شريط في الزاوية اليمين فوق عشان تعزف نغمات معينة من الكورد، وسلايدر عشان تعمل pitch bend للكورد كله.
+**أفضل هاردات خارجية حسب استخدامك:**
 
-بالإضافة لإن فيه أصوات سينث افتراضية (virtual analog) وأصوات متسجلة (sample-based)، فيه مؤثرات بسيطة زي delay، reverb، tape emulation، و beat repeat. ده غير إن فيه توصيلات كتير، منها إن كل جزء من الأجزاء دي (keys, bass, arp, pad) ممكن يطلع MIDI لوحده عشان تتحكم في أجهزة تانية بالهارموني بتاع الـ Nopia. 🎶
+*   **للتخزين والنسخ الاحتياطي بكميات كبيرة:**
+    *   **Western Digital Elements Desktop:** ده هارد قديم وموثوق فيه، وسعره كويس جداً. بيوصل لحد 20 تيرابايت، وبيشتغل على ويندوز وماك ولينكس. سرعته 120 ميجابايت في الثانية، كويسة جداً لعمل نسخ احتياطي بالليل. 💾
+    *   **Western Digital My Passport Ultra:** لو بتسافر كتير، ده اختيار ممتاز. حجمه صغير، وبيستخدم كابل USB-C واحد. سرعته 121 ميجابايت/ثانية للقراءة و 115 ميجابايت/ثانية للكتابة. متوفر بسعات من 1 لـ 6 تيرابايت. ✈️
 
-الجهاز ده هينزل في آخر السنة دي، وسعره هيكون حوالي 550 جنيه إسترليني. 🚀
+*   **هاردات قوية ومقاومة للصدمات:**
+    *   **SanDisk Professional G-Drive ArmorATD:** هارد قوي شبه مقاوم للصدمات، بيستحمل الوقعات من ارتفاع متر تقريباً ورذاذ المياه. سرعته 133 ميجابايت/ثانية للقراءة. متوفر بسعات من 1 لـ 6 تيرابايت. 🛡️
+    *   **LaCie Rugged Pro5:** ده أسرع هارد في القايمة دي، سرعته بتوصل لـ 5,787 ميجابايت/ثانية للقراءة و 5,188 ميجابايت/ثانية للكتابة. مثالي لمونتاج الفيديو بجودة عالية زي 8K. لكن سعره غالي جداً حالياً. 🔥
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo</guid><pubDate>Sat, 11 Jul 2026 20:57:42 GMT</pubDate></item></channel></rss>
+*   **هاردات سريعة ومحمولة:**
+    *   **Corsair EX400U (Thunderbolt 4):** لو عايز سرعة خارقة ومش عندك أجهزة بتدعم Thunderbolt 5، ده اختيار مناسب. سرعته حوالي 3,800 ميجابايت/ثانية للقراءة و 3,550 للكتابة. صغير وخفيف وسعره معقول. ⚡
+    *   **Crucial X9 Pro:** ده أحسن حاجة للمصورين اللي بيشتغلوا بره. حجمه صغير جداً وخفيف، وبيوصل لسرعة 1,110 ميجابايت/ثانية للقراءة و 1,100 للكتابة. بيشتغل على كل الأجهزة تقريباً. 📸
+    *   **Samsung T9:** هارد محمول سريع جداً، بيوصل لسرعة 1,350 ميجابايت/ثانية. بطاريته بتشتغل وقت أطول، بس مش مقاوم للمياه أو التراب. 💨
+
+*   **للتخزين جوه الكمبيوتر (SSD داخلي):**
+    *   **Western Digital WD Black SN990 PRO SSD NVMe M.2 PCIe Gen4:** لو بتعمل مونتاج فيديو كتير أو بتلعب ألعاب، ده استثمار ممتاز. سرعته 7,458 ميجابايت/ثانية للقراءة، ومش بيسخن كتير. 🚀
+    *   **Samsung 990 Pro SSD:** ده أسرع هارد داخلي ممكن تشتريه حالياً، بيوصل لسرعات خرافية 7,458 ميجابايت/ثانية للقراءة. بس سعره غالي جداً. 🏎️
+
+**نصيحة أخيرة:**
+لو بتعمل نسخ احتياطي عادي، ركز على السعة والسعر، واختار ماركة معروفة وموثوق فيها زي Western Digital أو Samsung. أما لو محتاج سرعة عالية لمونتاج الفيديو أو الألعاب، يبقى ركز على الـ SSDs اللي بتدعم Thunderbolt أو USB4. الـ SSDs عموماً أفضل لو تقدر عليها، لأنها أسرع وأقوى من الهاردات الميكانيكية. 💯
+
+Source for summary: Wired</description><guid isPermaLink="true">https://www.wired.com/story/best-portable-external-storage-drives/</guid><pubDate>Sun, 12 Jul 2026 09:33:00 GMT</pubDate></item></channel></rss>
