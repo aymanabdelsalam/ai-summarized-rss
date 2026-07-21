@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 21 Jul 2026 06:23:08 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Yangdian Technology (301012.SZ) subsidiary Hanyang Intelligence has signed an 860 million yuan computing power service contract. - Moomoo</title><link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTJVOTBqNXJoVWxVNDdCZy1PMjRnVkVxbHFjWDRTaGh4ejlQbGh1WkZtNGozeDF3a29fNml6Y25adnVReXNULVpzR2xvMENYNDMyMnVGNkd1TW1SZnF4SXI5b3ZCUnZUNnpYYkVtM1VnU2ZPemt6ZjlDTURGN2U4VUJmSk4yUTdRMjh1OE9LU1lBSGloS1kySU16TFU2VmRNLTFSUU1tTDdxRzZfX0FZZEVIWEtuRHJW?oc=5</link><description>شركة يانجديان تكنولوجي (301012.SZ) عن طريق شركتها التابعة هانيانج إنتليجنس، أعلنت عن توقيع عقد خدمات قدرة حوسبة ضخم بقيمة 860 مليون يوان. 💰 ده معناه إنهم هيقدموا خدمات حوسبة قوية لجهة معينة، وده رقم كبير جداً ويشير إلى حجم الصفقة وأهميتها.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 21 Jul 2026 10:20:29 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Who’s afraid of the big, bad GPU?</title><link>https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact</link><description>يا جماعة، الموضوع بتاع الذكاء الاصطناعي ده عامل قلق كبير بخصوص استهلاكه للطاقة والميه، والموضوع ده بيأثر علينا كلنا. 💡
 
-العقد ده مدته 3 سنين، وهيبدأ تنفيذه من أول سنة 2024. 🗓️ ده معناه إن الشركة هتستثمر وتشتغل على توفير البنية التحتية والخدمات دي على مدار فترة مش قليلة.
+**الآي آي (AI) والجرعات العالية من الطاقة والميه 💧⚡**
 
-الصفقة دي تعتبر خطوة مهمة جداً لشركة هانيانج إنتليجنس، وبتعكس ثقة العملاء في قدراتها التقنية. 🚀 ده ممكن يفتح لها أبواب لصفقات أكبر في المستقبل ويزود من مكانتها في سوق خدمات الحوسبة.
+الموضوع بدأ مع كروت الشاشة (GPUs) اللي بتشغل الألعاب والكمبيوترات، ودلوقتي بقت هي الوقود الأساسي للذكاء الاصطناعي. مراكز البيانات الضخمة اللي بتشغل الذكاء الاصطناعي، زي مركز مايكروسوفت في ويسكونسن، بتستهلك كميات مهولة من الكهرباء والميه. كارت شاشة واحد بس زي Nvidia B200 Blackwell بيحتاج 1200 واط، وتخيل بقى آلاف الكروت دي متجمعة في مكان واحد! ده مش بس بيعلي أسعار الكهرباء، ده كمان بيستهلك موارد طبيعية كتير. 🌎
 
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaTJVOTBqNXJoVWxVNDdCZy1PMjRnVkVxbHFjWDRTaGh4ejlQbGh1WkZtNGozeDF3a29fNml6Y25adnVReXNULVpzR2xvMENYNDMyMnVGNkd1TW1SZnF4SXI5b3ZCUnZUNnpYYkVtM1VnU2ZPemt6ZjlDTURGN2U4VUJmSk4yUTdRMjh1OE9LU1lBSGloS1kySU16TFU2VmRNLTFSUU1tTDdxRzZfX0FZZEVIWEtuRHJW?oc=5</guid><pubDate>Tue, 21 Jul 2026 05:58:53 GMT</pubDate></item></channel></rss>
+**الألعاب والموبايلات.. مش بعيد عن المشكلة 📱🎮**
+
+المشكلة مش بس في مراكز البيانات الضخمة. كروت الشاشة موجودة في كل حاجة حوالينا، من بلايستيشن 5 اللي بيستهلك 220 واط، لحد الموبايلات بتاعتنا. الآيفون الواحد بيستخدم كذا واط في التصفح وأكتر في الألعاب، ولما نجمع مليار ونص آيفون بيشحنوا، ده معناه استهلاك طاقة كبير جداً. ده غير إن عملية تصنيع كروت الشاشة دي نفسها بتلوث البيئة وبتستخدم معادن كتير، وفي الآخر بتتحول لخردة إلكترونية بتضر أكتر. 🏭
+
+**الذكاء الاصطناعي.. مكسب لمين على حساب مين؟ 🤔**
+
+الشركات الكبيرة بتقول إن الذكاء الاصطناعي هيجيب تقدم كبير في حاجات زي التنبؤ بالطقس والحفاظ على الحياة البرية، بس هل ده يبرر استهلاكه الهائل للموارد؟ وفيه ناس شايفه إن ده مجرد مبرر للشركات عشان تتجنب مسؤوليتها البيئية. وفيه كمان مشكلة إن مراكز البيانات دي بتنتشر في أمريكا، وبتسبب تلوث للهوا وبتعلي فواتير الكهرباء على الناس، وخصوصًا في المناطق اللي فيها ناس دخلها قليل أو فيها أقليات. 😟
+
+**الأرقام بتتكلم.. والمستقبل مقلق 📊**
+
+الذكاء الاصطناعي بيستهلك طاقة أكتر من تعدين البيتكوين، ومن المتوقع إنه يستهلك طاقة تكفي 8.7 مليون بيت في أمريكا سنة 2028. ده غير استهلاكه للميه اللي ممكن يوصل لـ 764.6 مليار لتر في 2025، وده بيشكل ضغط كبير على المناطق اللي بتعاني من نقص الميه. دراسات بتقول إن تدريب موديل ذكاء اصطناعي زي Llama 3.1 ممكن يسبب تلوث هوا زي سواقة عربية من نيويورك للوس أنجلوس 10 آلاف مرة! 🤯 ده كله غير المواد السامة اللي بتستخدم في تصنيع الكروت دي، واللي بتسبب مشاكل صحية خطيرة. ☠️
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact</guid><pubDate>Tue, 21 Jul 2026 10:00:01 GMT</pubDate></item></channel></rss>
