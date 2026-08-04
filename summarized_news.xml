@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 04 Aug 2026 17:38:53 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Trump administration reportedly drafting ban on Chinese datacenter components - The Guardian</title><link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1BUQWgta19mRDJsejRaUF9sdVE3V2o1TFk1b0FXNkhCdTJ6NXlfY0xhU1B6alpLcWhxWnRKeTVVaTAyaGN6djAyZGtCRGFJSllvVmxENXVjN2hYUTQ2OE94bVpZeERPZVJwdWlmOThNMV81ZXM0VG53STF6anBlMDhIWWJ0RXcyNkxr?oc=5</link><description>**أمريكا بتفكر تمنع مكونات مراكز البيانات الصينية**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 04 Aug 2026 21:05:00 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AMD&amp;#8217;s datacenter business is booming while gaming takes a backseat</title><link>https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen</link><description>شركة AMD حققت أرباح خرافية! 🚀
 
-الإدارة الأمريكية، بقيادة ترامب، شغالة على مسودة قانون تمنع استيراد مكونات مراكز البيانات من الصين. الهدف من الخطوة دي هو حماية الأمن القومي الأمريكي، خصوصًا إن فيه مخاوف من إن الصين ممكن تستغل التكنولوجيا دي للتجسس. 🇺🇸🇨🇳
+بسبب الطلب الكبير على الذكاء الاصطناعي، إيرادات الشركة من مراكز البيانات تضاعفت أكتر من مرتين، ووصلت لـ 6.7 مليار دولار! ده معناه إنها زادت عن الـ 5.8 مليار اللي حققوها في الربع الأول، وكمان زادت بنسبة 107% عن نفس الفترة السنة اللي فاتت اللي كانت 3.2 مليار دولار بس.
 
-**ليه القرار ده مهم؟**
+وعلى الناحية التانية، إيرادات الألعاب قلت بنسبة 31% عن السنة اللي فاتت، وصلت لـ 779 مليون دولار. ده بسبب ارتفاع الأسعار ونقص المكونات اللي أثر على مبيعات أجهزة زي Xbox Series X/S، و PS5، و Steam Deck.
 
-مراكز البيانات دي زي المخ بتاع الإنترنت، بتخزن وبتعالج كميات ضخمة من البيانات. لو المكونات دي فيها أي حاجة مش مظبوطة، ممكن تتسبب في مشاكل أمنية كبيرة. فيه تقارير بتقول إن الهدف الرئيسي هو منع الصين من الحصول على تقنيات متقدمة ممكن تستخدمها في تطوير قدراتها العسكرية أو الاقتصادية.
+المدير المالي للشركة، جين هو، قال إن إيرادات الشركة الإجمالية زادت 50% عن السنة اللي فاتت ووصلت لرقم قياسي 11.5 مليار دولار. وده كله بفضل قوة قسم مراكز البيانات اللي بيمثل 58% من إيرادات الشركة في الربع ده. أما قسم الألعاب والكمبيوتر فالإيرادات زادت 6%، وإيرادات الكمبيوتر بالذات زادت 23% بفضل مبيعات معالجات Ryzen.
 
-**إيه اللي ممكن يحصل؟**
+الرئيس التنفيذي لـ AMD، ليزا سو، أكدت إن الذكاء الاصطناعي سبب زيادة كبيرة في الطلب على الحوسبة في كل الأسواق اللي شغالين فيها، وإنهم مستعدين كويس جداً للاستفادة من الفرصة دي وتحقيق نمو كبير في الإيرادات والأرباح خلال السنين الجاية. 📈
 
-لو القرار ده اتطبق، ممكن يأثر على شركات كتير في أمريكا والعالم اللي بتعتمد على مكونات صينية في مراكز بياناتها. ده ممكن يؤدي لزيادة الأسعار أو صعوبة الحصول على القطع دي. بس في المقابل، ممكن يشجع الشركات الأمريكية على تطوير بدائل محلية، وده ممكن يخلق فرص شغل جديدة. 📈
-
-**خلفية الموضوع:**
-
-العلاقات بين أمريكا والصين مش أحسن حاجة الفترة دي، وفيه توترات كتير في مجالات مختلفة زي التجارة والتكنولوجيا. القرار ده بييجي في سياق الحرب التجارية والتكنولوجية بين البلدين، وبيوضح قد إيه أمريكا قلقانة من نفوذ الصين المتزايد. 🌐
-
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1BUQWgta19mRDJsejRaUF9sdVE3V2o1TFk1b0FXNkhCdTJ6NXlfY0xhU1B6alpLcWhxWnRKeTVVaTAyaGN6djAyZGtCRGFJSllvVmxENXVjN2hYUTQ2OE94bVpZeERPZVJwdWlmOThNMV81ZXM0VG53STF6anBlMDhIWWJ0RXcyNkxr?oc=5</guid><pubDate>Tue, 04 Aug 2026 17:21:00 GMT</pubDate></item></channel></rss>
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen</guid><pubDate>Tue, 04 Aug 2026 20:57:49 GMT</pubDate></item></channel></rss>
