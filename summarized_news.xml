@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Thu, 06 Aug 2026 13:50:07 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The messy politics behind Google’s big AI shakeup</title><link>https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind</link><description>جوجل عملت تغييرات كبيرة في قسم الذكاء الاصطناعي بتاعها، ودي حاجة الناس كلها بتتكلم عنها. الموضوع كله بيدور حوالين الضغط عشان يسرّعوا إنتاج المنتجات الجديدة، وفي نفس الوقت فيه مشاكل أخلاقية بتظهر جوه الشركة. 🤷‍♀️
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 07 Aug 2026 00:51:23 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meta fined $567m in largest child safety ruling against social media giant</title><link>https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss</link><description>**ميتا تدفع أغلى فاتورة في تاريخها بسبب أمان الأطفال! 💸**
 
-أهم حاجة حصلت هي إن ديميس هاسابيس، اللي كان ماسك ديب مايند (DeepMind)، هيسيب منصبه اليومي عشان يركز على الأبحاث طويلة المدى والذكاء الاصطناعي العام (AGI). مكانه بقى هيتولاه كوراى كافوكجول. 🚀 وكمان، جيف دين، اللي بقاله 27 سنة في جوجل، هيسيب الشركة مع تلاتة من كبار باحثي الذكاء الاصطناعي عشان يبدأوا شركة جديدة خاصة بيهم. 🤯
+القاضي في نيو مكسيكو أمر شركة ميتا، صاحبة فيسبوك وإنستجرام، بدفع مبلغ ضخم وصل إلى 567 مليون دولار (حوالي 421 مليون جنيه إسترليني) لعدم تحذير الجمهور من مخاطر منصاتها على الأطفال. ده أكبر حكم ضد الشركة بخصوص قضايا سلامة الأطفال. القاضي وصف ميتا بـ "الخطر العام" زي تلوث الهوا، ولازم الفلوس دي تروح لصندوق بيهدف لتقليل الأضرار المستقبلية.
 
-كمان، فيه كلام كتير إن جوجل متأخرة شوية في سباق الذكاء الاصطناعي مقارنة بشركات زي OpenAI و Anthropic، وإن التغييرات دي بتحصل عشان يسرّعوا الدنيا. كمان، فيه ضغط من موظفين كبار زي جيف دين بسبب اتفاقيات جوجل مع وزارة الدفاع الأمريكية، واللي ممكن تستخدم الذكاء الاصطناعي في حاجات زي المراقبة الجماعية والأسلحة الفتاكة. 💣 ده غير إن ديميس هاسابيس نفسه اهتمامه الأكبر بالأبحاث العلمية أكتر من التجارة.
+**المجموع وصل لمبلغ مخيف! 😱**
 
-جيف دين وزملاؤه اللي سابوا جوجل هيبدأوا شركة اسمها "Discovery Loop"، هدفها أتمتة آلاف التجارب العلمية والهندسية في مجالات زي الأدوية والطاقة النضيفة. 🧪 ده بيحصل في وقت فيه موظفين كتير في جوجل قلقانين من الاتجاهات الأخلاقية للشركة، خصوصًا بعد اتفاقية وزارة الدفاع اللي بتسمح باستخدام تكنولوجيا جوجل "لأي استخدام قانوني". ⚖️
+الحكم ده بيضاف للمبلغ اللي كان المفروض تدفعه ميتا قبل كده وهو 375 مليون دولار. يعني إجمالي الغرامات وصل لـ 942 مليون دولار! 🤯 القاضي شبه ميتا بمصنع، إعلاناته ومحتواه هو المنتج، و"الأذى النفسي والاستغلال الجنسي للأطفال هو التلوث اللي لازم يتصلح". ميتا، اللي بتمتلك إنستجرام وفيسبوك وواتساب وثريتس، لسه ما علقتش على الموضوع ده.
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind</guid><pubDate>Thu, 06 Aug 2026 13:26:42 GMT</pubDate></item></channel></rss>
+**القضية بدأت من سنة 2023... والمشكلة في الخوارزميات!**
+
+القضية دي بدأت بدعوى قضائية من ولاية نيو مكسيكو، اللي قالت إن ميتا مسؤولة عن طريقة تعريض منصاتها للأطفال للخطر ومواد جنسية صريحة، وكمان لمتحرشين. في المرحلة الأولى من المحاكمة، ثبت إن ميتا خرقت قانون الممارسات غير العادلة في نيو مكسيكو أكتر من مرة، لأن خوارزمياتها كانت بتوجه المستخدمين الصغيرين لمحتوى وأشخاص مؤذيين.
+
+**ميتا "خطر عام" لأول مرة في تاريخ السوشيال ميديا!**
+
+الحكم ده مش بس أكبر غرامة تدفعها ميتا بخصوص أمان الأطفال، لكنه كمان أول مرة شركة سوشيال ميديا يتم اعتبارها "خطر عام". القاضي قال إن أضرار ميتا على الأطفال مش بتفضل محصورة جوه منصاتها، لكنها بتنتشر على الإنترنت كله، والأهم، في العالم الواقعي، وده بيخلق عبء وضرر مجتمعي على الأطفال وعائلاتهم ومدارسهم، والمستشفيات وجهات إنفاذ القانون. ⚖️
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Fri, 07 Aug 2026 00:06:17 GMT</pubDate></item></channel></rss>
