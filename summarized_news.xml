@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 16 Aug 2026 20:14:34 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Amazon is trying to crush class-action suits before they get started</title><link>https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions</link><description>أمازون بتغير شروطها وأحكامها، والمهم هنا إن أي خلافات بينك وبينهم هتحصل عن طريق التحكيم مش المحكمة. ⚖️ ده معناه إنك مش هتقدر تروح للقاضي أو هيئة المحلفين في معظم الحالات، بس لسه ممكن تروح لمحكمة المطالبات الصغيرة في حاجات معينة، بس الفلوس اللي بتاخدها هناك بتكون محدودة. 💰
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Mon, 17 Aug 2026 00:53:58 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>If Meta loses this trial, Instagram and Facebook could change forever</title><link>https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss</link><description>الشركات الكبيرة زي ميتا (اللي تبعها فيسبوك وإنستجرام) واقفة في موقف صعب دلوقتي. فيه 30 ولاية أمريكية رفعوا قضية ضدها في 2023، وبيقولوا إن الشركة بتخالف قوانين الخصوصية الخاصة بالأطفال. مش بس كده، الولاية دي مش طالبة تعويضات مالية بس، لأ، دي كمان عايزة تغييرات جوهرية في إنستجرام وفيسبوك، زي مثلاً إلغاء عدّاد اللايكات وتجربة التصفح المفتوح اللي مبتخلصش (infinite scroll). لو ميتا خسرت القضية دي، ممكن ده يغير طريقة تعامل الشباب مع السوشيال ميديا كلها. 🙅‍♀️💰
 
-التغيير ده اتعمل يوم الجمعة اللي فات، وأمازون بعتت إيميلات للعملاء بيقولوا فيها إن ده أسرع وأحسن طريقة نحل بيها المشاكل. بس الحقيقة، إن ده بيمنعك من إنك ترفع قضايا جماعية ضد الشركة، يعني لو فيه ناس كتير عندها نفس المشكلة، مش هيقدروا يرفعوا قضية واحدة مع بعض. 🙅‍♀️
+الولايات دي عايزة حاجات كتير تتغير عشان تحمي الأطفال والشباب. من أهم المطالب دي:
 
-اللي حصل ده مش جديد قوي، أمازون كانت شالت كلام شبه ده في 2021 لما واجهت مشاكل قانونية كتير بسبب خصوصية أجهزة أليكسا وإيكو. وكمان كان فيه قضايا مرفوعة ضدها قبل كده عن إرجاع المنتجات واشتراكات برايم. بس بالبنود الجديدة دي، أمازون بتحاول تخلي أي خلافات كبيرة تتحل عن طريق تحكيم فردي بدل القضايا الجماعية. 🤔
+*   التأكد من هوية المستخدمين اللي سنهم تحت 18 سنة عشان نتأكد إنهم مش أطفال.
+*   تغيير الخوارزميات اللي بتخلينا نفضل ماسكين الموبايل ونفضل نتفرج على حاجات، لأنها بتعتمد على إدمان المستخدم.
+*   إلغاء الفلاتر اللي بتغير شكلنا في الصور، عشان الناس متشوفش نفسها بشكل مش حقيقي.
+*   وقف الفيديوهات اللي بتشتغل لوحدها تلقائيًا (autoplay).
+*   منع إنشاء حسابات كتير بنفس الشخص.
+*   إلغاء البوستات اللي بتختفي بعد فترة قصيرة زي الـ Instagram Stories.
 
-بس فيه نقطة مهمة، الاتفاق ده ممكن ميتحسبش عليه في المحكمة. المحامين والمدعين لسه ممكن يحاولوا يرفعوا قضايا جماعية، والقاضي هو اللي هيقرر إذا كانت القضية هتمشي ولا لأ. يعني الموضوع لسه مفتوح. 🤷‍♂️
+كل الحاجات دي أساسية في تجربة استخدام تطبيقات ميتا حالياً، والولايات شايفين إن الشركة بتستخدمها عشان تخلي الشباب يقضوا أطول وقت ممكن على المنصات دي، وده ممكن يكون مضر بصحتهم النفسية. 📱😟
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions</guid><pubDate>Sun, 16 Aug 2026 17:35:02 GMT</pubDate></item></channel></rss>
+ميتا طبعًا بتنفي كل الكلام ده وبتقول إنها ملتزمة بحماية الشباب. بس القاضية اللي ماسكة القضية دي، ييفون جونزاليس روجرز، معروفة إنها صارمة وبتحكم بسرعة. القضية دي ممكن تكون الأخطر على ميتا لحد دلوقتي، خاصة بعد ما قاضي في ولاية نيو ميكسيكو فرض عليها غرامة كبيرة (حوالي 942 مليون دولار) وطالبها بتغييرات مشابهة. ⚖️
+
+الغرامة دي جت بعد ما القاضي وصف ميتا بـ "الخطر العام" زي مصنع بيلوّث الهوا، وده بيأثر على كل الناس. ميتا قالت إنها هتقدم استئناف ضد الحكم ده. لكن لو الـ 30 ولاية دول كسبوا قضيتهم، ده معناه إن ميتا هتضطر تعمل التغييرات دي في كل أمريكا، وده هيكون تغيير كبير جدًا في طريقة استخدام السوشيال ميديا. 🇺🇸
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Sun, 16 Aug 2026 23:27:36 GMT</pubDate></item></channel></rss>
