@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 04:32:31 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Lenovo confirms Legion Go issues after gamers report bricked devices</title><link>https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked</link><description>**لينوفو بتعترف بمشكلة في جهاز Legion Go بتاعها - ممكن يبوظ منك!**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 08:34:09 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tell us: do you think AI has made Google search better or worse?</title><link>https://www.theguardian.com/technology/2026/aug/25/google-ai-overview</link><description>بص يا سيدي، جوجل عاملة حاجة جامدة في محرك البحث بتاعها. بقوا بيحطوا الذكاء الاصطناعي (AI) في وش السلسلة، يعني بدل ما كنت بتشوف لينكات بس، دلوقتي بتلاقي فوق خالص ملخص من روبوت ذكاء اصطناعي اسمه "AI Overviews". ده تغيير كبير أوي في الطريقة اللي الناس بتستخدم بيها جوجل، واللي هي أساسًا بوابة الإنترنت لكل الناس. 🤖
 
-الموضوع بدأ لما ناس كتير اشتكت إن جهازهم الـ Legion Go (اللي هو جهاز ألعاب محمول) باظ بعد ما عملوا تحديث للـ BIOS اسمه V42. المشكلة دي خلت الشاشة تسود والجهاز يبقى زي قطعة حديد مالهاش لازمة، وبعضهم وصل فاتورة تصليح لحوالي 300 دولار! 💸
+جوجل نفسها بتقول إن ده أكبر تطوير لمحرك البحث بتاعها على الإطلاق، وإنهم بيزودوا الذكاء الاصطناعي ده أكتر وأكتر. والجمهور كمان بدأ يتعود على الروبوتات دي، وبقى بيقضي وقت أطول على جوجل. المشكلة بقى إن المواقع الإخبارية والشركات اللي بتعتمد على الزيارات (الـ clicks) عشان تكسب فلوس من الإعلانات، بتلاقي إن الزيارات دي قلت. ليه؟ عشان لو الذكاء الاصطناعي لخص لهم الموضوع كويس، الناس مش بتدخل على المواقع الأصلية. 📉
 
-**إيه حكاية الـ BIOS ده؟**
+ده اللي خلى فيه شركات إعلامية أمريكية كبيرة ترفع قضايا على جوجل، وتقول إن ملخصات الذكاء الاصطناعي دي بتقلل الزيارات لمواقعهم وبتضرهم ماديًا. بس جوجل بترد وتقول إن الكلام ده مش صح، وإن الزيارات الإجمالية للمواقع زي ما هي، وإن الاتهامات دي مبنية على طرق حساب غلط. 🤷‍♀️
 
-الـ BIOS ده زي نظام تشغيل صغير كده للجهاز، ولما لينوفو نزلت تحديث V42 ده، ناس كتير واجهت مشاكل، الجهاز بقى يشتغل ويعمل صوت بس الشاشة تفضل سوداء. لينوفو اعترفت بالمشكلة دي وقالت إنها شالت التحديث ده من الموقع بتاعها عشان يراجعوه. 🧐
+الموضوع ده عامل جدل كبير، وجوجل بتسأل الناس رأيهم: هل شايفين إن إضافة الذكاء الاصطناعي ده خلا البحث أحسن ولا أسوأ؟ 🤔
 
-**الحل اللي لينوفو بتقوله؟**
-
-لو جهازك حصل فيه كده، لينوفو بتقول جرب تدوس على زرار الباور لمدة 10 ثواني، وتستنى دقيقة وبعدين تشغله تاني. لو ما اشتغلش، كلم خدمة العملاء بتاعتهم. 📞 بس فيه موظف في لينوفو قال إن الجهاز هيتصلح ببلاش لو لسه تحت الضمان، ولو بره الضمان برضه هيتصلح بس على حسب قوانين بلدك. بس الكلام ده لسه محتاج تأكيد رسمي من لينوفو. 🤔
-
-**مين اللي اتأثر بالمشكلة دي؟**
-
-المشكلة دي ظهرت في أجهزة Legion Go القديمة (موديل 8APU1) اللي حملت تحديث V42 من موقع لينوفو خلال شهرين قبل ما يتشال. الغريب إن الكاتب بتاع المقال جرب التحديث ده على جهازه وبرضه اشتغل عادي بعد شوية خوف وقلق! 🤷‍♂️
-
-**الخلاصة:**
-
-لينوفو بتحاول تحل المشكلة دي، لكن لسه مش واضحة أوي إيه اللي حصل بالظبط، وإذا كانت هتصلح كل الأجهزة المتضررة ببلاش ولا لأ. المهم لو عندك جهاز Legion Go، بلاش تنزل أي تحديثات مش رسمية أو متأكد منها 100%! 👍
-
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked</guid><pubDate>Mon, 24 Aug 2026 23:38:10 GMT</pubDate></item></channel></rss>
+Source for summary: The Gardian</description><guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/25/google-ai-overview</guid><pubDate>Tue, 25 Aug 2026 06:00:50 GMT</pubDate></item></channel></rss>
