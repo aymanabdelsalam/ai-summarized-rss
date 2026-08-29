@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 29 Aug 2026 10:39:18 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>The Fed confronts a powerful new economic force - The Washington Post</title><link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5</link><description>الخبراء بيقولوا إن الاقتصاد الأمريكي دلوقتي بيواجه قوة جديدة ومختلفة، ودي حاجة بتخلي الاحتياطي الفيدرالي (البنك المركزي) في أمريكا في موقف صعب شوية. القوة دي مش حاجة سهلة يتجاهلوها، ولا ليها حلول تقليدية وبسيطة.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sat, 29 Aug 2026 16:03:19 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Distraction-free writing gadget BYOK is adding custom extensions</title><link>https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions</link><description>**BYOK بيلعب بخطط جديدة عشان يوسع إمكانياته من غير ما يتقل**
 
-الموضوع ده معناه إن البنك المركزي مش هيقدر يطبّق نفس السياسات اللي كان بيستخدمها زمان عشان يسيطر على التضخم أو يزود النمو. القوة الاقتصادية الجديدة دي خلت الأدوات اللي في إيدهم مش فعالة زي الأول.
+جهاز BYOK، اللي هو أساسًا للكتابة البسيطة، بيفكر في طريقة ذكية عشان يضيف مميزات جديدة من غير ما يخرب الجهاز أو يصعّب استخدامه. الفكرة كلها بتدور حوالين نظام "سكربتات" (scripts) اختياري. يعني بدل ما نضيف كل حاجة مرة واحدة، هنقدر نضيف حاجات معينة بس حسب احتياج المستخدم.
 
-ده بيخلي فيه ضغط على الاحتياطي الفيدرالي إنه يفكر بره الصندوق، ويلاقي حلول مبتكرة عشان يتعامل مع الوضع الجديد ده. لازم يعدلوا استراتيجياتهم عشان يقدروا يحققوا الاستقرار الاقتصادي اللي الناس كلها عايزاه.
+**ليه النظام ده مهم؟**
 
-باختصار، البنك المركزي الأمريكي قدامه تحدي كبير بسبب التغيرات الاقتصادية اللي بتحصل، وده هيحتاج منهم قرارات جريئة وتفكير مختلف عن اللي اتعودوا عليه. 🏦💪
+المؤسس بتاع BYOK، نيك سجيندر، اكتشف إن فيه ناس كتير بتستخدم الجهاز ده لأغراض متقدمة أكتر من مجرد كتابة عادي. فيه ناس عايزة تستخدمه عشان تاخد ملاحظات، تكتب سيناريوهات أفلام، أو حتى تنظم روايات طويلة. عشان كده، بدل ما يتقلوا الجهاز بمميزات مش الكل هيستخدمها، قرروا يوفروا "سكربتات" خاصة للمستخدمين دول.
 
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5</guid><pubDate>Sat, 29 Aug 2026 10:32:50 GMT</pubDate></item></channel></rss>
+**إيه هي السكربتات دي؟**
+
+السكربتات دي زي إضافات صغيرة ممكن تشغلها لما تحتاجها. مثلاً، ممكن يبقى فيه سكربت يساعدك في كتابة السيناريو، أو سكربت تاني ينظم ملاحظاتك عن الشخصيات، أو حتى سكربت يحلل كتابتك ويقولك لو بتستخدم صوت مبني للمجهول كتير. لسه الموضوع في البداية، والشركة بتطلب رأي المستخدمين عشان يطوروا السكربتات دي. ✍️
+
+**الخلاصة:**
+
+BYOK مش عايز يبقى جهاز معقد، لكنه عايز يقدم مرونة للمستخدمين اللي محتاجين أكتر من الكتابة العادية. نظام السكربتات ده خطوة ذكية عشان يحقق التوازن ده، ويخلي الجهاز مفيد لشريحة أكبر من الناس. 🚀
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions</guid><pubDate>Sat, 29 Aug 2026 16:01:13 GMT</pubDate></item></channel></rss>
