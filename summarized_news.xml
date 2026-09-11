@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 15:41:39 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meta may have leaked the first look at its slim &amp;#8216;Project Phoenix&amp;#8217; headset</title><link>https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak</link><description>بص يا سيدي، قبل مؤتمر ميتا كونكت (Meta Connect) اللي هيبدأ يوم 23 سبتمبر، ظهرت صور مسربة لتصميم جهاز جديد اسمه "بروجكت فينيكس" (Project Phoenix) من شركة ميتا. الصور دي، اللي الموقع UploadVR نشرها، بتوري إن ميتا ممكن تكون بتنافس أجهزة زي اللي بتعملها شركات Xreal و Viture. الأجهزة دي عبارة عن نظارات واقع مختلط (mixed reality glasses) أتقل شوية من نظارات ميتا الذكية اللي بالتعاون مع Ray-Ban، بس أخف بكتير من سماعات الواقع الافتراضي الكاملة زي Quest 3.
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Fri, 11 Sep 2026 18:55:16 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted</title><link>https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</link><description>**مات مولينويج رجع تاني لرئاسة أوتوماتيك بعد محاولة "انقلاب"**
 
-الجهاز المسرب ده شكله حاجة بين السماعات الكبيرة والنظارات الذكية، عامل زي إطار نظارة رفيع فيه عدسات. ومن ورا باين سلك طالع من ودن النظارة، غالباً عشان بطارية أو وحدة معالجة منفصلة. وكمان فيه كاميرات باينة فوق وتحت ودن النظارة، شكلها عشان التصوير أو التعرف على البيئة المحيطة. 🧐
+مات مولينويج، مؤسس شركة أوتوماتيك اللي بتمتلك مواقع زي ووردبريس.كوم، تمبلر، وبيبر، رجع لمنصبه كرئيس تنفيذي للشركة بعد يومين بس من إعلان الشركة إنه واخد إجازة مدفوعة الأجر. الخبر ده اتكشف من رسالة على سلاك شافتها تك كرانش.
 
-"بروجكت فينيكس" ده شغالين عليه بقالهم فترة، ومش متوقع ينزل السوق غير السنة الجاية. ده غير إن جوجل كمان شغالة على نظارة مشابهة اسمها "بروجكت أورا" (Project Aura XR)، برضه فيها وحدة معالجة خارجية متوصلة بالنظارة بسلك. 💡
+**تفاصيل الأزمة:**
 
-Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak</guid><pubDate>Fri, 11 Sep 2026 15:38:31 GMT</pubDate></item></channel></rss>
+مولينويج كان بعت رسالة لموظفين الشركة على سلاك، بيقول فيها إن المدير المالي مارك ديفيز "تآمر" مع مجلس الإدارة اللي صوتوا إنه ياخد إجازة مدفوعة. هو نفسه كان معارض للقرار ده. وقال كمان إن مجلس الإدارة صوت إن ديفيز يبقى هو الرئيس التنفيذي المؤقت. ديفيز، من ناحيته، أكد في رسالة تانية إن مولينويج هيفضل عضو في مجلس الإدارة. المتحدث باسم أوتوماتيك أكد لـ "ذا فيرج" إن مولينويج "حالياً في إجازة" وإن ديفيز هو الرئيس المؤقت.
+
+**عودة مولينويج وسيطرة كاملة:**
+
+لكن في رسالة تانية لمولينويج، أكد إن مجلس الإدارة "رجعوا للتوافق" وإنه "مسيطر على أوتوماتيك". وأضاف إن "حاجات كتير حصلت في الـ 48 ساعة اللي فاتوا ولازم نصلحها، وأتمنى إن كتير منها كان سوء فهم، لأني بحترم جداً الناس اللي شاركت في الموضوع ده". تك كرانش كمان ذكرت إن حساب ديفيز على سلاك تم إيقافه، وإن مولينويج شال "كل" المسؤولين عن إدارة سلاك في الشركة.
+
+**تعليقات مولينويج والتطورات:**
+
+الموقع 404 ميديا ذكر إن مولينويج نشر كلامه عن عودته "متأخر مساء الخميس". مولينويج علق على تويتر (X) يوم الجمعة وقال: "لو مبتحصلش عندك محاولة انقلاب كل كام سنة، يبقى أنت مش بتعين قادة أقوياء كفاية"، وأضاف في تغريدة تانية: "أعتقد دي كانت خامس مرة". في نفس اليوم، مولينويج نشر مقال في مدونته بعنوان "إعلان حياة كبير" عن عرض شراء قارب. 🛥️
+
+Source for summary: The Verge</description><guid isPermaLink="true">https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return</guid><pubDate>Fri, 11 Sep 2026 17:16:59 GMT</pubDate></item></channel></rss>
