@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 13 Sep 2026 02:38:28 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Top AI leaders unite to warn the technology is advancing too fast - The Washington Post</title><link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5</link><description>**قادة الذكاء الاصطناعي بيحذروا: التقنية بتجري أسرع من اللازم! 🚀**
+<rss version="2.0"><channel><title>My AI Top News Summary (Ranked by Topic Repetition)</title><link>https://aymanabdelsalam.github.io/ai-summarized-rss/</link><description>The most prominent news story (ranked by repetition across sources and recency from last 12hrs), with detailed multi-paragraph AI summary.</description><language>en-us</language><lastBuildDate>Sun, 13 Sep 2026 08:41:54 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC</title><link>https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss</link><description>فيه عالم ذكاء اصطناعي كان شغال في شركة اسمها Anthropic، اسمه جاكوب كوكسون، الراجل ده ساب شغله وقال إن الناس اللي شغالة في المجال ده "مرعوبين بجد" من سرعة التطور اللي بيحصل وإيه اللي ممكن يحصل للبشرية. 😨
 
-في تطور مفاجئ، اجتمع أكبر رؤساء شركات الذكاء الاصطناعي، زي سام ألتمان من OpenAI وداريو أموداي من Anthropic، مع مسؤولين حكوميين في البيت الأبيض خلال الأسبوع اللي فات. الهدف كان واحد: التحذير من السرعة الخارقة اللي بيتطور بيها الذكاء الاصطناعي، وإن ده ممكن يكون له عواقب وخيمة. 😱
+كوكسون، اللي عنده 27 سنة وكان شغال قبل كده في OpenAI، قال في مقابلة مع الـ BBC إن لو ما بطّأناش وتيرة التطور دي، فيه احتمال كبير إننا "كلنا نموت قريب". كلامه ده جه في وقت فيه مخاوف كتير في الصناعة دي، حتى رئيسه اللي سابه، داريو أموداي، كتب مقال قال فيه إن لازم نهدّي السرعة.
 
-**مخاوف من "نهاية العالم" بسبب الـ AI الخارق 🤖💥**
+المفاجأة إن رؤساء شركات منافسة أكدوا كلام أموداي، زي سام ألتمان بتاع OpenAI وإيلون ماسك بتاع xAI، كلهم وافقوا على فكرة إن لازم الصناعة كلها تبطّأ ويبقى فيه قوانين ورقابة مستقلة على تطوير نماذج الذكاء الاصطناعي.
 
-النقاشات جوه شركات الذكاء الاصطناعي بقت جادة جداً، ووصلت لمرحلة التفكير في سيناريوهات "نهاية العالم" لو ظهر ذكاء اصطناعي خارق (Superintelligence) مابقاش تحت السيطرة. التفكير ده مش مجرد خيال علمي، ده بدأ يظهر بجدية وبيسبب قلق كبير بين الخبراء. 😟
+أماداي قال إن تطوير التكنولوجيا مش هو المشكلة، لكن المخاطر المرتبطة بيها "خطيرة جداً"، وإن لازم الشركات والحكومات تاخد وقت عشان تتعامل معاها. كوكسون رحب بفكرة التباطؤ بس قال إنها لازم تكون بالاتفاق مع الصين عشان ما يحصلش "سباق على مستوى دولي". 🌍
 
-**دعوات لتبطئة التطوير ووضع قوانين 📜**
+**طب إيه شكل الكارثة دي؟**
 
-مش بس كده، فيه دعوات قوية من قادة الصناعة دي نفسها إننا نبطئ وتيرة تطوير الذكاء الاصطناعي. داريو أموداي، رئيس شركة Anthropic، صرح علناً إنه لازم ناخد وقتنا ونفكر كويس في اللي بنعمله، لأن التقدم الحالي ممكن يكون أسرع من قدرتنا على الفهم والتحكم. ⏸️
+كوكسون قال إن أصعب سؤال هو إيه شكل "نهاية العالم بسبب الذكاء الاصطناعي" دي. ومن المخاطر اللي اتكلم عنها أماداي إن ممكن تحصل "سرب من الروبوتات" يشتغلوا زي كمبيوتر خارق ويسيطروا على الإنترنت. كوكسون شايف إن السيناريو ده ممكن يحصل في خلال 6 شهور لسنة. 😬
 
-**الهدف: تحقيق توازن بين الابتكار والأمان ⚖️**
+شركة Anthropic ردت على سيب كوكسون وقالت إنهم دايماً شفافين بخصوص إن الذكاء الاصطناعي فيه "فوائد عظيمة ومخاطر غير مسبوقة". وأكدوا إنهم بيبنوا نماذج بأقوى إجراءات أمان في الصناعة، وإنهم أول شركة نشرت إطار عمل عشان يقللوا المخاطر دي، وبيختبروا نماذجهم بشكل مكثف. 🛡️
 
-الكل متفق إن الذكاء الاصطناعي له مميزات عظيمة، لكن لازم نلاقي طريقة نحقق بيها التوازن بين الابتكار المستمر وبين إننا نتجنب المخاطر المحتملة. الهدف هو إن التقنية دي تخدم البشرية، مش إنها تتحول لخطر علينا. 🙏
+**الآراء متقسمة والشكوك موجودة**
 
-Source for summary: Google News Tech</description><guid isPermaLink="true">https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk40dU5BRzRyeUN1ajlFb0Zfb053UXBaZTdiMlJZejJIOVhKWGc3Y3RuV3I3UHUwV0hQWjZ6c0NBOWV5cXA5V1JoQ0p2SjBObmhjWlB1UUJZWkdTUnBFb284bFN0Q2RSOTZMcjJHUnM5Q3ZfMkdZcHo0ZTNYem16WlJzSGVOd1dqRXdPV0RmZjBVM1BVRnM3M19sYlFDSy1QcE1YOGkzZjhiQlFl?oc=5</guid><pubDate>Sun, 13 Sep 2026 01:52:04 GMT</pubDate></item></channel></rss>
+فيه ناس شايفين إن الكلام عن مخاطر الذكاء الاصطناعي ده مجرد "دعاية" عشان يثيروا الضجة. وناس تانية بيقولوا إن Anthropic بتحاول تمشي الموضوع عشان تمنع المنافسة وتبقى هي وOpenAI مسيطرين على السوق.
+
+حتى فيه ناس مهمة في المجال ده عندها رأي تاني. مثلاً، كليمنت ديلانج بتاع Hugging Face قال إن سؤال كوكسون عن نهاية العالم بسبب الذكاء الاصطناعي زي سؤال عامل التكييف عن تغير المناخ، يعني مش بالضرورة غلط بس لازم نحط الأمور في سياقها. 🤷‍♂️
+
+حتى رئيس Nvidia، جينسن هوانج، قال إن فكرة إن الذكاء الاصطناعي "هيكون نهاية البشرية" دي "كلام فاضي تماماً". مع إنه عنده مصلحة في ازدهار الذكاء الاصطناعي (عشان شركته بتصنع الشرائح اللي بتشغل الأنظمة دي)، كلامه ده بيعكس رد فعل متزايد في وادي السيليكون على التحذيرات الوجودية من الموظفين الحاليين والسابقين.
+
+**خوف حقيقي ولا مبالغة؟**
+
+كوكسون أكد إن زمايله بيخافوا إن الخطر ده ييجي في خلال سنتين. بعضهم بيفكروا يشتروا أرض عشان خايفين من عدم الاستقرار اللي ممكن يحصل بسبب التطور السريع ده. 😱
+
+بس كوكسون برضه عنده أمل، وبيقول إن الناس اللي شغالين في المجال ده "عايزين بجد يشوفوا الفايدة" زي "علاج الأمراض وتحسين حياة الناس".
+
+حتى عالم تاني في Anthropic اسمه إيفان هوبينجر، أكد كلام كوكسون وقال إنه شخصياً بيعتقد إن فيه "أكتر من 10%" احتمال إن الذكاء الاصطناعي "يقتل كل البشر" خلال العقد القادم. 🎲
+
+التحذيرات دي مش جديدة، قادة شركات كبيرة زي OpenAI و Google Deepmind و Anthropic كانوا بيقولوا كده من 2023، لكن التحذيرات دي زادت مؤخراً مع ظهور نماذج قوية جداً قد يكون مبدعيها بيواجهوا صعوبة في السيطرة عليها. 🚨
+
+Source for summary: BBC</description><guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss</guid><pubDate>Sun, 13 Sep 2026 07:06:41 GMT</pubDate></item></channel></rss>
